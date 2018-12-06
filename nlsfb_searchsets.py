@@ -36,8 +36,6 @@ def get_first_two_number_classsification():
     
     first_two_number_list=[]
     
-    #tokkie code
-    
     for i in sheet.col(4):
         if len(i.value) > 0:
             
@@ -50,11 +48,6 @@ def get_first_two_number_classsification():
     
     return first_two_number_list
         
-        
-        
-#for x in get_first_two_number_classsification():
-#    print x 
-    
 
 def get_classificiation_number_description():
     
@@ -87,7 +80,6 @@ def write_first_two(items, description):
 def write_xml_navisworks(items, description):
     
 
-        
     selectionset = etree.SubElement(viewfolder, "selectionset", name=(str(items) + str(description)), guid=str(uuid.uuid4()))
     findspec = etree.SubElement(selectionset, "findspec", mode="all", disjoint="0")
     conditions = etree.SubElement(findspec, "conditions")
@@ -112,7 +104,6 @@ def write_xml_navisworks(items, description):
     #############################################################
     ########## IFCB NLSFB CLASSIFICATION CONDITION ##############
     #############################################################
-    
     condition_ifc = etree.SubElement(conditions, "condition", test="equals", flags="74")
     
     category_ifc = etree.SubElement(condition_ifc, "category")
@@ -124,14 +115,10 @@ def write_xml_navisworks(items, description):
     value_ifc = etree.SubElement(condition_ifc, "value")
     data_ifc = etree.SubElement(value_ifc, "data", type="wstring").text = str(items) 
     
-    
-    
-    
-    
+
     ###############################################################
     ########## IFC NLSFB CLASSIFICATION CONDITION 2005 ############
     ###############################################################
-    
     condition_ifc_2005 = etree.SubElement(conditions, "condition", test="equals", flags="74")
     
     category_ifc_2005 = etree.SubElement(condition_ifc_2005, "category")
@@ -143,14 +130,11 @@ def write_xml_navisworks(items, description):
     value_ifc_2005 = etree.SubElement(condition_ifc_2005, "value")
     data_ifc_2005 = etree.SubElement(value_ifc_2005, "data", type="wstring").text = str(items) 
     
-    
-    
-    
+
     
     ###############################################################
     ############### ARCHICAD ITEM REFERENCE #######################
     ###############################################################
-    
     condition_archicad = etree.SubElement(conditions, "condition", test="equals", flags="74")
     
     category_archicad = etree.SubElement(condition_archicad, "category")
@@ -163,16 +147,9 @@ def write_xml_navisworks(items, description):
     data_archicad = etree.SubElement(value_archicad, "data", type="wstring").text =   str(items) 
     
     
-    
-    
-    
-    
-    
-    #Deze nog afmaken aan de hand van voorbeeld IFC bestand de Loef 
     ###############################################################
     ############### UNIFORMAT CLASSIFICATION ######################
     ###############################################################
-    
     condition_uniformat_classfication = etree.SubElement(conditions, "condition", test="equals", flags="74")
     
     category_uniformat_classification = etree.SubElement(condition_uniformat_classfication, "category")
@@ -185,22 +162,15 @@ def write_xml_navisworks(items, description):
     data_uniformat_classification = etree.SubElement(value_uniformat_classification , "data", type="wstring").text =   str(items) 
     
 
-    
-    #CLASSIFICATION: UNIFORMAT CLASSIFCATION
-    
     ###########################################################################
-    ############# GEEN IDEE WAT DIT DOET, MAAR IS BLIJKBAAR NODIG #############
+    ##########################    LOCATOR   ###################################
     ###########################################################################
-    
     locator = etree.SubElement(findspec, "locator").text = "/"
 
     
 
 
-#STAP 1: NEGEN HOOFDMAPEN MAKEN
-#STAP 2: SUBMAPPEN MAKEN
-#STAP 3: SEARCHSETS MAKEN
-#STAP 4: IFC SEARCHSETS TOEVOEGEN
+
 
 #CREATE MAIN FOLDERS
 for nlsfb_folder in nl_sfb_folder_list:
@@ -222,13 +192,6 @@ for nlsfb_folder in nl_sfb_folder_list:
 
                     write_xml_navisworks(items=str(i[0]), description=str(i[1]))
                     
- 
-                    
-                    
-
-
-  
-  
   
   
 tree = etree.ElementTree(root)
@@ -238,29 +201,7 @@ tree.write('nlsfb_check_neverworks.xml', encoding="utf-8", xml_declaration=True,
 
 
 
-"""
-# Declare filenames
-navis_works_xml_file = 'nlsfb_check_neverworks.xml'
-tree = etree.ElementTree(root)
-tree.write(navis_works_xml_file, encoding="utf-8", xml_declaration=True, pretty_print=True)           
- 
- 
 
-# Open original file
-tree = etree.parse(navis_works_xml_file)
-root = tree.getroot()
-
-# Edit file
-for tag_exchange in (root.iter('exchange')):
-    tag_exchange.set('xmlns:xsi', 'http://www.w3.org/2001/XMLSchema-instance') 
-    tag_exchange.set('xsi:noNamespaceSchemaLocation', 'http://download.autodesk.com/us/navisworks/schemas/nw-exchange-12.0.xsd')
- 
-
- 
-tree.write(navis_works_xml_file, encoding="utf-8", xml_declaration=True)
-
-    
-"""    
 
 
     
