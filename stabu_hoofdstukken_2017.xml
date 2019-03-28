@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Takeoff xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://download.autodesk.com/us/navisworks/schemas/nw-TakeoffCatalog-10.0.xsd">
+  <Catalog>
+    <ResourceGroup CatalogId="89a0757e-f493-4197-830e-a534c8a70bd3" Name="VOOR HET WERK GELDENDE VOORWAARDEN UAV 2012" RBS="00">
+      <Resource CatalogId="17525198-d36d-4604-bacf-bf63f64b9bda" Name="VAN TOEPASSING ZIJNDE VOORWAARDEN EN VOORSCHRIFTEN" RBS="00.01"/>
+      <Resource CatalogId="c330fb0d-753c-4fe6-b54d-22aafd83f942" Name="AANVULLENDE ADMINISTRATIEVE BEPALINGEN UAV 2012" RBS="00.02"/>
+      <Resource CatalogId="137cf518-3429-4336-84a5-7e7832913e8b" Name="VERZEKERINGEN" RBS="00.03"/>
+      <Resource CatalogId="419332b3-f4c1-40ee-a841-64a5d2dfca6c" Name="VERREKENING WIJZIGING KOSTEN EN PRIJZEN" RBS="00.04"/>
+      <Resource CatalogId="5ccfa637-cb1e-4a2b-bd2a-42a8904c44f6" Name="TEKENINGEN EN BEREKENINGEN" RBS="00.05"/>
+      <Resource CatalogId="490a4d3c-de32-47cb-9438-e94ba0f499f6" Name="ARBEIDSOMSTANDIGHEDEN" RBS="00.06"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="895617e8-72f8-4e84-bef2-a5ac695db78e" Name="VOOR HET WERK GELDENDE VOORWAARDEN U.A.V. 1989" RBS="01">
+      <Resource CatalogId="c5265294-986f-4e56-bb83-d50978250c8d" Name="VAN TOEPASSING ZIJNDE VOORWAARDEN EN VOORSCHRIFTEN" RBS="01.01"/>
+      <Resource CatalogId="e155ede9-ef86-4e5a-868d-d4b139410134" Name="AANVULLENDE ADMINISTRATIEVE BEPALINGEN U.A.V. 1989" RBS="01.02"/>
+      <Resource CatalogId="7c09cbf1-88b5-4c0e-8e9a-e06c0902da6c" Name="VERZEKERINGEN" RBS="01.03"/>
+      <Resource CatalogId="e793a8e1-2daa-4653-b453-f681ed94959e" Name="VERREKENING WIJZIGING KOSTEN EN PRIJZEN" RBS="01.04"/>
+      <Resource CatalogId="bcc51255-4a02-4bac-9bd6-d3d18bb4d8e9" Name="TEKENINGEN EN BEREKENINGEN" RBS="01.05"/>
+      <Resource CatalogId="f5da5140-8730-4235-aee0-e161cae7fdae" Name="ARBEIDSOMSTANDIGHEDEN" RBS="01.06"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="bc334b96-d6ac-457c-9902-6baf37e13485" Name="BOUWPLAATSVOORZIENINGEN" RBS="05">
+      <Resource CatalogId="ac6ea82d-f143-41ba-ade2-f25daed02273" Name="ALGEMEEN" RBS="05.00"/>
+      <Resource CatalogId="1e1c4d9e-438d-48c0-b3ff-89ffdc98d587" Name="LOODSEN EN KETEN" RBS="05.31"/>
+      <Resource CatalogId="5bd79792-13fd-46da-be44-0910f26a87e4" Name="BESCHIKBAARSTELLING MATERIEEL" RBS="05.32"/>
+      <Resource CatalogId="9848e7cd-56cc-439f-a907-7e255ed2cdf2" Name="BESCHIKBAARSTELLING PERSONEEL" RBS="05.33"/>
+      <Resource CatalogId="e0931760-d871-47a6-ad53-8369d201b505" Name="SCHOONMAKEN EN PREVENTIEF ONDERHOUD NIEUW WERK" RBS="05.34"/>
+      <Resource CatalogId="69305147-fc8f-4790-843d-7600d9d660ec" Name="INRICHTING WERKTERREIN" RBS="05.41"/>
+      <Resource CatalogId="6ca59f3a-6d37-4636-ab47-f4e48f3cc2e0" Name="AFSLUITINGEN EN RECLAME" RBS="05.42"/>
+      <Resource CatalogId="f18888d2-bcac-49ea-bfdc-195fc4d299fc" Name="TIJDELIJKE TERREINVERHARDINGEN" RBS="05.43"/>
+      <Resource CatalogId="58becda7-76ff-4fbb-9fc0-7e8e6ba83054" Name="MAATVOERING" RBS="05.50"/>
+      <Resource CatalogId="5d5b149b-a08c-4551-a003-ee5dbc85ea02" Name="OPMETEN" RBS="05.51"/>
+      <Resource CatalogId="7947fee4-a977-41ec-a6d2-b787500e1f65" Name="UITZETTEN" RBS="05.52"/>
+      <Resource CatalogId="8153b964-acde-4ad7-9164-a8fb1828dcc2" Name="TIJDELIJKE DRAINAGE" RBS="05.61"/>
+      <Resource CatalogId="bb3cf7fa-b651-44d4-9e56-6ac3f81cfd04" Name="TIJDELIJKE BEMALING" RBS="05.62"/>
+      <Resource CatalogId="1655ecac-1a01-411f-9227-e94d1b839801" Name="TIJDELIJKE DAMWANDEN" RBS="05.71"/>
+      <Resource CatalogId="5b44ec77-8769-4e10-af8c-df9531359310" Name="TIJDELIJKE PAALFUNDERINGEN" RBS="05.72"/>
+      <Resource CatalogId="378de834-9cac-4f9f-b49c-697a0dccb940" Name="ANKERS TIJDELIJKE DAMWANDEN" RBS="05.73"/>
+      <Resource CatalogId="1d043f5d-2f42-4ebb-8831-84efdd92f356" Name="BEWERKINGEN TIJDELIJKE FUNDERINGSPALEN" RBS="05.74"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="cb016bb6-48ac-4a67-b4b2-993a37eb4989" Name="DOOR DE AANNEMER AAN TE LEVEREN DOCUMENTEN" RBS="06">
+      <Resource CatalogId="70e0a473-0b25-4fe6-8712-a450a2f96dbb" Name="ALGEMEEN" RBS="06.00"/>
+      <Resource CatalogId="b4c039e6-0275-4d6d-a113-bfbed47b22b3" Name="VERZEKERDE GARANTIE" RBS="06.31"/>
+      <Resource CatalogId="84a0ab33-49db-4c93-b87e-6081b9242217" Name="TEKENINGEN BOUWKUNDE" RBS="06.41"/>
+      <Resource CatalogId="f26bd524-5334-44c7-96dd-298f06d9151a" Name="BEREKENINGEN BOUWKUNDE" RBS="06.42"/>
+      <Resource CatalogId="15a66c9a-5481-4143-bcdf-2eaebab0de29" Name="RAPPORTEN BOUWKUNDE" RBS="06.43"/>
+      <Resource CatalogId="325a85ae-7cb2-4077-a68a-f50006d15271" Name="REVISIEBESCHEIDEN BOUWKUNDE" RBS="06.44"/>
+      <Resource CatalogId="9d4860e6-b790-475c-8d64-78aba382db8f" Name="OPLEVERINGSBESCHEIDEN BOUWKUNDE" RBS="06.45"/>
+      <Resource CatalogId="e2c5a9a5-bdf2-4a08-970a-631fa9876ed0" Name="WERKPLANNEN/STATEN BOUWKUNDE" RBS="06.46"/>
+      <Resource CatalogId="ca75add5-f007-47ee-bcba-6a3b99fd107c" Name="TEKENINGEN/SCHEMA'S WERKTUIGBOUWKUNDE" RBS="06.51"/>
+      <Resource CatalogId="9d79b8a6-30ff-4a92-b811-febd0f136e9f" Name="BEREKENINGEN WERKTUIGBOUWKUNDE" RBS="06.52"/>
+      <Resource CatalogId="852b8d75-f021-49b6-8277-e99a10ea92d3" Name="INREGELEN WERKTUIGBOUWKUNDE" RBS="06.53"/>
+      <Resource CatalogId="eb01b5bc-2956-45db-ab6f-2fff39acd688" Name="BEPROEVEN WERKTUIGBOUWKUNDE" RBS="06.54"/>
+      <Resource CatalogId="de251b11-06e3-4999-8b50-4224014a9fd8" Name="IN BEDRIJF STELLEN WERKTUIGBOUWKUNDE" RBS="06.55"/>
+      <Resource CatalogId="efa24eb4-9521-4260-9429-656af3cb105b" Name="BESCHEIDEN WERKTUIGBOUWKUNDE" RBS="06.56"/>
+      <Resource CatalogId="bc59fcc4-8da0-4956-aae2-650fedec60f5" Name="INSTRUCTIE/OPLEIDING WERKTUIGBOUWKUNDE" RBS="06.58"/>
+      <Resource CatalogId="918c801e-ac38-49cf-a6e6-85d25a722780" Name="TEKENINGEN/SCHEMA'S ELEKTROTECHNIEK" RBS="06.61"/>
+      <Resource CatalogId="5923f37b-03e2-4688-b9fa-509d03dff2a7" Name="BEREKENINGEN ELEKTROTECHNIEK" RBS="06.62"/>
+      <Resource CatalogId="ef5be516-96c9-4b09-9689-c35c378e6dfa" Name="BEPROEVING ELEKTROTECHNIEK" RBS="06.63"/>
+      <Resource CatalogId="0e2d0022-db39-4e7a-8639-ffd32a3e04d8" Name="KEURING/INSPECTIE ELEKTROTECHNIEK" RBS="06.64"/>
+      <Resource CatalogId="9513bdd8-94cc-4c5f-a434-ac416739af38" Name="IN BEDRIJF STELLEN ELEKTROTECHNIEK" RBS="06.65"/>
+      <Resource CatalogId="e671b72b-1d66-4a9b-9e9a-16f4f5bd744e" Name="BESCHEIDEN ELEKTROTECHNIEK" RBS="06.66"/>
+      <Resource CatalogId="89c37eef-877e-462d-9dff-e0a5cdfe3501" Name="INSTRUCTIE/OPLEIDING ELEKTROTECHNIEK" RBS="06.68"/>
+      <Resource CatalogId="885e0acc-1986-450c-a006-8c2f4b8035a8" Name="TEKENINGEN/SCHEMA'S TRANSPORT" RBS="06.71"/>
+      <Resource CatalogId="6b7bddba-09e0-48f7-97c1-2fbba924a8d0" Name="BEREKENINGEN TRANSPORT" RBS="06.72"/>
+      <Resource CatalogId="02995c29-0eb3-4a49-a12d-499d536d1ab4" Name="BEPROEVING TRANSPORT" RBS="06.73"/>
+      <Resource CatalogId="3649c742-caa4-4c62-985e-2197f9ccfb24" Name="KEURING/INSPECTIE TRANSPORT" RBS="06.74"/>
+      <Resource CatalogId="081520e1-5b57-4a8d-a67a-c91c16a30757" Name="IN BEDRIJF STELLEN TRANSPORT" RBS="06.75"/>
+      <Resource CatalogId="f4a55067-558b-441c-a7b4-35e2eed1bbd9" Name="BESCHEIDEN TRANSPORT" RBS="06.76"/>
+      <Resource CatalogId="d4da1a92-0c01-48c2-b46d-42d34c4230bb" Name="INSTRUCTIE/OPLEIDING TRANSPORT" RBS="06.78"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="cdf2097c-dcbb-44e3-8cef-89c00f6c533f" Name="STUT- EN SLOOPWERK" RBS="10">
+      <Resource CatalogId="e9da7cc2-363c-46c0-9e4c-a08b0f0e58de" Name="ALGEMEEN" RBS="10.00"/>
+      <Resource CatalogId="b5fdb6b9-7f8c-4dfb-a3ad-877886b1c817" Name="TOTAAL SLOOPWERK" RBS="10.31"/>
+      <Resource CatalogId="152b2396-5ed3-42aa-ac0e-7cdf31c50fd0" Name="PLAATSELIJK SLOOPWERK" RBS="10.32"/>
+      <Resource CatalogId="347a1bd9-0649-4823-ae50-9c684944691b" Name="STUTWERK" RBS="10.40"/>
+      <Resource CatalogId="2d0b4c11-0c9c-4a2f-9b13-c54ccb422905" Name="HAK- EN BREEKWERK" RBS="10.50"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="428d910c-f1c8-429b-8504-75492371fa46" Name="GRONDWERK" RBS="12">
+      <Resource CatalogId="8e28d083-b1fa-47ac-a639-68c8f2110c77" Name="ALGEMEEN" RBS="12.00"/>
+      <Resource CatalogId="067433c9-8455-4d82-b5a3-859b36627683" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="12.21"/>
+      <Resource CatalogId="320d3f68-c2c4-48ce-aca6-bc6dbbcd0e89" Name="REINIGEN BESTAAND WERK" RBS="12.22"/>
+      <Resource CatalogId="9c857c4d-5312-4a4f-86a4-7c591448a10c" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="12.23"/>
+      <Resource CatalogId="d525c2f9-402d-4291-9660-a1bc503a0d69" Name="INJECTEREN BESTAAND WERK" RBS="12.24"/>
+      <Resource CatalogId="cf187d85-40d0-4c0a-8eae-ee23d6b4effe" Name="HERSTELLEN BESTAAND WERK" RBS="12.25"/>
+      <Resource CatalogId="33bc9c3a-887a-45df-af04-3a6b2497b4c1" Name="AANPASSEN BESTAAND WERK" RBS="12.26"/>
+      <Resource CatalogId="2af98780-5e08-430a-aae5-53609ef0afa5" Name="HERPLAATSEN BESTAAND WERK" RBS="12.27"/>
+      <Resource CatalogId="af6be98d-8868-4d6c-babb-8abdd86b4119" Name="BOUWRIJP MAKEN" RBS="12.30"/>
+      <Resource CatalogId="06eda2d1-1ad5-4aaa-bcfd-7aa27cedb492" Name="ONTGRAVEN VAN GROND" RBS="12.40"/>
+      <Resource CatalogId="4b061d50-6001-4f48-a426-2d636468bf88" Name="VERWERKEN VAN GROND EN GRONDVERVANGENDE MATERIALEN" RBS="12.50"/>
+      <Resource CatalogId="0360bfc5-f575-41b6-b113-b106788e29cc" Name="VERDICHTEN VAN GROND" RBS="12.60"/>
+      <Resource CatalogId="330bbd5b-09a0-4f39-a39b-378ed93dd57a" Name="BEWERKEN VAN GROND" RBS="12.70"/>
+      <Resource CatalogId="d4400b02-391a-4aac-870b-e70426b4b0b6" Name="FOLIES EN WEEFSELS" RBS="12.81"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="eb831ef9-3a48-4619-804e-9ac60ffb6eb8" Name="BUITENRIOLERING EN DRAINAGE" RBS="14">
+      <Resource CatalogId="24f6c0c3-9f18-4da9-beac-2170a613aff7" Name="ALGEMEEN" RBS="14.00"/>
+      <Resource CatalogId="86155bdd-cd03-48c9-bc20-177dd75e4d90" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="14.11"/>
+      <Resource CatalogId="8cba1ffa-b539-44ba-b02f-d5d27d59eb32" Name="TEKENINGEN EN BEREKENINGEN" RBS="14.12"/>
+      <Resource CatalogId="8259251d-9e6d-4ed5-bee8-a9c594990357" Name="BEPROEVEN, INREGELEN, IN BEDRIJF STELLEN EN CONTROLEREN" RBS="14.13"/>
+      <Resource CatalogId="3d9a8b91-8594-477b-8bbf-aaf912a5c255" Name="BESTAAND WERK" RBS="14.20"/>
+      <Resource CatalogId="981f969e-7aeb-49a4-85c7-3fa8f185cd1f" Name="STEENACHTIGE BUISLEIDINGEN" RBS="14.31"/>
+      <Resource CatalogId="4b4a2c93-669e-4628-b8ba-ed84f2a55d81" Name="METALEN BUISLEIDINGEN" RBS="14.32"/>
+      <Resource CatalogId="58921773-c59a-42ab-a467-2f6fbf9a0af8" Name="KUNSTSTOF BUISLEIDINGEN" RBS="14.33"/>
+      <Resource CatalogId="e6a65813-536f-45c6-8347-14fe91fa4ef4" Name="VERBINDINGEN" RBS="14.38"/>
+      <Resource CatalogId="5de58074-cb80-4c79-832c-cd0e4843f9c4" Name="GOTEN" RBS="14.40"/>
+      <Resource CatalogId="0138247c-b14f-490c-8658-f60f826c8d89" Name="PUTTEN" RBS="14.51"/>
+      <Resource CatalogId="b914c785-2aab-4608-8c83-ed8a98cb9a74" Name="AFSCHEIDERS" RBS="14.52"/>
+      <Resource CatalogId="311563d6-86c2-4f6a-8078-1ec3bf7084ba" Name="KOLKEN" RBS="14.53"/>
+      <Resource CatalogId="8dd404f6-513c-40ff-9cc9-12b5011e520a" Name="TANKS" RBS="14.54"/>
+      <Resource CatalogId="8a4eceb8-9246-42f5-ba26-23be3591160a" Name="APPENDAGES" RBS="14.60"/>
+      <Resource CatalogId="e3388b38-6831-4c7c-ac46-e5f24b5c1001" Name="APPENDAGES IN LEIDINGEN" RBS="14.61"/>
+      <Resource CatalogId="b995e87a-7b04-4f39-98cc-51fb81eb1372" Name="ISOLATIE" RBS="14.81"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="92bb803a-7dff-480b-84de-544b3f50e381" Name="TERREINVERHARDINGEN" RBS="15">
+      <Resource CatalogId="b22c6ea6-6c0a-4e59-b051-0788678ba46d" Name="ALGEMEEN" RBS="15.00"/>
+      <Resource CatalogId="0f539967-1222-4e27-ada3-dbed48d99f47" Name="FUNCTIONELE OMSCHRIJVING, TERREINVERHARDING" RBS="15.11"/>
+      <Resource CatalogId="3f15356c-2106-4eb7-a2b1-5a6e26a7b700" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="15.21"/>
+      <Resource CatalogId="5c30c1eb-2d70-4c2e-bf79-88215456e2cd" Name="REINIGEN BESTAAND WERK" RBS="15.22"/>
+      <Resource CatalogId="db80abd2-a277-4550-b7bc-3f856c381937" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="15.23"/>
+      <Resource CatalogId="c1a2d6b3-5cfc-47a6-a8cb-120986f6c392" Name="INJECTEREN BESTAAND WERK" RBS="15.24"/>
+      <Resource CatalogId="4f2aae0e-9c21-405a-bdd3-ded80847e06a" Name="HERSTELLEN BESTAAND WERK" RBS="15.25"/>
+      <Resource CatalogId="befe0ba5-64d5-4eb2-8d41-ce4af0773e96" Name="AANPASSEN BESTAAND WERK" RBS="15.26"/>
+      <Resource CatalogId="a5ec5919-0990-42de-87bc-cbbabef764a5" Name="HERPLAATSEN BESTAAND WERK" RBS="15.27"/>
+      <Resource CatalogId="0c1a55bf-c94a-4f06-b550-0a11168ecc00" Name="ONDERHOUDEN BESTAAND WERK" RBS="15.28"/>
+      <Resource CatalogId="173d455f-2f1e-4a69-ad0c-34e3db7aaae6" Name="KANTOPSLUITINGEN MET BANDEN" RBS="15.31"/>
+      <Resource CatalogId="f513a1e3-33b1-4a33-8c3f-099d91fc0484" Name="VOORZIENINGEN KANTOPSLUITINGEN" RBS="15.38"/>
+      <Resource CatalogId="80d3308a-3415-46a2-ae3b-9294c9759a45" Name="STRAATSTEENBESTRATING" RBS="15.41"/>
+      <Resource CatalogId="616c9c2b-7fda-43f9-9170-f30cb711fa97" Name="TEGELBESTRATING" RBS="15.42"/>
+      <Resource CatalogId="40ce11e2-dec2-4ac9-996b-d123a28ca319" Name="KEIENBESTRATING" RBS="15.43"/>
+      <Resource CatalogId="316f9ead-0d42-43e7-989d-d8880e41e3f4" Name="BEDRIJFSVLOERPLAAT BESTRATING" RBS="15.44"/>
+      <Resource CatalogId="a91fb13a-a94c-4b61-b8eb-f617719141dc" Name="OPPERVLAKTEBEHANDELINGEN ASFALTVERHARDING" RBS="15.51"/>
+      <Resource CatalogId="aff5df89-829e-46af-a377-a1f5c7b960da" Name="ASFALTVERHARDINGEN" RBS="15.52"/>
+      <Resource CatalogId="513210d4-a3a2-4704-bc62-e02cb0127b07" Name="BETONVERHARDINGEN" RBS="15.61"/>
+      <Resource CatalogId="499cc020-28b2-4e39-86d5-7066139b5daf" Name="VERHARDINGSLAGEN VAN STEENMENGSEL" RBS="15.71"/>
+      <Resource CatalogId="af6f3284-4e8d-4cfd-a5f4-f233830b944d" Name="GELEIDINGSCONSTRUCTIES" RBS="15.81"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="e0ed9186-044b-4516-beef-91035ee23549" Name="BEPLANTING" RBS="16">
+      <Resource CatalogId="114c9df7-4a57-4d0d-9ae1-5540cdcb5217" Name="ALGEMEEN" RBS="16.00"/>
+      <Resource CatalogId="83e50e15-da2d-4f01-a492-d32f42774ac5" Name="WINNEN BEPLANTING" RBS="16.21"/>
+      <Resource CatalogId="06d21396-12b8-409c-9d1e-342e8c7edb92" Name="ONDERHOUD BEPLANTING" RBS="16.22"/>
+      <Resource CatalogId="a7b71cd1-db6a-42c6-9be5-5ccc69f947bb" Name="GRONDVERBETERING" RBS="16.30"/>
+      <Resource CatalogId="33e2d341-e933-401b-8a6d-3522c7946e4b" Name="ZAAIEN" RBS="16.41"/>
+      <Resource CatalogId="36df22cb-ffed-4cf3-9ede-431030fdfb02" Name="POTEN" RBS="16.42"/>
+      <Resource CatalogId="37440e16-9513-4a24-90b5-67a3e6fa6589" Name="BEZODEN" RBS="16.43"/>
+      <Resource CatalogId="72f4c984-59ce-40d2-9e0f-beef7d1c9dec" Name="PLANTEN" RBS="16.51"/>
+      <Resource CatalogId="de47726d-78d1-48f8-a600-d1581f07cc79" Name="VERPLANTEN" RBS="16.52"/>
+      <Resource CatalogId="50473cc1-1b49-4c1b-a25a-09c046ba89bc" Name="WATER GEVEN" RBS="16.60"/>
+      <Resource CatalogId="7cb9237e-ac32-44d1-a835-f1003cbc18ee" Name="STELPOSTEN" RBS="16.80"/>
+      <Resource CatalogId="ff1db7ef-f61b-44ef-a89f-c6b1aaf36479" Name="FOLIES EN WEEFSELS" RBS="16.81"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="32a1b727-893b-42d0-a30c-bc27135a2f79" Name="TERREININRICHTING" RBS="17">
+      <Resource CatalogId="0cd7997c-4938-4f30-a0b2-e76ddd4a8d8f" Name="ALGEMEEN" RBS="17.00"/>
+      <Resource CatalogId="83bd9e3c-1ea8-4240-b10f-9e7e91cbf38f" Name="WERKBESCHEIDEN" RBS="17.12"/>
+      <Resource CatalogId="53c70287-cbd3-4319-8eae-5f9a0ab256f3" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="17.21"/>
+      <Resource CatalogId="8e47ebb2-d945-4c32-8105-775639996129" Name="REINIGEN BESTAAND WERK" RBS="17.22"/>
+      <Resource CatalogId="90911000-eaae-4303-a7ae-8ae75190d492" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="17.23"/>
+      <Resource CatalogId="fff42a4f-a968-4611-8f0c-4757b126a523" Name="INJECTEREN BESTAAND WERK" RBS="17.24"/>
+      <Resource CatalogId="129bc9d1-372e-473a-acc1-a80c4840605e" Name="HERSTELLEN BESTAAND WERK" RBS="17.25"/>
+      <Resource CatalogId="3017ee46-89e6-4dd5-80da-9706849396a9" Name="AANPASSEN BESTAAND WERK" RBS="17.26"/>
+      <Resource CatalogId="bde5c84b-56a6-4f4e-91ea-6cc63f385fb0" Name="HERPLAATSEN BESTAAND WERK" RBS="17.27"/>
+      <Resource CatalogId="4274f344-e822-45ee-89fe-cde3f4ce2f6c" Name="ONDERHOUDEN BESTAAND WERK" RBS="17.28"/>
+      <Resource CatalogId="d8f56438-b59d-499f-b323-d70c34b3f9e1" Name="GEBOUWEN/BOUWWERKEN" RBS="17.31"/>
+      <Resource CatalogId="99d27865-de1d-40bb-95d3-86c786973aba" Name="TERREINMEUBILAIR" RBS="17.32"/>
+      <Resource CatalogId="3832cd94-0549-4f40-826f-2961b2c05b37" Name="SPORT-, TRIM- EN SPEELTOESTELLEN" RBS="17.33"/>
+      <Resource CatalogId="24458096-d142-43a3-be12-c268f657760b" Name="VERKEERSVOORZIENINGEN, BEWEGWIJZERING EN RECLAME" RBS="17.34"/>
+      <Resource CatalogId="e6cd0190-8628-4ba7-aa87-98e5f3f2f201" Name="DECORATIEVE OBJECTEN" RBS="17.35"/>
+      <Resource CatalogId="aa9d7d5d-c966-48e8-aeeb-526ba7fa9876" Name="AFRASTERINGEN, VOORAF VERVAARDIGD" RBS="17.41"/>
+      <Resource CatalogId="eb70eebe-fca7-4406-9692-d13462a7b22c" Name="POORTEN EN HEKKEN, VOORAF VERVAARDIGD" RBS="17.42"/>
+      <Resource CatalogId="6560b07f-3abd-4189-80b7-28ade3e8a1b6" Name="GELUIDWERINGSSCHERMEN, VOORAF VERVAARDIGD" RBS="17.43"/>
+      <Resource CatalogId="98ac3a0b-5ebd-4e79-84f6-91e8073d758a" Name="TIMMERWERK, IN HET WERK VERVAARDIGDE OBJECTEN" RBS="17.51"/>
+      <Resource CatalogId="b2d66dc2-92f2-4ff8-9a21-abdb033a9a4c" Name="AFRASTERINGEN, IN HET WERK VERVAARDIGD" RBS="17.52"/>
+      <Resource CatalogId="2469bf52-dc01-4908-bcad-085be5ae980a" Name="STELPOSTEN" RBS="17.80"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="807165e0-a905-4de3-b176-b95238323ae8" Name="FUNDERINGSPALEN EN DAMWANDEN" RBS="20">
+      <Resource CatalogId="d4e3e229-0ed8-4863-9297-5e3d135f9e8d" Name="ALGEMEEN" RBS="20.00"/>
+      <Resource CatalogId="84dea4df-5b59-4a2d-a906-1ec3760c4315" Name="BEPROEVEN, CONTROLEREN" RBS="20.13"/>
+      <Resource CatalogId="daa15f3e-0ec3-4bd9-aa72-7fe5527d6b08" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="20.21"/>
+      <Resource CatalogId="2b1738b7-e571-469d-b861-2e657ba15633" Name="REINIGEN BESTAAND WERK" RBS="20.22"/>
+      <Resource CatalogId="6cae73c3-bfe3-4aac-ab1a-945216eefba5" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="20.23"/>
+      <Resource CatalogId="5719ffbc-32c8-417b-b878-1ba245fa6df0" Name="INJECTEREN BESTAAND WERK" RBS="20.24"/>
+      <Resource CatalogId="152a9c27-8b5b-464b-97a4-a40889d1fc6d" Name="HERSTELLEN BESTAAND WERK" RBS="20.25"/>
+      <Resource CatalogId="b8642228-fb3d-471f-9ef2-a22c2cecba71" Name="AANPASSEN BESTAAND WERK" RBS="20.26"/>
+      <Resource CatalogId="73159a11-c0a5-4aa3-af7d-ebad91e044fd" Name="HERPLAATSEN BESTAAND WERK" RBS="20.27"/>
+      <Resource CatalogId="02786323-7220-4de0-ae3a-933cd341b01f" Name="ONDERHOUDEN BESTAAND WERK" RBS="20.28"/>
+      <Resource CatalogId="1cc87dd4-e6a6-4e3b-b8f9-8a2dbf6d4365" Name="PAALFUNDERINGEN VAN VOORAF VERVAARDIGDE PALEN" RBS="20.31"/>
+      <Resource CatalogId="6b4c1ce0-9892-419b-9ee0-ad40e8f6543a" Name="IN DE GROND GEVORMDE PALEN" RBS="20.32"/>
+      <Resource CatalogId="c3f2aa62-0b2c-4518-a331-f790010e0ab5" Name="BEWERKINGEN FUNDERINGSPALEN" RBS="20.37"/>
+      <Resource CatalogId="d4fe97db-de38-4114-9641-d531f8dc66f8" Name="DAMWANDEN VAN VOORAF VERVAARDIGDE DAMWANDPROFIELEN" RBS="20.41"/>
+      <Resource CatalogId="d98b7afb-1bde-4245-985a-b979a66d468e" Name="IN DE GROND GEVORMDE DAMWANDEN" RBS="20.42"/>
+      <Resource CatalogId="3a609381-33e2-4e2d-9a9d-772038c41d05" Name="DAMWANDVERANKERINGEN" RBS="20.43"/>
+      <Resource CatalogId="cb85a2e6-479d-4c4f-9a91-45bdf9628e6b" Name="BEWERKINGEN DAMWANDEN" RBS="20.47"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="59ad451e-8706-4d64-a915-28a3b71fa084" Name="BETONWERK" RBS="21">
+      <Resource CatalogId="fa00c66b-21ae-4899-b39e-7f452e2b78b3" Name="ALGEMEEN" RBS="21.00"/>
+      <Resource CatalogId="0683d92f-8289-4cdb-bc80-151424dbdca3" Name="BEPROEVEN, KEUREN, CONTROLEREN" RBS="21.13"/>
+      <Resource CatalogId="7abbc69a-b791-4077-8d6c-e597fc531b1b" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="21.21"/>
+      <Resource CatalogId="5120e7bf-414c-4e66-b931-7c4d46542793" Name="REINIGEN BESTAAND WERK" RBS="21.22"/>
+      <Resource CatalogId="e9d80862-69c2-40fe-8567-eefd6a4f6903" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="21.23"/>
+      <Resource CatalogId="038aca9f-3a86-4c6b-be1c-6177ca75f874" Name="INJECTEREN BESTAAND WERK" RBS="21.24"/>
+      <Resource CatalogId="ee1fc435-026f-4f38-8184-622be96aef7e" Name="HERSTELLEN BESTAAND WERK" RBS="21.25"/>
+      <Resource CatalogId="67f92937-b1c0-45e0-a798-5005990183d1" Name="AANPASSEN BESTAAND WERK" RBS="21.26"/>
+      <Resource CatalogId="cbf53597-cd91-4ee9-b32b-3a75e88b29a0" Name="HERPLAATSEN BESTAAND WERK" RBS="21.27"/>
+      <Resource CatalogId="8456eb22-ea8a-4264-8863-b6a2d9bf6990" Name="ONDERHOUDEN BESTAAND WERK" RBS="21.28"/>
+      <Resource CatalogId="246c663f-ccf0-4550-8311-b519505c2f88" Name="VERLOREN BEKISTING" RBS="21.31"/>
+      <Resource CatalogId="d6bf99bc-3f55-4f3b-8cfe-8f48a58600eb" Name="TIJDELIJKE BEKISTING" RBS="21.32"/>
+      <Resource CatalogId="f8eecb9d-c3c5-4219-9587-e2ae980feb2b" Name="STAALBETONVLOER" RBS="21.33"/>
+      <Resource CatalogId="e4457fd9-a8a3-45cd-b228-927e158eeae8" Name="WAPENINGSWERK" RBS="21.40"/>
+      <Resource CatalogId="1e5a07bb-791c-48f3-be3e-e313e6504856" Name="IN HET WERK GESTORT BETON" RBS="21.50"/>
+      <Resource CatalogId="1856aced-86c1-49fe-9f46-a6cf6a1824a5" Name="IN HET WERK GESTORT BETON, MONOLITISCH AFGEWERKT" RBS="21.51"/>
+      <Resource CatalogId="a24eaa13-0bc4-4314-b19e-1da906bad223" Name="IN HET WERK GESTORT SCHUIMBETON" RBS="21.52"/>
+      <Resource CatalogId="dff1cf36-ffff-4d24-bd5f-89d8e880836d" Name="IN HET WERK GESTORT BETON, GEWICHTBESPARENDE VOORZ." RBS="21.53"/>
+      <Resource CatalogId="dc158bbc-6c67-4796-97bb-dec274bf83ff" Name="VOORSPANNING" RBS="21.60"/>
+      <Resource CatalogId="4ecf7ca3-f36d-40cd-a292-7ffba92b0917" Name="NABEHANDELING" RBS="21.71"/>
+      <Resource CatalogId="e2615a68-50d3-468d-8f7e-d8ba3600cc18" Name="BEWERKING" RBS="21.72"/>
+      <Resource CatalogId="eba05efc-73e2-4569-a871-00a67afd56d1" Name="ISOLATIE" RBS="21.81"/>
+      <Resource CatalogId="5c9accf3-91fc-4921-8bde-f8d15e6760e9" Name="ANKERS EN BEVESTIGINGSMIDDELEN" RBS="21.82"/>
+      <Resource CatalogId="ad88b363-8f01-4b55-a38d-982d33a4cf85" Name="PROFIELEN" RBS="21.83"/>
+      <Resource CatalogId="b00704cf-3633-451f-9fce-86b03ea8e100" Name="OPLEGGINGEN" RBS="21.84"/>
+      <Resource CatalogId="392ef855-f458-4c7c-b800-8f82528edeac" Name="DOORVOERINGEN EN SPARINGEN" RBS="21.85"/>
+      <Resource CatalogId="9781676e-b6be-40c3-97cc-ca184bfadbc9" Name="VOCHTKERINGEN" RBS="21.86"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="b1827e77-6b65-4783-b84c-3a577a45a002" Name="METSELWERK" RBS="22">
+      <Resource CatalogId="d83ed81e-e85d-4994-a665-aa3e44b8f693" Name="ALGEMEEN" RBS="22.00"/>
+      <Resource CatalogId="e66a7877-a90e-44ec-8bba-a050e4a94e00" Name="FUNCTIONELE OMSCHRIJVINGEN" RBS="22.10"/>
+      <Resource CatalogId="00a3ee97-ccaf-457a-b8cb-2c9271061ccf" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="22.21"/>
+      <Resource CatalogId="809b28ff-bfc7-413c-842e-e0b1c9d77a2c" Name="REINIGEN BESTAAND WERK" RBS="22.22"/>
+      <Resource CatalogId="e1923ca7-2186-4753-af54-da430e4982e2" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="22.23"/>
+      <Resource CatalogId="ffa95777-848b-4474-93e7-b06b83480a06" Name="INJECTEREN BESTAAND WERK" RBS="22.24"/>
+      <Resource CatalogId="a1c16056-78a3-457d-a43e-55bc5c7525ca" Name="HERSTELLEN BESTAAND WERK" RBS="22.25"/>
+      <Resource CatalogId="545a8f31-b957-47cc-b467-d91be08a6d07" Name="AANPASSEN BESTAAND WERK" RBS="22.26"/>
+      <Resource CatalogId="f26f83fe-8afa-40af-b3f1-9e96a856dfe4" Name="HERPLAATSEN BESTAAND WERK" RBS="22.27"/>
+      <Resource CatalogId="c151cc9a-3702-4da4-a8be-241ce92f5f72" Name="ONDERHOUDEN BESTAAND WERK" RBS="22.28"/>
+      <Resource CatalogId="9588e5b9-2673-4e93-9285-3f9a9f1b2f99" Name="BAKSTEEN MET MORTEL" RBS="22.31"/>
+      <Resource CatalogId="6d6f4377-8674-4b4b-8a45-4bc35c233373" Name="KALKZANDSTEEN MET MORTEL" RBS="22.32"/>
+      <Resource CatalogId="a58b53f9-c3c8-4514-bffd-64f065fea2ff" Name="BETONSTEEN MET MORTEL" RBS="22.33"/>
+      <Resource CatalogId="71c6f99f-8ee7-4a58-9cf0-bd325d73e63e" Name="NATUURSTEEN MET MORTEL" RBS="22.34"/>
+      <Resource CatalogId="35de9419-fc26-42d0-acb3-6232056d08b0" Name="GLAZEN BOUWSTEEN MET MORTEL" RBS="22.35"/>
+      <Resource CatalogId="cc77bb7d-90b3-4d17-aefc-a2db63168192" Name="LEEMSTEEN MET MORTEL" RBS="22.36"/>
+      <Resource CatalogId="50e4e8f4-756d-4b1d-a8a7-49481e715ebf" Name="BAKSTEEN, GELIJMD" RBS="22.41"/>
+      <Resource CatalogId="92c0a394-f0e5-4a3f-a99a-f56d73fd10dc" Name="KALKZANDSTEEN, GELIJMD" RBS="22.42"/>
+      <Resource CatalogId="88b9231d-5b12-4e03-b63d-01cd7389fe4d" Name="BETONSTEEN, GELIJMD" RBS="22.43"/>
+      <Resource CatalogId="ab551980-28d6-442b-9597-b284f5162b50" Name="GIPSBLOKKEN, GELIJMD" RBS="22.44"/>
+      <Resource CatalogId="7bcceda3-68b3-4b28-8821-368899c126cf" Name="BAKSTEEN, DROOG GESTAPELD" RBS="22.51"/>
+      <Resource CatalogId="089c3abe-de1b-4a19-a55b-6554c2c32172" Name="BETONSTEEN, DROOG GESTAPELD" RBS="22.52"/>
+      <Resource CatalogId="a9dc3409-455c-47e3-9e93-6e210f364794" Name="GLAZEN BOUWSTEEN, DROOG GESTAPELD" RBS="22.55"/>
+      <Resource CatalogId="64b607e7-cc94-475d-a4dc-55d6522d8352" Name="VOORZIENINGEN IN METSELWERK" RBS="22.60"/>
+      <Resource CatalogId="f4577266-6c0c-425c-bd04-b18f1f7b5e79" Name="AFKWAST-, VERTIN- EN RAAPLAGEN" RBS="22.71"/>
+      <Resource CatalogId="0341326f-bf1e-4619-b756-ab4c49b8969e" Name="VOEGWERK" RBS="22.72"/>
+      <Resource CatalogId="e6fd3052-54c3-4216-bff3-35bd172118f5" Name="WAPENING" RBS="22.81"/>
+      <Resource CatalogId="6bdc66b8-5162-41a9-9bb4-c95f9618ab98" Name="VERANKERINGEN EN OPVANGCONSTRUCTIES" RBS="22.82"/>
+      <Resource CatalogId="eaf07509-283a-4e0c-81a1-f7585b7ffb05" Name="ISOLATIE" RBS="22.83"/>
+      <Resource CatalogId="cb580347-2d4c-4532-8673-4f32d7cf32ac" Name="VOCHTKERINGEN" RBS="22.84"/>
+      <Resource CatalogId="98dcb293-3545-4a77-a4e3-63289523b433" Name="KANAALTOEBEHOREN EN VENTILATIEVOORZIENINGEN" RBS="22.85"/>
+      <Resource CatalogId="a6e581e5-c0f7-429a-8c25-211daa6add30" Name="INFORMATIEPLAAT/-ELEMENT" RBS="22.86"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="988492f8-1853-4cb2-bbad-86b8d5ae5f88" Name="VOORAF VERVAARDIGDE STEENACHTIGE ELEMENTEN" RBS="23">
+      <Resource CatalogId="c5bd2e0b-7afc-4ad9-9377-16e2afb8c27d" Name="ALGEMEEN" RBS="23.00"/>
+      <Resource CatalogId="a21aca5a-85a2-4510-a355-1ad8ede10e0d" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="23.21"/>
+      <Resource CatalogId="17c3aa47-f92d-4c9d-93df-54e51b04ccf7" Name="REINIGEN BESTAAND WERK" RBS="23.22"/>
+      <Resource CatalogId="8ea5e12d-c047-40f0-a73e-64ebf9ea5a99" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="23.23"/>
+      <Resource CatalogId="e12918db-1659-4d63-b1d1-d146e5fa97a1" Name="INJECTEREN BESTAAND WERK" RBS="23.24"/>
+      <Resource CatalogId="ff047c29-d06e-4889-b6af-dcd9c7e7aeed" Name="HERSTELLEN BESTAAND WERK" RBS="23.25"/>
+      <Resource CatalogId="ee77da84-44fd-420d-a9e2-2c38366e0b00" Name="AANPASSEN BESTAAND WERK" RBS="23.26"/>
+      <Resource CatalogId="53b677c7-88cf-4f2e-b42d-5698982aa0b0" Name="HERPLAATSEN BESTAAND WERK" RBS="23.27"/>
+      <Resource CatalogId="6d3d770b-cbb8-43c2-bbad-b3e0259dadd6" Name="ONDERHOUDEN BESTAAND WERK" RBS="23.28"/>
+      <Resource CatalogId="a7a288b6-b9cc-4131-87c6-404d5ff5a6db" Name="CONSTRUCTIEVE ELEMENTEN" RBS="23.30"/>
+      <Resource CatalogId="ecf632f0-5a54-4891-be51-32100959ad79" Name="RUIMTELIJKE ELEMENTEN" RBS="23.31"/>
+      <Resource CatalogId="84aaa6d2-0144-486e-b445-a3a7e32d019b" Name="NIET-VRIJDRAGENDE VLOERELEMENTEN" RBS="23.41"/>
+      <Resource CatalogId="f3381a08-58e6-4ed7-819c-1f5c98be4e89" Name="VRIJDRAGENDE VLOERELEMENTEN" RBS="23.42"/>
+      <Resource CatalogId="d22551db-8246-49de-8426-c06006ed14d7" Name="DAKELEMENTEN" RBS="23.43"/>
+      <Resource CatalogId="5b6a8dcb-9492-4134-9f9b-703e0b5901dc" Name="WANDELEMENTEN" RBS="23.50"/>
+      <Resource CatalogId="ce4bbc73-bede-4c68-9af3-bb2ade282c2d" Name="KOZIJNELEMENTEN" RBS="23.51"/>
+      <Resource CatalogId="6280b7c2-9505-4644-814c-35fe6f8f174e" Name="TRAPELEMENTEN" RBS="23.61"/>
+      <Resource CatalogId="3bdac60d-651a-4eb5-9a02-ddb40929598a" Name="BALUSTRADE-ELEMENTEN" RBS="23.62"/>
+      <Resource CatalogId="485e4d43-83cc-4da6-be8f-4c05509cba5d" Name="BEKLEDINGS- EN AFDEKKINGSELEMENTEN" RBS="23.70"/>
+      <Resource CatalogId="668c6572-b929-46ea-b35f-22c3ded5852a" Name="VOCHTKERINGEN" RBS="23.81"/>
+      <Resource CatalogId="365a8b5d-9e57-4d31-b2fc-83c88408d6f9" Name="VOEGVULLINGEN" RBS="23.82"/>
+      <Resource CatalogId="f8fee5a0-e4d3-427f-9ad7-11b2c63410bf" Name="OPLEGGINGEN" RBS="23.84"/>
+      <Resource CatalogId="9e7934d6-9b80-4f23-b626-18920ff292aa" Name="DOORVOERINGEN EN SPARINGEN" RBS="23.85"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="008495b7-c112-4c2e-82ab-39959aa69ec8" Name="RUWBOUWTIMMERWERK" RBS="24">
+      <Resource CatalogId="509fabc5-c84f-4468-abdc-7c7b274d07ee" Name="ALGEMEEN" RBS="24.00"/>
+      <Resource CatalogId="eeef0ed8-8e98-42e3-86c3-58e82d83a0ed" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="24.21"/>
+      <Resource CatalogId="dd1babf8-d39b-4857-a24f-dd9a0bb42318" Name="REINIGEN BESTAAND WERK" RBS="24.22"/>
+      <Resource CatalogId="894a71f6-a809-4340-aefc-7ed4c85427ea" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="24.23"/>
+      <Resource CatalogId="70d44a93-26d7-432d-a0b6-9d356341160f" Name="INJECTEREN BESTAAND WERK" RBS="24.24"/>
+      <Resource CatalogId="380afebe-cb98-4591-8994-7002635d4689" Name="HERSTELLEN BESTAAND WERK" RBS="24.25"/>
+      <Resource CatalogId="c7a1f206-b0ce-406b-9171-1da250000e3b" Name="AANPASSEN BESTAAND WERK" RBS="24.26"/>
+      <Resource CatalogId="98534143-bced-4aae-8ca9-0b5e41e93932" Name="HERPLAATSEN BESTAAND WERK" RBS="24.27"/>
+      <Resource CatalogId="d414cb2d-5387-47d1-a592-6ffbfe9b357f" Name="ONDERHOUDEN BESTAAND WERK" RBS="24.28"/>
+      <Resource CatalogId="396a6271-0b16-4059-bf62-930c41947e5a" Name="REINIGEN" RBS="24.25"/>
+      <Resource CatalogId="11c00f02-b4c9-4320-a0fa-38aae33cf5b9" Name="BALKCONSTRUCTIES" RBS="24.31"/>
+      <Resource CatalogId="f819bd6b-9ae6-4f66-83a9-8cb4d0b763e3" Name="REGEL-, TENGEL- EN RACHELWERK" RBS="24.32"/>
+      <Resource CatalogId="8c9707d0-92c0-416f-a5a2-9bacd521bf6a" Name="BESCHIETINGEN" RBS="24.41"/>
+      <Resource CatalogId="e961cc9e-1fee-4e34-bcf1-e0eebea206f9" Name="VLAKKE-PLAATBEKLEDINGEN" RBS="24.42"/>
+      <Resource CatalogId="d91273fe-d7c2-4fb2-85be-c28a4ffecbfc" Name="GEPROFILEERDE-PLAATBEKLEDINGEN" RBS="24.43"/>
+      <Resource CatalogId="0a0b1202-6f27-435f-bc0f-071d3a115ae8" Name="PROFIELSTROKENBEKLEDINGEN" RBS="24.44"/>
+      <Resource CatalogId="91903edf-1cca-47fe-b36d-ff0bcf3495f1" Name="PANEELBEKLEDINGEN" RBS="24.45"/>
+      <Resource CatalogId="1c6b6944-319c-4794-9e04-8e00429eede0" Name="SPANTEN, LIGGERS EN KOLOMMEN" RBS="24.51"/>
+      <Resource CatalogId="3b3ec4fc-b461-411f-ab8e-09ed0ea2f5bf" Name="VLOER-, WAND- EN DAKELEMENTEN" RBS="24.52"/>
+      <Resource CatalogId="2f4f62f8-de41-448e-8452-40249d0ee742" Name="LUIFELELEMENTEN" RBS="24.53"/>
+      <Resource CatalogId="7261ba06-3bad-44ff-91e5-397015b8f37b" Name="ISOLATIE" RBS="24.81"/>
+      <Resource CatalogId="6f68eaa2-b9cd-487a-b3f8-06b5c56ace7e" Name="VOCHTKERINGEN" RBS="24.82"/>
+      <Resource CatalogId="7d47b77b-20dc-4070-8fa0-71cbde91951b" Name="DAMPREMMENDE/DAMPDOORLATENDE LAGEN" RBS="24.83"/>
+      <Resource CatalogId="087ad8c1-998a-4606-a509-13d6f94691f7" Name="OPLEGGINGEN" RBS="24.84"/>
+      <Resource CatalogId="d5c5e3de-0a33-4867-8e00-d9e96936d912" Name="ANKERS EN BEVESTIGINGSMIDDELEN" RBS="24.85"/>
+      <Resource CatalogId="a9b2f9a6-cdfb-4650-bc2f-befbfeb89261" Name="OPPERVLAKTEBEHANDELINGEN" RBS="24.86"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="b069045d-9d15-4aad-8a7e-e9d170b9db8b" Name="METAALCONSTRUCTIEWERK" RBS="25">
+      <Resource CatalogId="1492ae63-6279-4d54-90d9-2b01e9d2d534" Name="ALGEMEEN" RBS="25.00"/>
+      <Resource CatalogId="84133943-28c9-45ca-967e-c96e23c1ccaf" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="25.21"/>
+      <Resource CatalogId="3b0d4020-35de-457e-9a5b-12069cce75be" Name="REINIGEN BESTAAND WERK" RBS="25.22"/>
+      <Resource CatalogId="5faf19ad-286e-41ef-a235-a1640ade8d05" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="25.23"/>
+      <Resource CatalogId="e66c734b-14ec-4a54-a5e5-20007b6e20aa" Name="INJECTEREN BESTAAND WERK" RBS="25.24"/>
+      <Resource CatalogId="abc2ad18-b624-4a6b-819b-f2a5ceea8a27" Name="HERSTELLEN BESTAAND WERK" RBS="25.25"/>
+      <Resource CatalogId="5cf7a57d-b28c-48a7-94d5-e24bfacbc584" Name="AANPASSEN BESTAAND WERK" RBS="25.26"/>
+      <Resource CatalogId="55ebc6db-ede1-4e2f-b085-c85a1d3de142" Name="HERPLAATSEN BESTAAND WERK" RBS="25.27"/>
+      <Resource CatalogId="60385911-5e57-4b8e-8890-65c80603e91d" Name="ONDERHOUDEN BESTAAND WERK" RBS="25.28"/>
+      <Resource CatalogId="c42aff3b-631e-42e7-80ee-8f24cb720da5" Name="SKELET" RBS="25.31"/>
+      <Resource CatalogId="23621f45-ac04-4f90-b4fd-2efff8d34ab2" Name="CONSTRUCTIE-ONDERDELEN" RBS="25.32"/>
+      <Resource CatalogId="efa2ce78-72e2-4f13-b0b4-4cf96b9267ca" Name="PLATEN, PROFIELEN EN KABELS" RBS="25.33"/>
+      <Resource CatalogId="9e15557e-bb9f-4b51-9a8c-8326ee04a3c9" Name="VOCHTKERINGEN" RBS="25.81"/>
+      <Resource CatalogId="07272e51-a0f5-4cd4-9be3-d13dc77314bd" Name="OPLEGGINGEN" RBS="25.82"/>
+      <Resource CatalogId="cd1eac82-f2eb-419c-acdd-a11321be013c" Name="TOEBEHOREN" RBS="25.83"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="aaa1600c-beee-4909-80c9-fa4e9d4ed5e0" Name="BOUWKUNDIGE KANAALELEMENTEN" RBS="26">
+      <Resource CatalogId="5e71cad4-3328-43d3-a98b-86871bbb4c4c" Name="ALGEMEEN" RBS="26.00"/>
+      <Resource CatalogId="9df9e81e-9463-479f-bf92-2071002ba129" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="26.21"/>
+      <Resource CatalogId="9f49ad9b-d955-41d7-a131-74bdd27087aa" Name="REINIGEN BESTAAND WERK" RBS="26.22"/>
+      <Resource CatalogId="db2098f6-f411-4865-ac42-0c9504f65c71" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="26.23"/>
+      <Resource CatalogId="171b0fd9-8d76-4f2e-a10c-0c3e77d6f4e7" Name="INJECTEREN BESTAAND WERK" RBS="26.24"/>
+      <Resource CatalogId="87d4ba38-30fa-4718-b1e5-dc2f3647a015" Name="HERSTELLEN BESTAAND WERK" RBS="26.25"/>
+      <Resource CatalogId="407bef3a-061f-404d-991c-8b055f5ad82b" Name="AANPASSEN BESTAAND WERK" RBS="26.26"/>
+      <Resource CatalogId="3dbcbf39-98f7-4d3e-91ad-eced2522d9b7" Name="HERPLAATSEN BESTAAND WERK" RBS="26.27"/>
+      <Resource CatalogId="c3e03c40-7f96-41b4-aff0-9406b3c88594" Name="ONDERHOUDEN BESTAAND WERK" RBS="26.28"/>
+      <Resource CatalogId="b6b5e8a6-369d-41fb-a03f-8fb9e9fc7a37" Name="STEENACHTIGE KANAALELEMENTEN" RBS="26.31"/>
+      <Resource CatalogId="54c404ae-cc94-43e4-99a6-b897b35e4ada" Name="METALEN KANAALELEMENTEN" RBS="26.32"/>
+      <Resource CatalogId="3347e25c-d78c-49b5-afbd-4488d88c1e29" Name="KUNSTSTOF KANAALELEMENTEN" RBS="26.33"/>
+      <Resource CatalogId="09bdc14f-655a-4118-8a0f-57a3195183c5" Name="SCHOORSTENEN, KAPPEN EN ROOSTERS" RBS="26.40"/>
+      <Resource CatalogId="f3dc10f2-8244-4dd7-a1d1-5f9f972eef22" Name="DOORVOERINGEN" RBS="26.81"/>
+      <Resource CatalogId="4061ba17-aa67-460c-a406-8c1828bdbe2b" Name="BEEINDIGINGEN EN TOEGANGEN" RBS="26.82"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="8eaead33-81ef-4de0-8510-48e01ddc15f6" Name="KOZIJNEN, RAMEN EN DEUREN" RBS="30">
+      <Resource CatalogId="4ba66551-06fd-4988-86b5-f1e613bfb00c" Name="ALGEMEEN" RBS="30.00"/>
+      <Resource CatalogId="d0695965-3968-4cdb-97a2-1ffaadcf50a4" Name="TEKENINGEN EN BEREKENINGEN" RBS="30.12"/>
+      <Resource CatalogId="6a45a53c-bb04-4960-9e8c-708c96f44b50" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="30.21"/>
+      <Resource CatalogId="bad089c4-25d2-4717-b3bd-cea001e72280" Name="REINIGEN BESTAAND WERK" RBS="30.22"/>
+      <Resource CatalogId="3b5c3111-2490-4642-9fa1-98923c4a55cc" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="30.23"/>
+      <Resource CatalogId="6be3cfae-da47-4027-b4d8-c298b58bd4f8" Name="INJECTEREN BESTAAND WERK" RBS="30.24"/>
+      <Resource CatalogId="50074c78-dae5-49cd-982a-55d0eca72b0d" Name="HERSTELLEN BESTAAND WERK" RBS="30.25"/>
+      <Resource CatalogId="b3e523be-93a2-4cea-80cd-648ddf65b81b" Name="AANPASSEN BESTAAND WERK" RBS="30.26"/>
+      <Resource CatalogId="574554d0-ff22-45ef-9704-8a86e9f9d623" Name="HERPLAATSEN BESTAAND WERK" RBS="30.27"/>
+      <Resource CatalogId="6b1a73ef-806f-4a48-85a7-1a0d0bb73f23" Name="ONDERHOUDEN BESTAAND WERK" RBS="30.28"/>
+      <Resource CatalogId="9f18d55c-6b15-4488-8447-858765ff3cf2" Name="STELKOZIJNEN" RBS="30.31"/>
+      <Resource CatalogId="48c4835f-7400-42b7-8aab-e8b292659cdb" Name="KOZIJNEN" RBS="30.32"/>
+      <Resource CatalogId="fef41d90-7dd9-482d-87f1-17caec22515d" Name="DEUREN" RBS="30.33"/>
+      <Resource CatalogId="4c25a0b5-5220-48d3-82b8-0bae2337a1c1" Name="RAMEN" RBS="30.34"/>
+      <Resource CatalogId="3d849da5-cbdd-4bfd-a01c-566665544e0b" Name="ROOSTERS" RBS="30.36"/>
+      <Resource CatalogId="c9219aa1-3d81-4a27-9d3c-a47a5bcf5695" Name="PANELEN" RBS="30.37"/>
+      <Resource CatalogId="5cde3c35-8ac7-4f2f-bfea-44ae1ab732d9" Name="TOEBEHOREN KOZIJNEN, RAMEN EN DEUREN" RBS="30.38"/>
+      <Resource CatalogId="e456ecf5-5162-44df-a55f-3a220df90ad9" Name="DAKVENSTERS" RBS="30.41"/>
+      <Resource CatalogId="78ee8ceb-ac81-413c-b083-ba0e90f7cb1a" Name="DAKKAPELLEN" RBS="30.42"/>
+      <Resource CatalogId="05c2534b-a198-474e-8381-537e30f683c3" Name="DAKLICHTKOEPELS EN DAKLICHTKAPPEN" RBS="30.43"/>
+      <Resource CatalogId="44798e17-c779-45f0-b86a-8ad7f99dad15" Name="DAKLUIKEN" RBS="30.44"/>
+      <Resource CatalogId="977caa4c-7da0-4ead-a4ee-e8ac8dd9b878" Name="VLIESGEVELSYSTEMEN" RBS="30.51"/>
+      <Resource CatalogId="1e7c83bd-39d0-4bba-af1b-0a5c357a3914" Name="BEGLAZINGSPROFIELSYSTEMEN" RBS="30.52"/>
+      <Resource CatalogId="28098673-b1a4-438d-a784-554adda1aacc" Name="TOURNIQUETS EN RONDLOOPDEUREN" RBS="30.61"/>
+      <Resource CatalogId="a6b565c7-14aa-44f3-b6c2-1dbbaf120b34" Name="GARAGE- EN BEDRIJFSBUITENDEUREN" RBS="30.62"/>
+      <Resource CatalogId="b0098566-4346-4d7f-9129-3d78c932f7cd" Name="BEDRIJFSBINNENDEUREN" RBS="30.63"/>
+      <Resource CatalogId="703cb70b-792b-4935-9217-770b711dd4a4" Name="BEDRIJFSGORDIJNEN" RBS="30.64"/>
+      <Resource CatalogId="869b5d09-0a65-497a-a256-b04356e1be7d" Name="TOEBEHOREN GARAGE- EN BEDRIJFSDEUREN" RBS="30.68"/>
+      <Resource CatalogId="05ec7f27-fca8-4237-94e5-f31967b02e98" Name="BEWEEGBARE BINNENWANDEN" RBS="30.70"/>
+      <Resource CatalogId="96e87945-ae11-4afc-8878-15541b5dc091" Name="HANG- EN SLUITWERK" RBS="30.80"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="1af9ab43-0000-4c4c-bd06-1fca297a4cb3" Name="SYSTEEMBEKLEDINGEN" RBS="31">
+      <Resource CatalogId="3acb366d-6112-450b-af9f-4dd43c1b6047" Name="ALGEMEEN" RBS="31.00"/>
+      <Resource CatalogId="db6a9649-2a37-4516-a3a1-0e36bd60669a" Name="WERKBESCHEIDEN" RBS="31.12"/>
+      <Resource CatalogId="1c3b3ec2-32a6-4e0e-b69c-8fdc7a6f4dd3" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="31.21"/>
+      <Resource CatalogId="25193129-f643-4887-86c8-de78ccc2ff0f" Name="REINIGEN BESTAAND WERK" RBS="31.22"/>
+      <Resource CatalogId="8e0957e0-f01c-4ddc-b96a-264b3a4bf738" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="31.23"/>
+      <Resource CatalogId="80a3d528-320f-4fd0-894b-3ded329d8d78" Name="INJECTEREN BESTAAND WERK" RBS="31.24"/>
+      <Resource CatalogId="6f97048f-6a2d-4f4d-8b91-17804a9d4f89" Name="HERSTELLEN BESTAAND WERK" RBS="31.25"/>
+      <Resource CatalogId="766fba06-762b-4a4e-91b5-64f36a43feed" Name="AANPASSEN BESTAAND WERK" RBS="31.26"/>
+      <Resource CatalogId="3826874a-8f89-4597-8ff2-3c8d0c9736c6" Name="HERPLAATSEN BESTAAND WERK" RBS="31.27"/>
+      <Resource CatalogId="8d12638a-d6cf-4248-b384-142ebfbdab18" Name="ONDERHOUDEN BESTAAND WERK" RBS="31.28"/>
+      <Resource CatalogId="df52bfb5-d3db-470c-be37-6896e0058fbe" Name="ENKELVOUDIGE PANEELBEKLEDINGEN" RBS="31.31"/>
+      <Resource CatalogId="cfac8ad3-e5b2-4c44-ae15-ded1e5a8827e" Name="ENKELVOUDIGE FELSPLAATBEKLEDINGEN" RBS="31.32"/>
+      <Resource CatalogId="b54c256a-216e-4fb5-98a0-d35d9c44280c" Name="ENKELVOUDIGE PROFIELPLAATBEKLEDINGEN" RBS="31.33"/>
+      <Resource CatalogId="6a376511-8077-4735-bc9a-9e27db2eb1b5" Name="SAMENGESTELDE BEKLEDINGEN" RBS="31.40"/>
+      <Resource CatalogId="94d654a4-cc98-4023-9674-195ef9cb062a" Name="BEKLEDINGEN SANDWICHPANELEN" RBS="31.50"/>
+      <Resource CatalogId="af664724-9a54-40dc-90d7-601018c5d6df" Name="METALEN DRAAGCONSTRUCTIE" RBS="31.70"/>
+      <Resource CatalogId="1ab332ef-6f64-457d-9797-cf1de231575a" Name="VOCHTKERINGEN" RBS="31.81"/>
+      <Resource CatalogId="b96b78c2-caf3-417f-8866-27d9a79899c2" Name="ISOLATIE" RBS="31.82"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="4fea0070-f912-482b-a1fb-ad684531e54f" Name="TRAPPEN EN BALUSTRADEN" RBS="32">
+      <Resource CatalogId="a7b1621f-c587-4a81-84fd-00c1c990dd9c" Name="ALGEMEEN" RBS="32.00"/>
+      <Resource CatalogId="01123668-abb0-4444-b334-219f633ab2c2" Name="WERKBESCHEIDEN" RBS="32.12"/>
+      <Resource CatalogId="de4b7777-66bb-404a-8127-6aeb2aa8b239" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="32.21"/>
+      <Resource CatalogId="0f243a58-e5da-4263-b07f-88efa3d7bdeb" Name="REINIGEN BESTAAND WERK" RBS="32.22"/>
+      <Resource CatalogId="604c34b0-93dc-42e8-b3ee-79c80d3eccbe" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="32.23"/>
+      <Resource CatalogId="ba0e6cd7-4d93-438c-9ce3-3632907a848e" Name="INJECTEREN BESTAAND WERK" RBS="32.24"/>
+      <Resource CatalogId="bde7398e-5b6a-4b22-accb-b8c537211d19" Name="HERSTELLEN BESTAAND WERK" RBS="32.25"/>
+      <Resource CatalogId="b51eacd0-53aa-4ae0-a43e-e781a303b3b6" Name="AANPASSEN BESTAAND WERK" RBS="32.26"/>
+      <Resource CatalogId="77aa7857-c764-4805-977e-42ba858d0c50" Name="HERPLAATSEN BESTAAND WERK" RBS="32.27"/>
+      <Resource CatalogId="2a7dba7a-3b36-4ef3-bf70-d0ff93b6f01e" Name="ONDERHOUDEN BESTAAND WERK" RBS="32.28"/>
+      <Resource CatalogId="21d373c0-8224-401a-8748-356d8d5c686a" Name="VASTE TRAPPEN" RBS="32.31"/>
+      <Resource CatalogId="beb9dc0a-cacc-4f42-be42-c028cb78d544" Name="BEWEEGBARE TRAPPEN" RBS="32.32"/>
+      <Resource CatalogId="860c6433-0579-4ef7-8e2e-5305879859c6" Name="TRAPONDERDELEN" RBS="32.37"/>
+      <Resource CatalogId="2574014c-68eb-4e54-9a51-aaf633950477" Name="LADDERS" RBS="32.41"/>
+      <Resource CatalogId="88054964-aafb-41b7-95cc-9a18cdde09a9" Name="KLIMIJZERS" RBS="32.42"/>
+      <Resource CatalogId="49df9fe6-2d89-49b8-8e78-07d50edbb7a7" Name="KLIMBEVEILIGING" RBS="32.43"/>
+      <Resource CatalogId="f85961be-b736-48aa-a37b-f4788edcd472" Name="BALUSTRADEN" RBS="32.51"/>
+      <Resource CatalogId="ceaec42a-9deb-46e2-91db-c231e56f77b9" Name="LEUNINGEN" RBS="32.52"/>
+      <Resource CatalogId="fadaed10-e4b3-4f80-b281-d128181d48ed" Name="BALUSTRADE- EN LEUNINGONDERDELEN" RBS="32.57"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="141f2690-3bba-4a65-af8e-327c707f0b6e" Name="DAKBEDEKKINGEN" RBS="33">
+      <Resource CatalogId="cde4f93f-083e-49b0-9cf4-d6b21e7b9d05" Name="ALGEMEEN" RBS="33.00"/>
+      <Resource CatalogId="d086091b-01dd-4519-955b-5cca0fcdf823" Name="TEKENINGEN EN BEREKENINGEN" RBS="33.12"/>
+      <Resource CatalogId="b061d1e3-342b-4f0a-ad25-c5ff219a15f3" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="33.21"/>
+      <Resource CatalogId="6981fbd3-2061-4339-8571-9c57a8a95df2" Name="REINIGEN BESTAAND WERK" RBS="33.22"/>
+      <Resource CatalogId="0825758c-4503-4f05-85a7-7586f792994d" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="33.23"/>
+      <Resource CatalogId="d292c01d-ad2d-410d-a2c8-d59e242c3e30" Name="INJECTEREN BESTAAND WERK" RBS="33.24"/>
+      <Resource CatalogId="6fced24f-619e-457b-ab6a-fe67535a4ba1" Name="HERSTELLEN BESTAAND WERK" RBS="33.25"/>
+      <Resource CatalogId="22470be2-8df5-4793-9221-995cae86e8ee" Name="AANPASSEN BESTAAND WERK" RBS="33.26"/>
+      <Resource CatalogId="58fa4f86-c340-42fb-879a-06a31ce56ed9" Name="HERPLAATSEN BESTAAND WERK" RBS="33.27"/>
+      <Resource CatalogId="c932c64a-bcaf-48e2-90f7-a6b9084f625c" Name="ONDERHOUDEN BESTAAND WERK" RBS="33.28"/>
+      <Resource CatalogId="b24cc7e7-2704-4111-8134-d965fd27b2fb" Name="VOORBEHANDELING ONDERGROND, BAANVORMIGE DAKBEDEKKINGEN" RBS="33.31"/>
+      <Resource CatalogId="ccc0c425-80fe-488b-826c-ba224f42e338" Name="ISOLATIE/AFSCHOTLAAG" RBS="33.32"/>
+      <Resource CatalogId="69eacbab-e126-48f2-b649-eb8c4a8dbe14" Name="BITUMINEUZE DAKBEDEKKINGEN" RBS="33.33"/>
+      <Resource CatalogId="827bb06b-dd0b-4c2f-8683-f08c860a50e8" Name="KUNSTSTOF DAKBEDEKKINGEN" RBS="33.34"/>
+      <Resource CatalogId="75a6f6ae-82d3-450f-9798-0256d10bd5f9" Name="DAKDETAILS" RBS="33.35"/>
+      <Resource CatalogId="d1814001-679f-446e-80ff-62372b6b9601" Name="DAKBEGROEIING" RBS="33.36"/>
+      <Resource CatalogId="5ec14a22-3762-4417-9512-ab2464f0682b" Name="DAKVERHARDINGEN" RBS="33.37"/>
+      <Resource CatalogId="bc1c7683-d71d-405d-9ecb-59f01c4b448e" Name="OP TE NEMEN ONDERDELEN, BAANVORMIGE DAKBEDEKKINGEN" RBS="33.38"/>
+      <Resource CatalogId="e690953c-313c-4a22-974c-7d66f53f5a24" Name="KERAMISCHE EN BETONNEN DAKPANNEN" RBS="33.41"/>
+      <Resource CatalogId="070723bd-3b02-4210-a011-42568fae25cf" Name="METALEN DAKPANPLATEN" RBS="33.42"/>
+      <Resource CatalogId="00240824-cdc2-4a10-b694-e7a783710bfd" Name="NATUUR- EN KUNSTSTEEN LEIEN" RBS="33.51"/>
+      <Resource CatalogId="aeb23649-ea3f-4c63-ad3b-ed0bca69effd" Name="METALEN LEIEN" RBS="33.52"/>
+      <Resource CatalogId="6a21dcb9-887a-4f26-8c80-2149b7001e5b" Name="HOUTEN LEIEN" RBS="33.53"/>
+      <Resource CatalogId="461243e5-2b92-4c3e-bdc7-ae37d8c80833" Name="BITUMINEUZE LEIEN" RBS="33.54"/>
+      <Resource CatalogId="1a50a09e-e55a-4e53-adce-5c4bc8ba7229" Name="KUNSTSTOF LEIEN" RBS="33.55"/>
+      <Resource CatalogId="10a67827-8836-4e88-ac90-775738e035f1" Name="KERAMISCHE EN BETONNEN LEIEN" RBS="33.56"/>
+      <Resource CatalogId="c1b20706-036a-4a5a-a25f-2c182981e73f" Name="FELSPLAATBEDEKKINGEN" RBS="33.61"/>
+      <Resource CatalogId="1dc46f9c-dc69-4ca0-ba90-b518f263429a" Name="ROEVENBEDEKKINGEN" RBS="33.62"/>
+      <Resource CatalogId="7dfe021e-ace8-480e-9684-2dab57ccdaca" Name="GESOLDEERDE BEDEKKINGEN" RBS="33.63"/>
+      <Resource CatalogId="3f8ed26d-6c4c-43c9-9d23-4c0b30d9bf8c" Name="SCHAKELBEDEKKINGEN" RBS="33.64"/>
+      <Resource CatalogId="821c26c9-88e4-4b5b-8b26-c3bda9f12ce5" Name="OP TE NEMEN ONDERDELEN, METALEN-PLAATBEDEKKINGEN" RBS="33.68"/>
+      <Resource CatalogId="4668ac69-fd25-40e9-bff4-4b5e62c5299e" Name="VEZELCEMENT-PLAATBEKLEDINGEN" RBS="33.71"/>
+      <Resource CatalogId="9aee6ba1-9c5a-449c-80b2-6ae22aad090c" Name="BITUMINEUZE-PLAATBEKLEDINGEN" RBS="33.72"/>
+      <Resource CatalogId="29291fdc-b4c9-4f86-b94a-89d922a903c6" Name="METALEN-PLAATBEKLEDINGEN" RBS="33.73"/>
+      <Resource CatalogId="ad3e1cf2-0126-4e35-bb32-3d1883676890" Name="KUNSTSTOF-PLAATBEKLEDINGEN" RBS="33.74"/>
+      <Resource CatalogId="8ec5c1e3-6ac6-4f92-9b74-343f19f3e12a" Name="RIETBEDEKKINGEN" RBS="33.80"/>
+      <Resource CatalogId="56374194-ca7d-40ee-8410-d52bc3ed49e7" Name="OP TE NEMEN ONDERDELEN, RIETBEDEKKINGEN" RBS="33.85"/>
+      <Resource CatalogId="ee8954aa-d151-4906-a3a3-2de8df4ce13a" Name="OP TE NEMEN ONDERDELEN, DAKBEDEKKINGEN" RBS="33.88"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="52396747-15a7-493b-a87a-4cea270e121a" Name="BEGLAZING" RBS="34">
+      <Resource CatalogId="c17ca31f-5cb4-4391-9f2e-0f90a901049d" Name="ALGEMEEN" RBS="34.00"/>
+      <Resource CatalogId="b5cefee7-dece-4ec4-9181-50d5890e4804" Name="WERKBESCHEIDEN" RBS="34.12"/>
+      <Resource CatalogId="91bee452-8556-4a16-bc9d-20adba3dd2e4" Name="BEPROEVEN" RBS="34.13"/>
+      <Resource CatalogId="32319451-d04f-4e18-9022-bc685caacefd" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="34.21"/>
+      <Resource CatalogId="5a67cada-c69a-430d-a773-399e7013864e" Name="REINIGEN BESTAAND WERK" RBS="34.22"/>
+      <Resource CatalogId="13092f47-e88a-451b-b7c4-771f7fd5f60e" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="34.23"/>
+      <Resource CatalogId="5482f582-c4f7-408b-a9de-eec8358afb11" Name="INJECTEREN BESTAAND WERK" RBS="34.24"/>
+      <Resource CatalogId="92d025d4-b278-469f-83c9-30cebaeb05f7" Name="HERSTELLEN BESTAAND WERK" RBS="34.25"/>
+      <Resource CatalogId="07b6914d-554b-40c3-8253-9ec1b746c4c5" Name="AANPASSEN BESTAAND WERK" RBS="34.26"/>
+      <Resource CatalogId="a7a18016-19ff-4849-86ad-3ec155afc533" Name="HERPLAATSEN BESTAAND WERK" RBS="34.27"/>
+      <Resource CatalogId="047c69dc-bff1-44df-a7c6-bc649d5b446b" Name="ONDERHOUDEN BESTAAND WERK" RBS="34.28"/>
+      <Resource CatalogId="f09f99c0-84c9-41e4-b0e9-8d2d942cabdc" Name="ENKELBLADIG GLAS" RBS="34.31"/>
+      <Resource CatalogId="f2b46b45-9ec0-4cff-b591-2b1c0bbdc106" Name="GELAAGD GLAS" RBS="34.32"/>
+      <Resource CatalogId="5eaffc9e-3b1c-4ad3-8840-a197a83b9956" Name="MEERBLADIG ISOLEREND GLAS" RBS="34.33"/>
+      <Resource CatalogId="2db1f73d-5cd5-4abd-abe9-eeca7c83a79e" Name="PROFIELGLAS" RBS="34.34"/>
+      <Resource CatalogId="806eaf8a-fe7d-41bd-b3e1-3b4b82580f7a" Name="KUNSTSTOF" RBS="34.35"/>
+      <Resource CatalogId="a17fabdf-52ea-40a0-8073-9af616bbabcc" Name="VOORZETRUITEN EN ISOLATIEFOLIES" RBS="34.36"/>
+      <Resource CatalogId="ecfae641-dfbb-4316-8d64-b2262fd664a1" Name="GLASPANEEL" RBS="34.37"/>
+      <Resource CatalogId="51dfb61c-60db-4b0f-a93b-91a23febdeb6" Name="MONUMENTENGLAS" RBS="34.38"/>
+      <Resource CatalogId="155268d4-e47d-4c0a-8e24-69518f8fac41" Name="STRUCTURELE BEGLAZING" RBS="34.41"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="e5957180-a608-40f6-81da-e841046f7770" Name="NATUUR- EN KUNSTSTEEN" RBS="35">
+      <Resource CatalogId="0122a728-b6e9-4da3-b71d-ef3b502f3993" Name="ALGEMEEN" RBS="35.00"/>
+      <Resource CatalogId="4c28703f-5593-48a3-b849-c492bcc17d7e" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="35.21"/>
+      <Resource CatalogId="52940b5c-ba9b-41e7-9b94-389689b1b6a0" Name="REINIGEN BESTAAND WERK" RBS="35.22"/>
+      <Resource CatalogId="67f3cdc4-e398-4036-ad32-aa5c42a46653" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="35.23"/>
+      <Resource CatalogId="d54ab92d-657e-43e8-ad91-305f1b2ff44d" Name="INJECTEREN BESTAAND WERK" RBS="35.24"/>
+      <Resource CatalogId="60bd34bf-a392-4e80-b54b-540840b54d2b" Name="HERSTELLEN BESTAAND WERK" RBS="35.25"/>
+      <Resource CatalogId="3a0deb8c-8f85-4dc8-a108-c77c7546b18d" Name="AANPASSEN BESTAAND WERK" RBS="35.26"/>
+      <Resource CatalogId="2c3f69e0-3084-442d-9ef4-aa58391b33e3" Name="HERPLAATSEN BESTAAND WERK" RBS="35.27"/>
+      <Resource CatalogId="737a37a0-cd37-48e7-ba89-5c7da32ee8b3" Name="ONDERHOUDEN BESTAAND WERK" RBS="35.28"/>
+      <Resource CatalogId="1d4d6404-2df8-4efc-990a-e304fbe94aaa" Name="NATUURSTEEN TRAPPEN EN BALUSTRADEN" RBS="35.32"/>
+      <Resource CatalogId="b9b9df6f-f65b-4120-8712-1b8f28549046" Name="NATUURSTEEN KOLOMMEN, STIJLEN, LATEIEN EN CONSOLES" RBS="35.33"/>
+      <Resource CatalogId="68cd6cf1-7e05-449d-a03d-32230eaa2fa9" Name="NATUURSTEEN BLOKKEN, PLATEN EN BANDEN" RBS="35.34"/>
+      <Resource CatalogId="e29fd160-46db-4503-8b53-fc08574546fe" Name="NATUURSTEEN DORPELS EN NEUTEN" RBS="35.35"/>
+      <Resource CatalogId="46cc489e-ec08-4849-b1f2-e2dd6eaab53d" Name="KUNSTSTEEN TRAPPEN EN BALUSTRADEN" RBS="35.42"/>
+      <Resource CatalogId="b1a71f69-c69d-4a0f-a339-4991b4d7a44a" Name="KUNSTSTEEN BLOKKEN, PLATEN EN BANDEN" RBS="35.44"/>
+      <Resource CatalogId="01de8643-0111-435b-92c4-a45b5f143f98" Name="KUNSTSTEEN DORPELS EN NEUTEN" RBS="35.45"/>
+      <Resource CatalogId="f3d7375b-94cb-4298-9ef8-115215046742" Name="ISOLATIE" RBS="35.81"/>
+      <Resource CatalogId="258eb072-19aa-43fb-af22-60df8ad46075" Name="VOCHTKERINGEN" RBS="35.82"/>
+      <Resource CatalogId="6d58cae3-45f0-40a0-9383-fc6b07d32119" Name="PROFIELEN" RBS="35.83"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="416414d3-76ee-4dbd-b47f-014968cad4e6" Name="VOEGVULLING" RBS="36">
+      <Resource CatalogId="ff3c6058-35cb-40b3-91bc-d4671e418c57" Name="ALGEMEEN" RBS="36.00"/>
+      <Resource CatalogId="bd20a20d-d48a-417c-b751-83b97e3f141a" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="36.21"/>
+      <Resource CatalogId="bfeba201-4e7d-49ff-afa8-8d722ea2eb15" Name="REINIGEN BESTAAND WERK" RBS="36.22"/>
+      <Resource CatalogId="fa6bb78c-5e00-4799-9bfc-ffc85f0d28d3" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="36.23"/>
+      <Resource CatalogId="546ea00b-b565-4ab3-ab21-1afc4c43be20" Name="INJECTEREN BESTAAND WERK" RBS="36.24"/>
+      <Resource CatalogId="9a2d8d5b-d951-480f-8cc1-d25c7233dad0" Name="HERSTELLEN BESTAAND WERK" RBS="36.25"/>
+      <Resource CatalogId="dd94c99b-cfb1-4a21-b912-fabeec1aeac2" Name="AANPASSEN BESTAAND WERK" RBS="36.26"/>
+      <Resource CatalogId="455bc30a-676c-4c26-81bf-82ac2e13a6d0" Name="HERPLAATSEN BESTAAND WERK" RBS="36.27"/>
+      <Resource CatalogId="2a40f6a4-1686-4763-92ee-1af474666259" Name="ONDERHOUDEN BESTAAND WERK" RBS="36.28"/>
+      <Resource CatalogId="c1ec719e-d963-4d13-8270-f52566690727" Name="VOEGVULLINGEN MET KIT" RBS="36.30"/>
+      <Resource CatalogId="b1de1df5-c576-49af-88d9-33c0c9ed76e7" Name="VOEGVULLINGEN MET SCHUIMBAND" RBS="36.40"/>
+      <Resource CatalogId="e5baf0ff-659c-4e9a-8c75-fe4bb0be035d" Name="VOEGVULLINGEN MET VOEGPROFIELEN" RBS="36.50"/>
+      <Resource CatalogId="329d9073-c72a-40c2-94da-744c51ba517a" Name="VOEGVULLINGEN MET SCHUIM" RBS="36.60"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="8f81f61d-4549-429e-afb3-523269a69bec" Name="NA-ISOLATIE" RBS="37">
+      <Resource CatalogId="c619a771-cb4a-4da8-95a8-ee00902b9d07" Name="ALGEMEEN" RBS="37.00"/>
+      <Resource CatalogId="da4c1b11-f4ca-46a3-9b45-db4547dbf38a" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="37.21"/>
+      <Resource CatalogId="e2bbdada-1cd3-4ce7-98cf-2eadc730f341" Name="REINIGEN BESTAAND WERK" RBS="37.22"/>
+      <Resource CatalogId="f436fab1-4201-494a-b00a-be99475748a1" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="37.23"/>
+      <Resource CatalogId="fd79bacf-6dd0-4df3-b65e-b6a6557eaa36" Name="INJECTEREN BESTAAND WERK" RBS="37.24"/>
+      <Resource CatalogId="4c8a7a76-578a-4695-912f-c2fff418b4b6" Name="HERSTELLEN BESTAAND WERK" RBS="37.25"/>
+      <Resource CatalogId="fc344c28-ea00-4c32-8121-e349db249ee9" Name="AANPASSEN BESTAAND WERK" RBS="37.26"/>
+      <Resource CatalogId="475e2e7a-8684-4a1d-89e4-147efd026b4e" Name="HERPLAATSEN BESTAAND WERK" RBS="37.27"/>
+      <Resource CatalogId="36c5ee2a-7e7a-43a5-9a5b-4e0de8464ce0" Name="ONDERHOUDEN BESTAAND WERK" RBS="37.28"/>
+      <Resource CatalogId="5c9bbfc2-7c2b-4dfd-a4a5-afcbc73fb7bf" Name="ISOLATIE-ELEMENTEN" RBS="37.30"/>
+      <Resource CatalogId="6c800502-a7cf-4bc7-ab10-7b57126d56d7" Name="SPOUWISOLATIE, TER PLAATSE GEVORMD" RBS="37.41"/>
+      <Resource CatalogId="73c5a593-3d05-4d7a-9faa-d358c8389005" Name="ISOLATIEDEKLAGEN, TER PLAATSE GEVORMD" RBS="37.42"/>
+      <Resource CatalogId="12269e2f-b79e-406e-ad6d-6cf3fa84446d" Name="DAMPREMMENDE/DAMPDOORLATENDE LAGEN" RBS="37.43"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="178d50a9-6cac-4845-9fa9-f50bd3943111" Name="GEVELSCHERMEN" RBS="38">
+      <Resource CatalogId="0439ef09-bbbe-49ec-8d3b-e03b9eb06575" Name="ALGEMEEN" RBS="38.00"/>
+      <Resource CatalogId="a980aa5d-6e70-41c9-b262-7a777265ff1d" Name="TEKENINGEN" RBS="38.12"/>
+      <Resource CatalogId="2f94c028-6842-4004-97c9-c8904654c625" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="38.21"/>
+      <Resource CatalogId="6b1c1b3d-21ed-4256-abcc-67408835ad8b" Name="REINIGEN BESTAAND WERK" RBS="38.22"/>
+      <Resource CatalogId="72e89d8f-4859-4738-ab10-e25a2953149c" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="38.23"/>
+      <Resource CatalogId="0d028f34-9c2f-4ee5-9444-7137d1967faa" Name="INJECTEREN BESTAAND WERK" RBS="38.24"/>
+      <Resource CatalogId="359b6778-5d88-41cb-b855-1924f5e9cb55" Name="HERSTELLEN BESTAAND WERK" RBS="38.25"/>
+      <Resource CatalogId="5640d805-cb99-44ec-ba09-663ea06103cb" Name="AANPASSEN BESTAAND WERK" RBS="38.26"/>
+      <Resource CatalogId="a4884c65-2cd6-4e50-b291-de4a712c0759" Name="HERPLAATSEN BESTAAND WERK" RBS="38.27"/>
+      <Resource CatalogId="df4eb43a-410f-4e31-901d-ca0581912f35" Name="ONDERHOUDEN BESTAAND WERK" RBS="38.28"/>
+      <Resource CatalogId="a7eb781b-3fab-45a9-9b79-ac1885dd0087" Name="BEWEEGBARE SCHERMEN, BUITEN" RBS="38.30"/>
+      <Resource CatalogId="fa862b9a-d2d8-4160-a2db-f822bf82b70c" Name="VASTE SCHERMEN EN ROOSTERS, BUITEN" RBS="38.40"/>
+      <Resource CatalogId="c9a7b6b6-cee0-42c6-a8c9-223945ddc5a5" Name="GEVELHEKKEN, LUIKEN EN HORDEUREN" RBS="38.50"/>
+      <Resource CatalogId="c123cf9f-dfc2-4710-9c88-e9e7a4a0615d" Name="STELPOSTEN" RBS="38.80"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="4d076ec6-5567-4b91-bf70-309fb8de2c03" Name="STUKADOORWERK" RBS="40">
+      <Resource CatalogId="d8147943-5fa9-4b36-aaff-2265f6cc9c29" Name="ALGEMEEN" RBS="40.00"/>
+      <Resource CatalogId="ead3e4e3-87e8-4885-919b-eaa0b34edcea" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="40.21"/>
+      <Resource CatalogId="f6b757bb-2dfe-401e-9a57-25f08aa6ca2d" Name="REINIGEN BESTAAND WERK" RBS="40.22"/>
+      <Resource CatalogId="4a574ec0-60c8-472d-b7e4-ae7999421325" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="40.23"/>
+      <Resource CatalogId="69061691-d795-4014-a7ef-845d36a35b46" Name="INJECTEREN BESTAAND WERK" RBS="40.24"/>
+      <Resource CatalogId="972a77c0-461b-42f5-bb3a-89a80208c2d1" Name="HERSTELLEN BESTAAND WERK" RBS="40.25"/>
+      <Resource CatalogId="b811d928-9139-4942-93c3-a5ef3da2544d" Name="AANPASSEN BESTAAND WERK" RBS="40.26"/>
+      <Resource CatalogId="254dc9bd-bad3-42cf-bfe1-de957d454776" Name="HERPLAATSEN BESTAAND WERK" RBS="40.27"/>
+      <Resource CatalogId="4c11dfb4-86b8-4338-bcac-e17f4780bf3c" Name="ONDERHOUDEN BESTAAND WERK" RBS="40.28"/>
+      <Resource CatalogId="a3d7a6ed-3777-4eb5-aa40-b578901e4cc4" Name="PLEISTERDRAGERS" RBS="40.30"/>
+      <Resource CatalogId="755af1d4-cfe2-488e-9bd6-9cd8971dad38" Name="PLEISTERWERK" RBS="40.40"/>
+      <Resource CatalogId="e985edaa-7131-4616-83ee-b32cefeb6f72" Name="BUITENGEVELISOLATIESYSTEMEN" RBS="40.50"/>
+      <Resource CatalogId="1eb7458a-bfa9-4801-9a62-35d3c59cc31d" Name="PROFIELEN" RBS="40.81"/>
+      <Resource CatalogId="0595a7d7-f59c-4157-85e0-185a8428499a" Name="LIJSTEN, ORNAMENTEN, FIGURATIES" RBS="40.82"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="2b83e2a8-e8f8-48fd-a1c2-559b9794c6e5" Name="TEGELWERK" RBS="41">
+      <Resource CatalogId="6bf19686-0173-49eb-852c-6d5c00eefb37" Name="ALGEMEEN" RBS="41.00"/>
+      <Resource CatalogId="5e39c79f-d56d-4b3f-9e40-509c8dc975e0" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="41.21"/>
+      <Resource CatalogId="c2ef8984-ee57-4c4b-93a9-d3cc3fa11704" Name="REINIGEN BESTAAND WERK" RBS="41.22"/>
+      <Resource CatalogId="01ca8235-6b3b-4ba8-86e8-79408368ea71" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="41.23"/>
+      <Resource CatalogId="d59038c5-387a-4585-b0a7-a9154155b6a3" Name="INJECTEREN BESTAAND WERK" RBS="41.24"/>
+      <Resource CatalogId="1af5e77d-e2d9-47bc-90b8-db01d454fb3c" Name="HERSTELLEN BESTAAND WERK" RBS="41.25"/>
+      <Resource CatalogId="4fb2294e-c6f2-4710-b939-d01dbcbebc73" Name="AANPASSEN BESTAAND WERK" RBS="41.26"/>
+      <Resource CatalogId="a85dd9b6-5a5b-47b2-9aba-95ad7b7c3166" Name="HERPLAATSEN BESTAAND WERK" RBS="41.27"/>
+      <Resource CatalogId="90f0f0ce-20a8-4067-94c8-f22a95f0bf80" Name="ONDERHOUDEN BESTAAND WERK" RBS="41.28"/>
+      <Resource CatalogId="df4cd699-f768-48b7-be57-c901c1dc0a76" Name="WANDTEGELWERK" RBS="41.32"/>
+      <Resource CatalogId="89d57bd0-2626-4f82-af0c-6dbf0f253fdb" Name="VLOERTEGELWERK" RBS="41.42"/>
+      <Resource CatalogId="23a236ba-8658-4ce4-8014-b7878b34d8f1" Name="TRAPTEGELWERK" RBS="41.52"/>
+      <Resource CatalogId="15e7a6cf-f050-4caa-a1e9-206c124458fc" Name="PLINTTEGELWERK" RBS="41.62"/>
+      <Resource CatalogId="10ac56f7-e16f-453a-9d2f-ff3eca3fbe8c" Name="MUURAFDEKKINGEN" RBS="41.63"/>
+      <Resource CatalogId="588d31b9-7af5-4d54-8178-f131048cbdf4" Name="ACCESSOIRETEGELS" RBS="41.64"/>
+      <Resource CatalogId="3127ed80-4ed8-453b-9e40-1cf8df0d3319" Name="VOEGWERK" RBS="41.71"/>
+      <Resource CatalogId="dd0899d6-20bc-41ee-9122-f78b7e494995" Name="ISOLATIE" RBS="41.81"/>
+      <Resource CatalogId="50c5acb4-0efc-4412-ad94-8ecc49257eba" Name="PROFIELEN" RBS="41.83"/>
+      <Resource CatalogId="b7b58f78-d4f1-4c11-b92f-a8b483082690" Name="TOEBEHOREN" RBS="41.84"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="fc631855-5bb8-4081-a5aa-0e9ddae1f493" Name="DEKVLOEREN EN VLOERSYSTEMEN" RBS="42">
+      <Resource CatalogId="dc6d3b84-4cdd-4152-af9f-a117cd32fc96" Name="ALGEMEEN" RBS="42.00"/>
+      <Resource CatalogId="84eec33d-618b-4700-bb1f-25890bc56f30" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="42.21"/>
+      <Resource CatalogId="3a7d1442-7b82-4e81-a3d6-7cbff7bb013f" Name="REINIGEN BESTAAND WERK" RBS="42.22"/>
+      <Resource CatalogId="14ce3d04-3335-4032-a77e-0a110dadb71d" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="42.23"/>
+      <Resource CatalogId="978c0db7-f99b-4123-85b2-2e29d282dd3c" Name="INJECTEREN BESTAAND WERK" RBS="42.24"/>
+      <Resource CatalogId="f8a7c62f-67c1-469c-a2a8-545842f6eb5d" Name="HERSTELLEN BESTAAND WERK" RBS="42.25"/>
+      <Resource CatalogId="8a7bc9bc-49b9-48b6-a50b-2aee85eed022" Name="AANPASSEN BESTAAND WERK" RBS="42.26"/>
+      <Resource CatalogId="e79bc133-0e4c-4c28-ad96-0472ce9d8c9a" Name="HERPLAATSEN BESTAAND WERK" RBS="42.27"/>
+      <Resource CatalogId="613f724d-2f58-45da-ab53-7785153610b0" Name="ONDERHOUDEN BESTAAND WERK" RBS="42.28"/>
+      <Resource CatalogId="d9f160b7-3050-4ba1-a978-096d70a45f58" Name="GEHECHTE MORTELDEKVLOEREN" RBS="42.31"/>
+      <Resource CatalogId="7963425f-8b44-4262-af50-987a539b9da1" Name="MORTELDEKVLOEREN OP ISOLATIE" RBS="42.32"/>
+      <Resource CatalogId="cdc12de7-69da-443d-b82b-09a21c55cc10" Name="BITUMENGEBONDEN DEKVLOEREN" RBS="42.34"/>
+      <Resource CatalogId="7a7a7507-edc3-4ed4-883a-fb4f2d6f7570" Name="DROOGBOUW DEKVLOEREN" RBS="42.35"/>
+      <Resource CatalogId="e0f31695-255d-4b0d-9460-57ec73713a1d" Name="VLOERAFWERKINGEN" RBS="42.40"/>
+      <Resource CatalogId="5301931d-ef50-495c-a0d6-c0db393e6fb3" Name="VLOERSYSTEMEN" RBS="42.50"/>
+      <Resource CatalogId="009e4b50-f1f6-45d4-ab61-6b5cda6e69e8" Name="BEWERKING" RBS="42.72"/>
+      <Resource CatalogId="c7e3ae62-8c8a-4a47-95ed-219176baaa64" Name="PROFIELEN" RBS="42.81"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="bac25f8a-4a8e-44b9-bcfc-71a959a4e4db" Name="METAAL- EN KUNSTSTOFWERK" RBS="43">
+      <Resource CatalogId="2c970c05-1c52-4ba5-a79f-a7e051108ccf" Name="ALGEMEEN" RBS="43.00"/>
+      <Resource CatalogId="c2cd8954-a02c-40df-835d-e548ba158e94" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="43.21"/>
+      <Resource CatalogId="5b0e9a7f-9425-4d55-ab7e-c897953aa116" Name="REINIGEN BESTAAND WERK" RBS="43.22"/>
+      <Resource CatalogId="f40bf37a-623c-4cef-b5ad-a57c7f390a34" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="43.23"/>
+      <Resource CatalogId="adcd8b8a-de7e-4e02-a872-f9e04d0f7092" Name="INJECTEREN BESTAAND WERK" RBS="43.24"/>
+      <Resource CatalogId="63415545-e450-4d31-895a-10d7b11d0749" Name="HERSTELLEN BESTAAND WERK" RBS="43.25"/>
+      <Resource CatalogId="80e863f1-565d-47dd-bfda-e3c7b47e9acb" Name="AANPASSEN BESTAAND WERK" RBS="43.26"/>
+      <Resource CatalogId="6a731a06-f408-4b0d-9536-55d9b36c5e0b" Name="HERPLAATSEN BESTAAND WERK" RBS="43.27"/>
+      <Resource CatalogId="c2258592-74d5-4209-a667-c08106870aa6" Name="ONDERHOUDEN BESTAAND WERK" RBS="43.28"/>
+      <Resource CatalogId="efb1a000-f964-46bf-8d7b-f8abeb3c8260" Name="LUIKEN" RBS="43.31"/>
+      <Resource CatalogId="be91d216-5730-4371-8f01-c8f24ad4cc54" Name="ROOSTERS" RBS="43.32"/>
+      <Resource CatalogId="bf3aa4f4-95f4-4acb-8812-e5ead3d95b00" Name="OMRANDINGEN" RBS="43.33"/>
+      <Resource CatalogId="cbbdeded-338d-4cb9-a7f2-c548049262c5" Name="LUIFEL-/DAKELEMENTEN" RBS="43.34"/>
+      <Resource CatalogId="34d1a1c6-c2bc-473e-9887-aaac7a76af2f" Name="DIVERSE ONDERDELEN" RBS="43.38"/>
+      <Resource CatalogId="43a43fab-500c-42b7-bc7c-963f7f2b1da2" Name="AFDEKPROFIELEN" RBS="43.41"/>
+      <Resource CatalogId="d47e2580-fe98-4fb4-adb1-296fb3706dcc" Name="METAALPROFIELEN" RBS="43.42"/>
+      <Resource CatalogId="f686076c-5ed2-4e6b-b28b-c1e93c83360f" Name="KUNSTSTOF PROFIELEN" RBS="43.43"/>
+      <Resource CatalogId="fb6d5a6f-091c-4841-aa5a-ba8a000e46e4" Name="GAZEN, NETTEN EN WEEFSELS" RBS="43.44"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="44cc2f6a-4c38-4ab6-8c6d-29e6a2ec605b" Name="PLAFOND- EN WANDSYSTEMEN" RBS="44">
+      <Resource CatalogId="76ef2b2a-7250-489d-9919-d8f2d2cd8e73" Name="ALGEMEEN" RBS="44.00"/>
+      <Resource CatalogId="614b8745-f633-4ea5-807a-8ebc158a8177" Name="WERKBESCHEIDEN" RBS="44.12"/>
+      <Resource CatalogId="a2c1a92b-285e-4023-a6a7-adcb390fdfaa" Name="PROEFOPSTELLINGEN" RBS="44.16"/>
+      <Resource CatalogId="36a089f1-943e-4efa-8af5-e42d9a83472b" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="44.21"/>
+      <Resource CatalogId="dca48cb7-e858-4f6f-a1ec-26af463d6b1a" Name="REINIGEN BESTAAND WERK" RBS="44.22"/>
+      <Resource CatalogId="f851225e-c167-4cba-a614-58ba2c2349f8" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="44.23"/>
+      <Resource CatalogId="96221cbb-452c-4fcf-a738-9b6d30f7841b" Name="INJECTEREN BESTAAND WERK" RBS="44.24"/>
+      <Resource CatalogId="f8586117-948a-4d73-ae29-3d004c13ac42" Name="HERSTELLEN BESTAAND WERK" RBS="44.25"/>
+      <Resource CatalogId="925386c2-dcf3-4989-ad23-6067b7b9ea5c" Name="AANPASSEN BESTAAND WERK" RBS="44.26"/>
+      <Resource CatalogId="b321cbff-20b7-46be-a526-0edb7401d731" Name="HERPLAATSEN BESTAAND WERK" RBS="44.27"/>
+      <Resource CatalogId="bc6e6e31-648b-451f-97eb-ad3e185db830" Name="ONDERHOUDEN BESTAAND WERK" RBS="44.28"/>
+      <Resource CatalogId="3ac84e96-0673-4935-ac98-b3d09720a170" Name="PANELENPLAFONDS" RBS="44.31"/>
+      <Resource CatalogId="3f4f1617-ca7c-45b5-93c4-b67437be2810" Name="STROKENPLAFONDS" RBS="44.32"/>
+      <Resource CatalogId="5e1368a1-468b-4484-8a54-ed413fce5ade" Name="LAMELLENPLAFONDS" RBS="44.33"/>
+      <Resource CatalogId="bf3cee26-dbbd-43ba-9685-55fc62a95104" Name="ROOSTERPLAFONDS" RBS="44.34"/>
+      <Resource CatalogId="f39f1d3a-c392-446e-b026-f4700736953c" Name="RASTERPLAFONDS" RBS="44.35"/>
+      <Resource CatalogId="529a270b-9060-4165-8bd5-0d40ce7d7d9d" Name="BAFFLE-PLAFONDS" RBS="44.36"/>
+      <Resource CatalogId="97b880e3-49cc-4732-b032-55847afc623e" Name="GIPSPLAATPLAFONDS" RBS="44.37"/>
+      <Resource CatalogId="b0881841-0353-4c8b-bfe3-5ab2fc6a5532" Name="PLAFONDELEMENTEN EN -ONDERDELEN" RBS="44.38"/>
+      <Resource CatalogId="30d0c8c5-e7bd-4b02-bf78-adb9500d7ad3" Name="IN HET WERK AF TE WERKEN SYSTEEMWANDEN" RBS="44.41"/>
+      <Resource CatalogId="a73d37c3-c2b4-458e-9b95-1d45372eb198" Name="VOORAF AFGEWERKTE SYSTEEMWANDEN" RBS="44.42"/>
+      <Resource CatalogId="a3514f79-d372-4180-b685-3bc455775f75" Name="SYSTEEMBEKLEDINGEN" RBS="44.50"/>
+      <Resource CatalogId="5f8c6536-a518-41d0-a5a0-cc6aee1a4c24" Name="STELPOSTEN" RBS="44.80"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="f668c73c-746f-43f2-b3bc-12c84522e9c0" Name="AFBOUWTIMMERWERK" RBS="45">
+      <Resource CatalogId="e767aca2-fb02-453c-93f1-e28d3fc138ec" Name="ALGEMEEN" RBS="45.00"/>
+      <Resource CatalogId="b91c0611-1852-4187-9c22-cd70841c8695" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="45.21"/>
+      <Resource CatalogId="d5b7fdd6-d37b-4f8c-a878-a15b67f94f38" Name="REINIGEN BESTAAND WERK" RBS="45.22"/>
+      <Resource CatalogId="b3b8cdf3-6a45-4df3-b6c5-540749ff2ee9" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="45.23"/>
+      <Resource CatalogId="920198d5-53a8-46f1-9815-a8db2b54833e" Name="INJECTEREN BESTAAND WERK" RBS="45.24"/>
+      <Resource CatalogId="2363214b-fb57-4d68-8a07-99f248238b61" Name="HERSTELLEN BESTAAND WERK" RBS="45.25"/>
+      <Resource CatalogId="d1b627ab-252d-4580-b707-f27cfa41652f" Name="AANPASSEN BESTAAND WERK" RBS="45.26"/>
+      <Resource CatalogId="370a419b-017a-41a0-85fa-8be7b19bbfa0" Name="HERPLAATSEN BESTAAND WERK" RBS="45.27"/>
+      <Resource CatalogId="ca210709-31a3-4e85-858a-ab52334c9dd5" Name="ONDERHOUDEN BESTAAND WERK" RBS="45.28"/>
+      <Resource CatalogId="35337559-de14-4cdd-b5ef-526719316904" Name="REGELWERK" RBS="45.31"/>
+      <Resource CatalogId="a69eb9bc-4732-4f0f-a3e7-7cf729efc0b3" Name="TENGEL- EN RACHELWERK" RBS="45.32"/>
+      <Resource CatalogId="9540b5c7-eaf0-4bca-94d6-59aea578c308" Name="BESCHIETINGEN" RBS="45.41"/>
+      <Resource CatalogId="5109b707-f39f-46ca-b4ae-85cbcc7333fb" Name="VLAKKE-PLAATBEKLEDINGEN" RBS="45.42"/>
+      <Resource CatalogId="74dbdb8c-e3a6-4298-8fe6-f29c480775cb" Name="GEPROFILEERDE-PLAATBEKLEDINGEN" RBS="45.43"/>
+      <Resource CatalogId="dfd7a4b7-941c-4cca-923e-1408f6b1686a" Name="PROFIELSTROKENBEKLEDINGEN" RBS="45.44"/>
+      <Resource CatalogId="69cba999-d2fc-49c6-acad-de4a738ec6d8" Name="PANEELBEKLEDINGEN" RBS="45.45"/>
+      <Resource CatalogId="2cefa8e1-7fb3-48da-baf7-c555054ccefa" Name="AFTIMMERINGEN" RBS="45.46"/>
+      <Resource CatalogId="991d1abc-ef9f-4291-bc3d-a725a4452948" Name="ISOLATIE" RBS="45.81"/>
+      <Resource CatalogId="b88b9802-65da-4c96-8a50-2c44433ae894" Name="DAMPREMMENDE/DAMPDOORLATENDE LAGEN" RBS="45.82"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="9fb96b48-c561-4a17-824a-eb43e6bbe831" Name="SCHILDERWERK" RBS="46">
+      <Resource CatalogId="0b3413b3-a669-4e73-8047-9a284dc876e6" Name="ALGEMEEN" RBS="46.00"/>
+      <Resource CatalogId="c065ed86-09dd-47b2-8658-ff288758ea84" Name="HERSTELLEN BESTAANDE ONDERGROND" RBS="46.20"/>
+      <Resource CatalogId="ba27a2e3-0965-4ff1-956c-4c5dd1df2e52" Name="BESTAANDE ONDERGROND, HOUT" RBS="46.21"/>
+      <Resource CatalogId="14e61589-732b-470a-9e38-f28d72da0aae" Name="BESTAANDE ONDERGROND, METAAL" RBS="46.22"/>
+      <Resource CatalogId="42ecc056-de80-47ac-ba4e-66eb4b3d348b" Name="BESTAANDE ONDERGROND, STEENACHTIG" RBS="46.23"/>
+      <Resource CatalogId="af51820f-4f04-49e0-83ca-35c02b380edc" Name="BESTAANDE ONDERGROND, KUNSTSTOF" RBS="46.24"/>
+      <Resource CatalogId="72d7932a-79df-41cf-aa6a-53a7d25b2f54" Name="BESTAANDE ONDERGROND, DIVERSEN" RBS="46.28"/>
+      <Resource CatalogId="a8eed331-a0a4-43ba-92cf-a3748f8b005b" Name="NIEUWE ONDERGROND, HOUT" RBS="46.31"/>
+      <Resource CatalogId="d66fcdc8-dc2e-42d6-bb59-b4a91c4d8fc4" Name="NIEUWE ONDERGROND, METAAL" RBS="46.32"/>
+      <Resource CatalogId="26298729-a00b-41c9-a7db-c1a825a709dc" Name="NIEUWE ONDERGROND, STEENACHTIG" RBS="46.33"/>
+      <Resource CatalogId="a1ef0e3d-38c7-4bdd-b84d-c622880b283b" Name="NIEUWE ONDERGROND, KUNSTSTOF" RBS="46.34"/>
+      <Resource CatalogId="79954677-c03a-411a-90f5-93dfa42790c0" Name="NIEUWE ONDERGROND, DIVERSEN" RBS="46.38"/>
+      <Resource CatalogId="d339ea27-b5a6-4d40-b0a4-b8046ec29bd5" Name="INDUSTRIELE COATING, METAAL" RBS="46.41"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="685bd6d0-58dd-4752-a337-6cec25804abb" Name="BINNENINRICHTING" RBS="47">
+      <Resource CatalogId="81b2af9d-5c34-4c66-b289-cef39d197d52" Name="ALGEMEEN" RBS="47.00"/>
+      <Resource CatalogId="b39411c1-a978-4903-a00a-8a6f332da004" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="47.21"/>
+      <Resource CatalogId="adb2d64c-1126-4122-8309-ed36b9abd357" Name="REINIGEN BESTAAND WERK" RBS="47.22"/>
+      <Resource CatalogId="9f26c35a-813a-4559-bbe2-03111f9354be" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="47.23"/>
+      <Resource CatalogId="8d89e9a6-ebdc-43a0-9663-1b762e6f90e0" Name="INJECTEREN BESTAAND WERK" RBS="47.24"/>
+      <Resource CatalogId="864ee030-2f9f-40fe-9b85-af969fb4faff" Name="HERSTELLEN BESTAAND WERK" RBS="47.25"/>
+      <Resource CatalogId="610307b8-fb06-4f3a-a11d-245b9378109e" Name="AANPASSEN BESTAAND WERK" RBS="47.26"/>
+      <Resource CatalogId="0ce07af9-bbfd-4f18-8338-d95a7c3efc36" Name="HERPLAATSEN BESTAAND WERK" RBS="47.27"/>
+      <Resource CatalogId="91c496fe-8f02-4174-81e5-a0835491008a" Name="ONDERHOUDEN BESTAAND WERK" RBS="47.28"/>
+      <Resource CatalogId="979a11b3-fd73-4328-845d-104e5dd56d0e" Name="KASTEN" RBS="47.31"/>
+      <Resource CatalogId="3d5884f4-6863-4c3f-919f-a1f13a80f0b1" Name="STELLINGEN" RBS="47.32"/>
+      <Resource CatalogId="8cd00526-21c0-4e02-8ff8-87f8bde8c41d" Name="GARDEROBES" RBS="47.33"/>
+      <Resource CatalogId="d30717a0-8d58-4f0d-b461-6e4f0adb4875" Name="CONTAINERS EN BAKKEN" RBS="47.34"/>
+      <Resource CatalogId="5880b75a-e43b-4647-aa73-fe0db68d7525" Name="AANRECHT-, WERK- EN BUFFETBLADEN" RBS="47.41"/>
+      <Resource CatalogId="ef45e475-4075-4f06-a1ff-e9bcc2c260e5" Name="BALIES" RBS="47.42"/>
+      <Resource CatalogId="dbb26d75-c583-48eb-9aaf-d0ab1f8735b4" Name="ZITMEUBELS" RBS="47.44"/>
+      <Resource CatalogId="862a7d39-5b99-4f00-b23c-00c032d9358f" Name="BEWEGWIJZERING" RBS="47.51"/>
+      <Resource CatalogId="3a3afd4a-8168-4a7c-9e59-e40a0dd45a9e" Name="RECLAME-OBJECTEN" RBS="47.52"/>
+      <Resource CatalogId="d3bce06e-b6d8-4dcb-a151-1214640b9415" Name="GEBOUWAANKLEDING EN DECORATIE" RBS="47.60"/>
+      <Resource CatalogId="10450a6b-2a80-416e-bd20-26e3806d5339" Name="STELPOSTEN" RBS="47.80"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="a650d257-18c1-407e-bd4a-547dbf2426f4" Name="BEHANGWERK, VLOERBEDEKKING EN STOFFERING" RBS="48">
+      <Resource CatalogId="5e425d51-e66f-4dcd-8b9c-ed8b9ef3f406" Name="ALGEMEEN" RBS="48.00"/>
+      <Resource CatalogId="53c065db-e27b-428f-9795-5eb457e2fe9e" Name="TEKENINGEN" RBS="48.12"/>
+      <Resource CatalogId="ae0140ed-fad4-4828-8d24-6d5b506bc439" Name="DEMONTEREN/VERWIJDEREN BESTAAND WERK" RBS="48.21"/>
+      <Resource CatalogId="2dbd1d93-74e8-4bf4-a11e-d4d4710a9e3d" Name="REINIGEN BESTAAND WERK" RBS="48.22"/>
+      <Resource CatalogId="b0e702f7-948f-4c9e-a965-6be170234525" Name="VOORBEHANDELEN ONDERGROND BESTAAND WERK" RBS="48.23"/>
+      <Resource CatalogId="db7de570-20f4-47bf-803d-1119d89b45ad" Name="INJECTEREN BESTAAND WERK" RBS="48.24"/>
+      <Resource CatalogId="e1d7662e-ffd9-4a94-8a91-57da45fb66c1" Name="HERSTELLEN BESTAAND WERK" RBS="48.25"/>
+      <Resource CatalogId="1fdf47a4-f5a1-46a2-bf5b-3838cf056b06" Name="AANPASSEN BESTAAND WERK" RBS="48.26"/>
+      <Resource CatalogId="96461896-500b-499d-92ab-cf34377a0e86" Name="HERPLAATSEN BESTAAND WERK" RBS="48.27"/>
+      <Resource CatalogId="4b9eefc2-0e07-42ee-8880-677537bd8273" Name="ONDERHOUDEN BESTAAND WERK" RBS="48.28"/>
+      <Resource CatalogId="f5162cb6-b299-45b6-a690-f63c7479e6d4" Name="BEHANGWERK, VOORBEHANDELING ONDERGROND" RBS="48.31"/>
+      <Resource CatalogId="9dc97b75-ec40-44fa-a9bd-0fa6ede5c975" Name="BEHANGWERK, ONDERLAGEN" RBS="48.32"/>
+      <Resource CatalogId="fd11be59-51bf-46ef-9d67-fbdf24e67ece" Name="BEHANG OP PAPIERBASIS" RBS="48.33"/>
+      <Resource CatalogId="2b5cdf78-7aaa-437e-b804-ec8f83296998" Name="WANDBEKLEDINGEN" RBS="48.34"/>
+      <Resource CatalogId="50962074-7d29-4e25-b9ef-eb3db37643b2" Name="VLOERBEDEKKING, VOORBEHANDELING ONDERGROND" RBS="48.41"/>
+      <Resource CatalogId="ef416fc7-e033-44dc-b043-cd855dadb463" Name="VLOERBEDEKKING, TUSSENLAGEN" RBS="48.42"/>
+      <Resource CatalogId="2604fd85-63e0-4f27-baaf-78dbc68932b2" Name="ELASTISCHE VLOERBEDEKKINGEN" RBS="48.43"/>
+      <Resource CatalogId="18edb02f-f332-4770-bf0f-957cc3ced70d" Name="ZACHTE VLOERBEDEKKINGEN" RBS="48.44"/>
+      <Resource CatalogId="e8be3d91-51fd-43dc-85a3-8165a6b66fc7" Name="PARKET" RBS="48.45"/>
+      <Resource CatalogId="8e5caed0-1851-4d14-8b1a-b83f2ba22603" Name="ZONWERINGSSCHERMEN EN GORDIJNEN, BINNEN" RBS="48.51"/>
+      <Resource CatalogId="73f836e5-9eb1-423c-b039-581fc9d05eb5" Name="TOEBEHOREN STOFFERING" RBS="48.58"/>
+      <Resource CatalogId="d00844a0-d93e-4ef0-931d-e2fbc1ff4df2" Name="PROFIELEN" RBS="48.61"/>
+      <Resource CatalogId="5e510c93-ea11-4c8a-b189-903e5537db25" Name="STELPOSTEN" RBS="48.80"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="60faf294-8b29-41bf-9826-55387520cd3c" Name="DAKGOTEN EN HEMELWATERAFVOEREN" RBS="50">
+      <Resource CatalogId="05cdfdf8-213e-4732-9874-e43d9bd4eb7e" Name="ALGEMEEN" RBS="50.00"/>
+      <Resource CatalogId="a3031cb5-e5cf-4297-ae63-660495116e94" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="50.11"/>
+      <Resource CatalogId="effc7053-b3a5-45ab-9ed0-590a237597ce" Name="TEKENINGEN EN BEREKENINGEN" RBS="50.12"/>
+      <Resource CatalogId="fba7ebaf-5f7d-45e3-96b5-1afe82019db5" Name="DAKGOTEN" RBS="50.31"/>
+      <Resource CatalogId="edfb5472-67c9-4ba7-942c-a8b9bce0fc01" Name="DAKGOOTBEKLEDINGEN" RBS="50.32"/>
+      <Resource CatalogId="0c67d20d-a4e1-429b-9389-b5e4b464c85d" Name="METALEN BUISLEIDINGEN" RBS="50.41"/>
+      <Resource CatalogId="deb8c07b-c5d7-47cf-b798-7fabdb78c13c" Name="KUNSTSTOF BUISLEIDINGEN" RBS="50.42"/>
+      <Resource CatalogId="4657b1ac-e0b1-494e-91eb-769fcadfb24a" Name="VERBINDINGEN" RBS="50.48"/>
+      <Resource CatalogId="488938c2-d6c1-4413-a886-11c67204827e" Name="APPENDAGES" RBS="50.50"/>
+      <Resource CatalogId="f2384efe-7e30-41c9-8102-9510bb276aec" Name="APPENDAGES IN LEIDINGEN" RBS="50.51"/>
+      <Resource CatalogId="423226eb-9222-4d3a-a19d-62209ebf0d5d" Name="TANKS" RBS="50.60"/>
+      <Resource CatalogId="61fda426-5be0-4b08-a52b-98819a3c80e8" Name="FILTERS" RBS="50.62"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="112cd25e-7ec6-4f26-9614-ad78bdaea220" Name="BINNENRIOLERING" RBS="51">
+      <Resource CatalogId="5303e6f8-216d-4cac-86b5-87077ffedea5" Name="ALGEMEEN" RBS="51.00"/>
+      <Resource CatalogId="10982b5f-2930-4521-9704-fa81a99a116e" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="51.11"/>
+      <Resource CatalogId="aea0cccf-ae66-405f-8e1a-f64b5a503e31" Name="TEKENINGEN EN BEREKENINGEN" RBS="51.12"/>
+      <Resource CatalogId="d1800a25-2ee7-40d5-a2d0-3a490bf9c902" Name="BEPROEVEN, INREGELEN, IN BEDRIJF STELLEN EN CONTROLEREN" RBS="51.13"/>
+      <Resource CatalogId="dd2dbc70-b45c-4a4c-a31b-4851069b251f" Name="METALEN BUISLEIDINGEN" RBS="51.31"/>
+      <Resource CatalogId="0f5b8b37-03ca-41d4-a4b4-435c332c3884" Name="KUNSTSTOF BUISLEIDINGEN" RBS="51.32"/>
+      <Resource CatalogId="b2da14ea-0931-4c97-afcb-d84966013792" Name="STEENACHTIGE BUISLEIDINGEN" RBS="51.33"/>
+      <Resource CatalogId="e2b9c5b2-f332-4948-b7c2-61d721d96999" Name="VERBINDINGEN" RBS="51.38"/>
+      <Resource CatalogId="2974f2c9-0444-4d50-bf1b-bd784a409b15" Name="GOTEN" RBS="51.41"/>
+      <Resource CatalogId="9a395bd0-9427-4c5f-bd52-6f924bc019a5" Name="PUTTEN" RBS="51.42"/>
+      <Resource CatalogId="53ce6c5c-433f-412f-bc75-79fa10db56d4" Name="AFSCHEIDERS" RBS="51.43"/>
+      <Resource CatalogId="2e89b1cf-f94b-45a8-b31e-3e1121e62a65" Name="POMPEN EN TANKS" RBS="51.50"/>
+      <Resource CatalogId="9bd4f733-3611-403f-8a11-d3c5b88e2291" Name="APPENDAGES IN LEIDINGEN" RBS="51.61"/>
+      <Resource CatalogId="a88d4705-18eb-42af-ac60-81561b31e575" Name="APPENDAGES AAN LEIDINGEN" RBS="51.62"/>
+      <Resource CatalogId="0823a7b7-7242-4e8f-b213-3198ff6f012d" Name="APPENDAGES OM LEIDINGEN" RBS="51.63"/>
+      <Resource CatalogId="8fd9aded-581e-4e9b-a2d2-d08b4829bc51" Name="SLANGEN" RBS="51.64"/>
+      <Resource CatalogId="1323f016-355b-46b5-b110-ad66ba70c1cb" Name="ISOLATIE" RBS="51.81"/>
+      <Resource CatalogId="98dcff56-9c1f-427a-aba6-c699ce5def68" Name="ISOLATIE-AFWERKINGEN" RBS="51.82"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="01bcbead-0f99-49bb-be20-f853d1fb9392" Name="WATERINSTALLATIES" RBS="52">
+      <Resource CatalogId="38463430-2f29-4e2f-9959-08026af654e0" Name="ALGEMEEN" RBS="52.00"/>
+      <Resource CatalogId="f05aff5c-5a7d-4da7-a60f-1ecaf803fefe" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="52.11"/>
+      <Resource CatalogId="761c1514-e41f-4974-bbb8-83e0cc11b93c" Name="TEKENINGEN EN BEREKENINGEN" RBS="52.12"/>
+      <Resource CatalogId="b743520f-8d71-42a8-9c68-a23fa7ecbb9f" Name="BEPROEVEN, INREGELEN, IN BEDRIJF STELLEN EN CONTROLEREN" RBS="52.13"/>
+      <Resource CatalogId="184a6c5d-bf1c-4fee-958b-71162f36954c" Name="METALEN BUISLEIDINGEN" RBS="52.31"/>
+      <Resource CatalogId="e7797d52-0e93-4956-b85a-7836974d5bde" Name="KUNSTSTOF BUISLEIDINGEN" RBS="52.32"/>
+      <Resource CatalogId="332f9ef8-1c35-4469-98bd-05acc96e00a7" Name="VERDELERS EN VERZAMELAARS" RBS="52.33"/>
+      <Resource CatalogId="98a599be-19f5-4e0a-a877-983a59dcf2ba" Name="STEENACHTIGE BUISLEIDINGEN" RBS="52.34"/>
+      <Resource CatalogId="d798c98f-2327-4fdb-b990-423e3a9deb3c" Name="VERBINDINGEN" RBS="52.38"/>
+      <Resource CatalogId="6a9d0a18-0168-40e3-9afd-3ab23501cfbc" Name="POMPEN EN APPARATEN" RBS="52.40"/>
+      <Resource CatalogId="925f340c-61f2-4b3b-9f61-2c5e5092508c" Name="VOORRAADTOESTELLEN" RBS="52.51"/>
+      <Resource CatalogId="dae02f82-75d2-455c-9531-5be1b8caaf17" Name="DOORSTROOMTOESTELLEN" RBS="52.52"/>
+      <Resource CatalogId="7b203476-314c-41b3-b99f-d7f82bbc7f80" Name="APPENDAGES IN LEIDINGEN" RBS="52.61"/>
+      <Resource CatalogId="eb06aeec-3424-4860-849d-f70bf6d445d0" Name="APPENDAGES AAN LEIDINGEN" RBS="52.62"/>
+      <Resource CatalogId="09d3df2b-4edf-4728-9ba8-9c29eb7001a5" Name="APPENDAGES OM LEIDINGEN" RBS="52.63"/>
+      <Resource CatalogId="090c0ecb-4dd5-4d64-a931-8a728e26fe14" Name="ISOLATIE" RBS="52.81"/>
+      <Resource CatalogId="9ff43ab1-dd9f-49e7-ad09-29be28e41335" Name="ISOLATIE-AFWERKINGEN" RBS="52.82"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="2beace75-a58a-429b-85a4-079b4e3ec04d" Name="SANITAIR" RBS="53">
+      <Resource CatalogId="bf0de7f4-8050-4a7e-98a7-c3bbdadf092b" Name="ALGEMEEN" RBS="53.00"/>
+      <Resource CatalogId="c5d52049-6490-460d-b8b6-c6d2acc9035e" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="53.11"/>
+      <Resource CatalogId="7d7e73ed-b0df-4049-8e01-a34d82957f35" Name="PROEFOPSTELLINGEN" RBS="53.14"/>
+      <Resource CatalogId="c5bfc81b-8c0b-4c2a-b6cc-edf8c9cc4390" Name="SANITAIRCOMBINATIES" RBS="53.30"/>
+      <Resource CatalogId="d4ad1c23-96a3-4d78-a37f-79da4fa88988" Name="CLOSET- EN URINOIRCOMBINATIES" RBS="53.31"/>
+      <Resource CatalogId="61393ab0-5797-4bb4-a918-201da6c9a8a1" Name="DOUCHE-, BAD- EN BIDETCOMBINATIES" RBS="53.32"/>
+      <Resource CatalogId="a7a5c8bd-309f-4792-8e22-eef414f3cf8a" Name="WASTAFEL- EN WASTROGCOMBINATIES" RBS="53.33"/>
+      <Resource CatalogId="585f0697-9e2b-4865-bd78-ee1ce4e094fd" Name="GOOTSTEEN- EN SPOELBAKCOMBINATIES" RBS="53.34"/>
+      <Resource CatalogId="71f26309-63c8-4f5b-a777-767b48bc9d2e" Name="CABINES, UNITS, PANELEN" RBS="53.60"/>
+      <Resource CatalogId="a3c759f9-f872-4034-a31f-65b204db6924" Name="KRANEN EN KRAAN-AFVOERCOMBINATIES" RBS="53.70"/>
+      <Resource CatalogId="433b0cb9-6697-440a-8aef-3bc13112a55d" Name="TOEBEHOREN SANITAIR" RBS="53.80"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="41d6e963-d7f5-439f-a028-81661c370041" Name="BRANDBESTRIJDINGSINSTALLATIES" RBS="54">
+      <Resource CatalogId="05443838-3ac0-4659-a172-4de88054b8d7" Name="ALGEMEEN" RBS="54.00"/>
+      <Resource CatalogId="1d0c1a58-0783-4b0f-a6f0-a6ebd0132600" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="54.11"/>
+      <Resource CatalogId="a9a35892-fe34-463d-91c1-e7cfa1f4637a" Name="TEKENINGEN EN BEREKENINGEN" RBS="54.12"/>
+      <Resource CatalogId="081fa9e9-1e66-4635-a615-0e78f841dc48" Name="BEPROEVEN, INREGELEN, IN BEDRIJF STELLEN EN CONTROLEREN" RBS="54.13"/>
+      <Resource CatalogId="78a7913a-6e97-4137-b183-4bbe1e918111" Name="PROEFOPSTELLINGEN" RBS="54.14"/>
+      <Resource CatalogId="e90ec89b-7f67-4657-898c-8293eb873bb4" Name="METALEN BUISLEIDINGEN" RBS="54.31"/>
+      <Resource CatalogId="722ed789-3f1b-4efd-a16d-44abd5dcf52a" Name="KUNSTSTOF BUISLEIDINGEN" RBS="54.32"/>
+      <Resource CatalogId="1ebb5783-8685-4c54-bf58-421e2b14cc7c" Name="VERBINDINGEN" RBS="54.38"/>
+      <Resource CatalogId="41234a5d-4645-47e0-a99b-b2b1843c0e80" Name="BRANDBLUSTOESTELLEN" RBS="54.40"/>
+      <Resource CatalogId="3f623ddf-266b-4eec-98e8-2779fbb3e58a" Name="APPENDAGES" RBS="54.50"/>
+      <Resource CatalogId="5a8cd125-1514-4ba8-9a05-7f5ec67331fd" Name="FLESSEN EN TANKS" RBS="54.60"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="a5933f31-d27c-4629-9e9e-962d158f612a" Name="GASINSTALLATIES" RBS="55">
+      <Resource CatalogId="4442114d-db37-417f-b6b2-b0f1a2cf3ffa" Name="ALGEMEEN" RBS="55.00"/>
+      <Resource CatalogId="f3d08e80-f8f8-44ca-aa92-43279375957e" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="55.11"/>
+      <Resource CatalogId="e5739cac-0a84-4d3a-8f7f-f4042454fe4c" Name="TEKENINGEN EN BEREKENINGEN" RBS="55.12"/>
+      <Resource CatalogId="cc3f822c-d585-484a-bb30-dc8a42c932c6" Name="BEPROEVEN, INREGELEN, IN BEDRIJF STELLEN EN CONTROLEREN" RBS="55.13"/>
+      <Resource CatalogId="189c7c00-697a-4c01-96e5-3881ea853bf0" Name="METALEN BUISLEIDINGEN" RBS="55.31"/>
+      <Resource CatalogId="c18a7ac9-db74-4989-814a-370b7677481d" Name="KUNSTSTOF BUISLEIDINGEN" RBS="55.32"/>
+      <Resource CatalogId="08653467-41b5-451d-b980-52996d3bb81b" Name="VERDELERS EN VERZAMELAARS" RBS="55.33"/>
+      <Resource CatalogId="45d64662-4ed0-49b4-98b3-eecbddacdf43" Name="VERBINDINGEN" RBS="55.38"/>
+      <Resource CatalogId="f5ebfb93-ba20-4e3e-b649-b2136d603449" Name="FLESSEN EN TANKS" RBS="55.40"/>
+      <Resource CatalogId="c5f2c00a-f731-4134-a099-14695872c342" Name="APPENDAGES IN LEIDINGEN" RBS="55.51"/>
+      <Resource CatalogId="3127dc06-3531-46b7-a1b8-b9c56531c657" Name="APPENDAGES AAN LEIDINGEN" RBS="55.52"/>
+      <Resource CatalogId="e89f61e0-e4d3-4295-a4dd-b2fc24ea797d" Name="APPENDAGES OM LEIDINGEN" RBS="55.53"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="fcf67d5c-85ba-46fa-9e8a-7f81b3fcdca1" Name="PERSLUCHT- EN VACUUMINSTALLATIES" RBS="56">
+      <Resource CatalogId="5236b9e3-b894-4894-af37-74f875ae5912" Name="ALGEMEEN" RBS="56.00"/>
+      <Resource CatalogId="a7e5fe1a-5973-49d1-8642-bccd6dbee0b5" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="56.11"/>
+      <Resource CatalogId="505522d3-c20b-4dd8-a44d-85c76a87841f" Name="TEKENINGEN EN BEREKENINGEN" RBS="56.12"/>
+      <Resource CatalogId="4d33d987-5fed-4d70-8b3d-08863ff4e02e" Name="BEPROEVEN, INREGELEN, IN BEDRIJF STELLEN EN CONTROLEREN" RBS="56.13"/>
+      <Resource CatalogId="f9a126cf-ca12-4bae-a190-d9effec8f50e" Name="METALEN BUISLEIDINGEN" RBS="56.31"/>
+      <Resource CatalogId="cc9e6993-d85c-4617-9a1e-09068276924b" Name="VERDELERS EN VERZAMELAARS" RBS="56.32"/>
+      <Resource CatalogId="a1fe3b00-b818-428e-b31b-4715de36795a" Name="KUNSTSTOF BUISLEIDINGEN" RBS="56.33"/>
+      <Resource CatalogId="ad74cf02-bbe4-4c5a-9d98-c2976a99bf0f" Name="VERBINDINGEN" RBS="56.38"/>
+      <Resource CatalogId="866299c5-921c-463d-881d-5306de086864" Name="APPARATEN, FLESSEN EN TANKS" RBS="56.40"/>
+      <Resource CatalogId="d314c73c-49ff-4680-99d6-c41cea3e64dc" Name="APPENDAGES IN LEIDINGEN" RBS="56.51"/>
+      <Resource CatalogId="b73e4b63-5d89-4318-aebf-455e7c18b41e" Name="APPENDAGES AAN LEIDINGEN" RBS="56.52"/>
+      <Resource CatalogId="8690747e-d067-4fc8-8060-13f4fa85ccfc" Name="APPENDAGES OM LEIDINGEN" RBS="56.53"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="e3fffa29-cacb-4d58-8db3-03d2abce8ecf" Name="TECHNISCHE INRICHTING" RBS="57"/>
+    <ResourceGroup CatalogId="0f362a7e-fd34-4990-85c4-2c1dbe4b9ef9" Name="VERWARMINGSINSTALLATIES" RBS="60">
+      <Resource CatalogId="c88360cb-ed95-4e92-a8b3-4e53924e26dd" Name="ALGEMEEN" RBS="60.00"/>
+      <Resource CatalogId="0c3868fe-3178-4097-b204-3308e0c3ce14" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="60.11"/>
+      <Resource CatalogId="2e343d10-d6f6-4d18-84bf-10d1c0e9929b" Name="TEKENINGEN EN BEREKENINGEN" RBS="60.12"/>
+      <Resource CatalogId="242f72c6-4e40-4fae-a1a3-7fe90acbee0d" Name="BEPROEVEN, INREGELEN, IN BEDRIJF STELLEN EN CONTROLEREN" RBS="60.13"/>
+      <Resource CatalogId="c78a87b1-5cda-462b-a45f-eb2a4be8aaee" Name="PROEFOPSTELLINGEN" RBS="60.14"/>
+      <Resource CatalogId="a85e4070-fb35-431b-b230-61288c98a0b6" Name="METALEN BUISLEIDINGEN" RBS="60.31"/>
+      <Resource CatalogId="4225c456-36da-4109-a6f0-7f93a9997ed1" Name="KUNSTSTOF BUISLEIDINGEN" RBS="60.32"/>
+      <Resource CatalogId="bcb150d3-8846-42c8-87a4-695883f6b738" Name="VERDELERS EN VERZAMELAARS" RBS="60.33"/>
+      <Resource CatalogId="b4fbaf20-e6ab-4138-8d67-4c1d97d72f14" Name="METALEN KANALEN" RBS="60.34"/>
+      <Resource CatalogId="e02dfd3c-5d29-4e33-b4db-e96777be63c0" Name="KUNSTSTOF KANALEN" RBS="60.35"/>
+      <Resource CatalogId="113d8f6c-965b-4131-a869-60281e9420b5" Name="VERBINDINGEN" RBS="60.38"/>
+      <Resource CatalogId="64d728dd-311a-425a-b5ee-bb6c50f728d1" Name="VERWARMINGSLICHAMEN, NATUURLIJKE AFGIFTE" RBS="60.41"/>
+      <Resource CatalogId="e965bbb3-e356-4031-8e3c-e9264caf6300" Name="VERWARMINGSLICHAMEN, GEFORCEERDE AFGIFTE" RBS="60.42"/>
+      <Resource CatalogId="63fca2c5-312d-4b95-bb6c-bcc04e498319" Name="CENTRALE WARMTE-OPWEKKINGSAPPARATEN" RBS="60.51"/>
+      <Resource CatalogId="e74453a3-e79c-40be-a93e-c6cbddabd515" Name="LOKALE WARMTE-OPWEKKINGSAPPARATEN" RBS="60.52"/>
+      <Resource CatalogId="be158d72-4acf-425c-b071-22a82ef05509" Name="FLESSEN EN TANKS" RBS="60.60"/>
+      <Resource CatalogId="82aac3c3-e2ad-4baa-a40b-ea49c9522fa8" Name="APPENDAGES IN LEIDINGEN EN KANALEN" RBS="60.71"/>
+      <Resource CatalogId="8c22a36d-e36f-41e4-8e0c-b7073d38d736" Name="APPENDAGES AAN LEIDINGEN EN KANALEN" RBS="60.72"/>
+      <Resource CatalogId="a0d1785d-2c5b-4de9-a3a4-4230cd559bf4" Name="APPENDAGES OM LEIDINGEN EN KANALEN" RBS="60.73"/>
+      <Resource CatalogId="d48274d7-c70b-4460-bbbb-dba616bc6ca2" Name="APPENDAGES VERWARMINGSLICHAMEN" RBS="60.74"/>
+      <Resource CatalogId="3f5b93e6-d773-449f-9e9a-1bee4f86833f" Name="ISOLATIE" RBS="60.81"/>
+      <Resource CatalogId="82cca9bc-a1a1-4dfe-b765-9d290aa2054e" Name="ISOLATIE-AFWERKINGEN" RBS="60.82"/>
+      <Resource CatalogId="6b524464-a390-4704-8b8f-850e04d002e3" Name="REGELAPPARATUUR" RBS="60.83"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="465cfa3c-25c3-48d0-98ef-a93f37729a1f" Name="VENTILATIE- EN LUCHTBEHANDELINGSINSTALLATIES" RBS="61">
+      <Resource CatalogId="438bfba5-da3e-42fe-9261-592b9c0e417a" Name="ALGEMEEN" RBS="61.00"/>
+      <Resource CatalogId="691b69d4-210e-4f11-ad4e-b3f1d01b6f04" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="61.11"/>
+      <Resource CatalogId="0ce99eff-632d-4615-a691-b1953c19e496" Name="TEKENINGEN EN BEREKENINGEN" RBS="61.12"/>
+      <Resource CatalogId="88e6c762-b5ab-4646-a410-f45563476684" Name="BEPROEVEN, INREGELEN, IN BEDRIJF STELLEN EN CONTROLEREN" RBS="61.13"/>
+      <Resource CatalogId="c3bf2308-ff86-49fe-8d1f-3e87ae40269a" Name="PROEFOPSTELLING" RBS="61.14"/>
+      <Resource CatalogId="57cbfdb8-95dc-47af-b0d9-6e8ee5fb4070" Name="MINERALE KANALEN" RBS="61.31"/>
+      <Resource CatalogId="287909e1-5373-4fc1-b9d9-1320b188cc4a" Name="METALEN KANALEN" RBS="61.32"/>
+      <Resource CatalogId="c097488d-7508-4da7-b031-f7c049a83d8a" Name="KUNSTSTOF KANALEN" RBS="61.33"/>
+      <Resource CatalogId="cb95bc03-33d8-4e28-9547-ff22e21b6398" Name="VERDELERS EN VERZAMELAARS" RBS="61.36"/>
+      <Resource CatalogId="d84c6bc0-9668-4054-8c4b-23677b7de329" Name="VERBINDINGEN" RBS="61.38"/>
+      <Resource CatalogId="0d7537a0-41dd-43ce-af43-530987fe33ce" Name="LUCHTBEHANDELINGSKASTEN" RBS="61.41"/>
+      <Resource CatalogId="8b5bd3ba-1f97-475a-b9fc-1645528b6ddb" Name="VENTILATIE-, VERWARMINGS- EN BEVOCHTIGINGSAPPARATEN" RBS="61.42"/>
+      <Resource CatalogId="05886db6-b419-438e-83c0-abfd7a4463df" Name="VENTILATOREN" RBS="61.43"/>
+      <Resource CatalogId="c1a897b8-81b6-47c4-8fcf-fba93ed1ea2a" Name="BINNENROOSTERS" RBS="61.51"/>
+      <Resource CatalogId="41f59205-5b6e-4a14-afea-ff907300f335" Name="BUITENROOSTERS EN DAKKAPPEN" RBS="61.52"/>
+      <Resource CatalogId="a81da8c8-b612-41dd-922a-dfb1c67581f3" Name="APPENDAGES" RBS="61.60"/>
+      <Resource CatalogId="5afa38a8-0a40-4d62-9387-3dd49c123f32" Name="ISOLATIE" RBS="61.81"/>
+      <Resource CatalogId="59a1533a-fcdc-4a9e-9365-8fe29f0e649b" Name="ISOLATIE-AFWERKINGEN" RBS="61.82"/>
+      <Resource CatalogId="d692c807-e9ca-4f49-b59d-31e5f69ee642" Name="REGEL- EN SCHAKELAPPARATUUR" RBS="61.83"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="73299102-7749-42d2-a7bb-1f7dc191c965" Name="KOELINSTALLATIES" RBS="62">
+      <Resource CatalogId="37e9de52-33c9-400b-9736-d7f470f6c2bf" Name="ALGEMEEN" RBS="62.00"/>
+      <Resource CatalogId="d73dbd36-5ea8-4ef9-8ca3-4fd8c2c01066" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="62.11"/>
+      <Resource CatalogId="f3953bb7-e1f7-4c75-b997-ed401cee3e3d" Name="TEKENINGEN EN BEREKENINGEN" RBS="62.12"/>
+      <Resource CatalogId="8ed16e9b-edb2-41f2-bb1a-98dd320c6ad7" Name="BEPROEVEN, REGELEN, IN BEDRIJF STELLEN EN CONTROLEREN" RBS="62.13"/>
+      <Resource CatalogId="d604c5e7-ee9e-47bb-8a92-36c4d432657e" Name="PROEFOPSTELLING" RBS="62.14"/>
+      <Resource CatalogId="f44c82d3-b776-4c85-9720-5c6821018f84" Name="METALEN BUISLEIDINGEN" RBS="62.31"/>
+      <Resource CatalogId="e50df11a-ca6c-4f79-9fc8-f2e4997806b5" Name="KUNSTSTOF BUISLEIDINGEN" RBS="62.32"/>
+      <Resource CatalogId="6faeae1f-49cc-42eb-8da6-bae6c924ede6" Name="VERDELERS EN VERZAMELAARS" RBS="62.33"/>
+      <Resource CatalogId="00450da9-72bd-4dde-b5d2-f18a697ba946" Name="VERBINDINGEN" RBS="62.38"/>
+      <Resource CatalogId="9fe54c48-93fc-4869-a529-db106ccb54f9" Name="CENTRALE KOELAPPARATEN" RBS="62.41"/>
+      <Resource CatalogId="98d15a17-1293-4cc4-b2d1-e37f3139f300" Name="LOKALE KOELAPPARATEN" RBS="62.42"/>
+      <Resource CatalogId="a7814aed-6baa-4cf3-8bbc-7a59045c5ba9" Name="KOELLICHAMEN, GEFORCEERDE AFGIFTE" RBS="62.51"/>
+      <Resource CatalogId="276e85fc-4bce-46ab-8aa0-2efb77cfcac9" Name="KOELLICHAMEN, NATUURLIJKE AFGIFTE" RBS="62.52"/>
+      <Resource CatalogId="28e77172-7dea-4b2a-8417-52e1d50e1cbf" Name="TANKS" RBS="62.60"/>
+      <Resource CatalogId="aa1c69f1-816d-4f8e-9ae3-7ba69a808186" Name="APPENDAGES IN LEIDINGEN" RBS="62.71"/>
+      <Resource CatalogId="87d6d93d-a825-4f9e-b494-0e0153cc11a1" Name="APPENDAGES AAN LEIDINGEN" RBS="62.72"/>
+      <Resource CatalogId="3e4c828d-c521-4cc3-b332-1bfbc513df03" Name="APPENDAGES OM LEIDINGEN" RBS="62.73"/>
+      <Resource CatalogId="ad67b633-c6bf-4334-87c5-020e002d505b" Name="APPENDAGES KOELLICHAMEN" RBS="62.74"/>
+      <Resource CatalogId="ce926431-fafd-426a-825e-71b75024d5e3" Name="ISOLATIE" RBS="62.81"/>
+      <Resource CatalogId="67225565-3ab7-4be0-accf-0250f905dffa" Name="ISOLATIE-AFWERKINGEN" RBS="62.82"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="540e380b-c8e6-4ee8-811d-84dfd9793ae3" Name="REGELINSTALLATIES" RBS="68">
+      <Resource CatalogId="251a3cc6-6e8b-4764-997c-5547eb446862" Name="ALGEMEEN" RBS="68.00"/>
+      <Resource CatalogId="97747951-a68b-4227-ac9e-4d033b470632" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="68.11"/>
+      <Resource CatalogId="4b861018-5d24-4618-af9f-3b687537095f" Name="TEKENINGEN EN BEREKENINGEN" RBS="68.12"/>
+      <Resource CatalogId="c22eca93-16a6-4221-8c15-b7daaac577fb" Name="KEURING EN BEPROEVING" RBS="68.13"/>
+      <Resource CatalogId="00531bd9-b0d7-483b-8e66-4543bad6a910" Name="MEETORGANEN EN OPNEMERS" RBS="68.31"/>
+      <Resource CatalogId="3dda001f-3c86-4b12-925d-1987bf883f4c" Name="REGELAARS" RBS="68.32"/>
+      <Resource CatalogId="9fe54804-dfdb-4dec-b427-2df0ef42e595" Name="CORRIGERENDE ORGANEN" RBS="68.33"/>
+      <Resource CatalogId="e596ce70-3c69-458b-9402-12711da953da" Name="BEDIENENDE ELEMENTEN" RBS="68.34"/>
+      <Resource CatalogId="11eec497-d0f3-4e09-a6bf-0bca71a1ec13" Name="VERWERKINGSAPPARATUUR" RBS="68.41"/>
+      <Resource CatalogId="fd7840a7-44d4-4468-9551-68017d7a3337" Name="SCHAKEL- EN VERDEELEENHEDEN" RBS="68.51"/>
+      <Resource CatalogId="b10f12c1-63a2-4060-af01-3cfb5aec470c" Name="OMVORMERS" RBS="68.52"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="195c8b42-5909-4a24-aeac-4e4ddf6cd5cd" Name="ELEKTROTECHNISCHE INSTALLATIES" RBS="70">
+      <Resource CatalogId="e1feb2c5-a52b-4527-a756-cf132f45bc64" Name="ALGEMEEN" RBS="70.00"/>
+      <Resource CatalogId="a170e272-4bd8-4692-8d58-b61dbd45ac69" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="70.11"/>
+      <Resource CatalogId="41ed3369-892a-4307-b4bf-cf9498e8e5f4" Name="WERKBESCHEIDEN" RBS="70.12"/>
+      <Resource CatalogId="edcc1103-026b-4961-9828-a51231129c1a" Name="BEPROEVEN, INREGELEN, IN BEDRIJF STELLEN EN CONTROLEREN" RBS="70.13"/>
+      <Resource CatalogId="544f24bb-40f2-420a-abad-8cf4072fa9c1" Name="PROEFOPSTELLINGEN" RBS="70.16"/>
+      <Resource CatalogId="227c9628-e97c-4544-b62a-6f4962c11284" Name="BESTAAND WERK" RBS="70.20"/>
+      <Resource CatalogId="b6b2d4ad-afac-4981-96d2-f401ed6422c6" Name="TRANSFORMATOREN" RBS="70.31"/>
+      <Resource CatalogId="d35dce33-df86-4f60-9176-e5a4e854e013" Name="AGGREGATEN" RBS="70.32"/>
+      <Resource CatalogId="225a4283-a7e4-4a85-b5b0-34cc8f9a50c0" Name="OMZETTERS" RBS="70.33"/>
+      <Resource CatalogId="a4f946b9-f697-4918-9eaf-ea008126a739" Name="ACCUMULATOREN" RBS="70.34"/>
+      <Resource CatalogId="76a898ab-b30d-4bf7-b261-3a062be29d9e" Name="NO-BREAKSYSTEMEN" RBS="70.35"/>
+      <Resource CatalogId="d4f4043c-ed7e-45e8-986a-e1f4ab9b83ab" Name="FILTERS" RBS="70.36"/>
+      <Resource CatalogId="9385fb42-ffad-4cd7-a232-9f97843bc5a4" Name="BLINDSTROOMCOMPENSATOREN" RBS="70.37"/>
+      <Resource CatalogId="af6f3e25-830d-438a-893b-f0083035961f" Name="TRANSFORMATORSTATIONS, VOORAF VERVAARDIGD" RBS="70.38"/>
+      <Resource CatalogId="df42d2be-ba15-4da0-8571-56523ae2c3d3" Name="KANALISATIE" RBS="70.41"/>
+      <Resource CatalogId="0ce15c54-cc2f-403b-baa8-de8e820fe307" Name="BUISLEIDINGEN EN SLANGEN" RBS="70.42"/>
+      <Resource CatalogId="22e80924-debb-4934-883b-78dab684a4fd" Name="DOORVOERINGEN" RBS="70.43"/>
+      <Resource CatalogId="30987fa3-9544-46f1-a117-adc6e548af0c" Name="SCHAKEL- EN VERDEELINRICHTINGEN, HOOGSPANNING" RBS="70.51"/>
+      <Resource CatalogId="3aa8b485-2bc7-48c8-951b-d0fba21f2c7f" Name="SCHAKEL- EN VERDEELINRICHTINGEN, LAAGSPANNING" RBS="70.52"/>
+      <Resource CatalogId="70c3ff49-42ef-4ded-8704-493425ac340d" Name="RAILKOKERSYSTEMEN" RBS="70.53"/>
+      <Resource CatalogId="58b29448-b856-46ae-96cc-3b1bcd0d1299" Name="MEETINSTRUMENTEN" RBS="70.54"/>
+      <Resource CatalogId="131ad6be-3296-433d-a4fc-a5f05781f398" Name="BEVEILIGINGSTOESTELLEN" RBS="70.55"/>
+      <Resource CatalogId="b43e82cb-6967-40ad-a90d-126d64999880" Name="ENERGIEKABELS, HOOGSPANNING" RBS="70.61"/>
+      <Resource CatalogId="37751f61-2a32-4054-bb79-dff322c03f83" Name="ENERGIEKABELS, LAAGSPANNING" RBS="70.62"/>
+      <Resource CatalogId="e49dfb3f-0f7d-4104-a366-ee0dd5a3e3d7" Name="INFORMATIE- EN SIGNAALKABELS" RBS="70.63"/>
+      <Resource CatalogId="500b511c-5ef9-4995-ba1f-6ce30a6284bd" Name="DRADEN" RBS="70.64"/>
+      <Resource CatalogId="79a09ac0-de98-4b1a-be41-8158d8a41c20" Name="TOEBEHOREN DRAAD/KABEL" RBS="70.65"/>
+      <Resource CatalogId="1999d466-92a8-455f-9a94-3cbd19cbd71e" Name="SCHAKELAARS, HOOGSPANNING" RBS="70.71"/>
+      <Resource CatalogId="5236e25d-8270-41f8-a762-1aea092d74d0" Name="SCHAKELAARS, LAAGSPANNING" RBS="70.72"/>
+      <Resource CatalogId="f410fa93-4b8e-4dda-bc84-7e126e057ef6" Name="CONTACTDOZEN EN AANSLUITMATERIAAL, HOOGSPANNING" RBS="70.73"/>
+      <Resource CatalogId="dffba936-5c80-4dbd-a8db-84c09e86d15e" Name="CONTACTDOZEN EN AANSLUITMATERIAAL, LAAGSPANNING" RBS="70.74"/>
+      <Resource CatalogId="f00de323-6f2b-454e-8191-8cc642bad845" Name="SCHAKELAARCOMBINATIES" RBS="70.75"/>
+      <Resource CatalogId="fc4d1ccf-8be1-4e10-bf62-0ea6309673cf" Name="SPANNINGSRAILS" RBS="70.78"/>
+      <Resource CatalogId="1a70f212-6910-4877-a222-00bef29ed678" Name="VERLICHTINGSARMATUREN" RBS="70.81"/>
+      <Resource CatalogId="78326b18-370f-4ed7-8515-ab62a4214df9" Name="LAMPEN" RBS="70.82"/>
+      <Resource CatalogId="06a60e58-d02e-48f2-af43-2b67c172d056" Name="VERWARMINGSTOESTELLEN EN KABELS" RBS="70.83"/>
+      <Resource CatalogId="8ffddd4f-08bc-4987-96ee-16324888d7a9" Name="ELEKTRISCHE TOESTELLEN" RBS="70.84"/>
+      <Resource CatalogId="e0c464f2-57ce-41ac-b117-69aa4a15c017" Name="AARDINGS- EN BLIKSEMAFLEIDERMATERIALEN" RBS="70.88"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="3c005bee-0e0f-4ad0-8248-846274be38b5" Name="COMMUNICATIE- EN BEVEILIGINGSINSTALLATIES" RBS="75">
+      <Resource CatalogId="57c22b3d-d593-4f71-9870-b88ec9293d21" Name="ALGEMEEN" RBS="75.00"/>
+      <Resource CatalogId="48c5de66-bfca-44fb-839e-92cf504e07ec" Name="FUNCTIONELE OMSCHRIJVINGEN INSTALLATIEDELEN" RBS="75.10"/>
+      <Resource CatalogId="27044738-8f89-4d0b-b4f5-b0ffa4b8e93d" Name="FUNCTIONELE OMSCHRIJVINGEN INSTALLATIE-ONDERDELEN" RBS="75.11"/>
+      <Resource CatalogId="339d491a-cdd1-4071-835a-39415c371826" Name="WERKBESCHEIDEN" RBS="75.12"/>
+      <Resource CatalogId="4b0f14f8-fbb0-47eb-ae56-ff735df077ae" Name="METEN, BEPROEVEN/INREGELEN, IN BEDR. STELLEN EN CONTR." RBS="75.13"/>
+      <Resource CatalogId="f23716a4-19d6-4631-a8d4-2a8e061b198c" Name="BEDIENINGSINSTRUCTIE/OPLEIDING" RBS="75.15"/>
+      <Resource CatalogId="fd0ac43a-d1b9-4408-b70f-3b9353163b82" Name="PROEFOPSTELLINGEN" RBS="75.16"/>
+      <Resource CatalogId="d7db3a44-7683-4019-b19a-5f7741d9c31d" Name="BESTAAND WERK" RBS="75.20"/>
+      <Resource CatalogId="c08b5f13-04dd-431d-942b-67597254ee24" Name="CENTRALE COMMUNICATIE-APPARATUUR" RBS="75.31"/>
+      <Resource CatalogId="7764e155-fc39-4be2-9d60-d96da7c61aa2" Name="CENTRALE-VERWERKINGSAPPARATUUR" RBS="75.32"/>
+      <Resource CatalogId="5f1a76d4-dd3e-4abe-a5c2-3bef3f69cfe1" Name="BEDIENINGS-/SIGNALERINGSPANELEN" RBS="75.33"/>
+      <Resource CatalogId="24a843a9-2279-4891-a74e-95036007e840" Name="VOEDINGSAPPARATUUR" RBS="75.37"/>
+      <Resource CatalogId="5a93c2a2-559f-46b3-bb05-467fc77df9f0" Name="SIGNAALZEND-ONTVANGSTAPPARATUUR" RBS="75.41"/>
+      <Resource CatalogId="a39da76b-75ae-44fb-8d88-204578c8bb49" Name="SIGNAALBEHANDELINGSAPPARATUUR" RBS="75.42"/>
+      <Resource CatalogId="aabf2cb0-5d66-45b1-8cd4-61d9049518ae" Name="SIGNAALONTVANGST-WEERGAVE APPARATUUR" RBS="75.43"/>
+      <Resource CatalogId="eec487fc-1b66-4abd-bbb1-58767d5576e9" Name="SIGNAALOPNAME-WEERGAVE APPARATUUR" RBS="75.44"/>
+      <Resource CatalogId="6f051f94-946e-4402-bf1f-93519181bd4f" Name="LICHT-/GELUIDSIGNAALAPPARATUUR" RBS="75.45"/>
+      <Resource CatalogId="1aa29394-777e-4fed-b40d-38730bb89ac0" Name="COMMUNICATIE-APPARATUUR" RBS="75.46"/>
+      <Resource CatalogId="4058b1aa-8b98-44ed-b46f-85fca67263e2" Name="REGISTRATIE-APPARATUUR" RBS="75.51"/>
+      <Resource CatalogId="98295113-9ce7-42f9-9139-913ca99018ee" Name="MELD-/DETECTIE-APPARATUUR" RBS="75.52"/>
+      <Resource CatalogId="3ea44576-c64e-43d3-8dd5-5ecee3cbadac" Name="GRENDELINGS-/ONTGRENDELINGSAPPARATUUR" RBS="75.53"/>
+      <Resource CatalogId="57f47afa-9ef5-4b32-bdfc-344daf0eaafd" Name="INFORMATIEKABELS/-LEIDINGEN" RBS="75.61"/>
+      <Resource CatalogId="12730cc9-0bd1-44bf-a15f-b82b6bea0a84" Name="RANGEERDRADEN/-SNOEREN EN AANSLUITSNOEREN" RBS="75.62"/>
+      <Resource CatalogId="54fbba39-7266-4c6f-ab60-5c698f4588cc" Name="TOEBEHOREN INFORMATIEKABELS" RBS="75.65"/>
+      <Resource CatalogId="678e93e0-58a2-4acc-975e-dca2d2ae8fc6" Name="VERBINDINGSMATERIAAL" RBS="75.71"/>
+      <Resource CatalogId="5f266713-f9cd-4efd-ac25-c5c9374c622f" Name="SIGNAALVERDELERS" RBS="75.72"/>
+      <Resource CatalogId="175d84ef-401c-4366-9ed8-795f8f1badca" Name="SCHAKEL- EN AANSLUITMATERIAAL" RBS="75.73"/>
+      <Resource CatalogId="ab5bbe58-db80-4d28-908e-80fefa278e57" Name="GEGEVENSUITVOERAPPARATUUR" RBS="75.81"/>
+      <Resource CatalogId="5d05c475-4464-495c-ab61-5f50699397d9" Name="SOFTWARE" RBS="75.82"/>
+      <Resource CatalogId="c4ecb886-e928-47bf-9969-44ce52f78642" Name="GEGEVENSDRAGERS" RBS="75.83"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="6b869800-3b19-418d-85d3-69eb5531c26c" Name="GEBOUWENBEHEERSYSTEMEN" RBS="78">
+      <Resource CatalogId="42a3dbd0-4fcb-4636-8237-fe518139889b" Name="ALGEMEEN" RBS="78.00"/>
+      <Resource CatalogId="ff918b0a-ecaf-464b-8173-44299ddb1460" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="78.11"/>
+      <Resource CatalogId="19f0c5f1-eb80-4edc-884b-64e9023da2c1" Name="TEKENINGEN EN BEREKENINGEN" RBS="78.12"/>
+      <Resource CatalogId="8f7a1c51-47d5-444b-a11a-e7e43b44174c" Name="BUSLEIDINGEN/-RAILSYSTEMEN" RBS="78.31"/>
+      <Resource CatalogId="50a0b9c3-a742-4419-834a-468214d80475" Name="SYSTEEMCOMPONENTEN BUSSYSYTEMEN" RBS="78.41"/>
+      <Resource CatalogId="9fb3d583-f0be-4924-936f-20b399096322" Name="SENSOR-/AANSTURINGSCOMPONENTEN BUSSYSTEMEN" RBS="78.51"/>
+      <Resource CatalogId="5a7045c1-87de-46bd-8ae6-238bd6bc9cbf" Name="SCHAKELACTOR-/REGELCOMPONENTEN BUSSYSTEMEN" RBS="78.61"/>
+      <Resource CatalogId="9cda376e-5b87-4d8b-91a2-5cf6ab32864c" Name="OVERSPANNINGSBEVEILIGINGSCOMPONENTEN" RBS="78.75"/>
+      <Resource CatalogId="2daf4dc7-66c8-432d-9cd3-b2bce27118f7" Name="SYSTEEM TOEBEHOREN" RBS="78.81"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="2f9b7569-73f8-49b0-b348-e649ea1f3ca0" Name="LIFTINSTALLATIES" RBS="80">
+      <Resource CatalogId="136da4b7-0203-49f6-b2d8-21b1b346b8fe" Name="ALGEMEEN" RBS="80.00"/>
+      <Resource CatalogId="bfc44950-a7ea-487c-b389-e4a795045cca" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="80.11"/>
+      <Resource CatalogId="8bd3c787-8f53-497e-89f0-f33a1007854e" Name="TEKENINGEN EN BEREKENINGEN" RBS="80.12"/>
+      <Resource CatalogId="241293a8-372f-4eb6-a10d-e3bf3a406d32" Name="KEURING" RBS="80.13"/>
+      <Resource CatalogId="eb34e7bb-2613-4438-89de-1ba64121ca98" Name="LIFTKOOIEN" RBS="80.31"/>
+      <Resource CatalogId="15ca1c86-4eb5-47fa-a4e9-a7c4c3c8ee77" Name="CONSTRUCTIES IN SCHACHT, MACHINE- EN SCHIJVENRUIMTE" RBS="80.32"/>
+      <Resource CatalogId="41d84275-ad14-4cf1-96c7-b6183a67af1d" Name="AANDRIJVINGEN" RBS="80.33"/>
+      <Resource CatalogId="336d0494-c1d5-4076-8d94-1a61c260bbe7" Name="BESTURING EN SIGNALERING" RBS="80.34"/>
+      <Resource CatalogId="a4c63d8d-b6b3-465e-aad9-e6d3f25f7166" Name="SCHACHTTOEGANGEN" RBS="80.35"/>
+      <Resource CatalogId="55e7c9b1-b522-4689-8c26-dd05ca6f5a02" Name="TOEBEHOREN" RBS="80.80"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="1aeba1c2-08fc-4251-88a6-487d03ca8744" Name="ROLTRAPPEN EN ROLPADEN" RBS="81">
+      <Resource CatalogId="1d3b3141-ade9-40b2-9076-0d08b137e362" Name="ALGEMEEN" RBS="81.00"/>
+      <Resource CatalogId="7a62ac5c-9fea-4bb0-b71d-8d2fe54b516c" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="81.11"/>
+      <Resource CatalogId="375f115a-ffee-43e6-86d9-7245579a604f" Name="WERKBESCHEIDEN" RBS="81.12"/>
+      <Resource CatalogId="9611c499-2e52-4078-9837-0c57508a640f" Name="METEN, BEPROEVEN/INREGELEN, IN BEDRIJFSTELLEN EN KEUREN" RBS="81.13"/>
+      <Resource CatalogId="13561efc-5c2c-48ea-8571-642cfa4b1b9f" Name="INSTRUCTIE/OPLEIDING" RBS="81.14"/>
+      <Resource CatalogId="72ef5ccf-ac75-4bde-85e1-d14d54f315f3" Name="REVISIEBESCHEIDEN" RBS="81.15"/>
+      <Resource CatalogId="f21541d7-3c63-4f3a-8460-b32354869a2c" Name="BESTAAND WERK" RBS="81.20"/>
+      <Resource CatalogId="86ad65d2-079e-40a5-8d4e-a4c8e8c00980" Name="ROLTRAPPEN EN ROLPADEN" RBS="81.30"/>
+      <Resource CatalogId="2166cc13-26fc-4eb9-a1d6-001b9c656801" Name="STELPOSTEN" RBS="81.80"/>
+    </ResourceGroup>
+    <ResourceGroup CatalogId="07e13780-ee01-442d-bbc1-9c6318ca4d44" Name="HEF- EN HIJSINSTALLATIES" RBS="82"/>
+    <ResourceGroup CatalogId="483279b9-f0a6-460b-80be-51cf2592c5c4" Name="GOEDERENTRANSPORT- EN -DISTRIBUTIESYSTEMEN" RBS="83"/>
+    <ResourceGroup CatalogId="d443b5c1-64cb-41be-89b8-62b9d0700b3a" Name="GEVELONDERHOUDINSTALLATIES" RBS="84">
+      <Resource CatalogId="8dded040-4a96-4a46-8df5-fa92ad891351" Name="ALGEMEEN" RBS="84.00"/>
+      <Resource CatalogId="d6012cb6-6ae9-4c3a-8afa-d107398b1262" Name="FUNCTIONELE OMSCHRIJVING, INSTALLATIE-ONDERDELEN" RBS="84.11"/>
+      <Resource CatalogId="ee11b4ba-d869-4f8f-af2b-ef39951dc64f" Name="TEKENINGEN EN BEREKENINGEN" RBS="84.12"/>
+      <Resource CatalogId="2fae9487-46ef-408c-8253-b6479bb138bb" Name="BEPROEVING EN KEURING" RBS="84.13"/>
+      <Resource CatalogId="a969d131-660d-4cfa-917c-84a7ce5db01b" Name="RAILTRAJECTEN" RBS="84.30"/>
+      <Resource CatalogId="fd8d5f80-95a4-4506-9b5e-63a7fa2a21a3" Name="DAKBALKEN EN -HAKEN" RBS="84.40"/>
+      <Resource CatalogId="139ac3c3-21cc-4794-839d-fd68cade8917" Name="DAK- EN GEVELWAGENS" RBS="84.50"/>
+      <Resource CatalogId="bf94e4fe-ca6e-43d8-ab01-593efce1fa85" Name="HANGSTEIGERS" RBS="84.60"/>
+      <Resource CatalogId="4b25d690-9b15-4830-a41a-1fab3340b072" Name="GEVELLADDERS" RBS="84.70"/>
+      <Resource CatalogId="4bb31398-c08e-44fa-b8ea-908aea47fd6e" Name="GEVELBESCHERMINGSVOORZIENINGEN" RBS="84.80"/>
+    </ResourceGroup>
+  </Catalog>
+</Takeoff>
