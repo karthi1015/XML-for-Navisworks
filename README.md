@@ -17,3 +17,7 @@ looking for several defintions of classifications in IFC models
 ![picture](https://github.com/C-Claus/XML/blob/master/NLSfB_searchsets.png)
 
 
+**Create IFC Searchset Types**
+
+looking for several defintions of classifications in IFC models
+![picture](https://github.com/C-Claus/XML-for-Navisworks/blob/master/XML_IFC_Type_Searchset.png)
