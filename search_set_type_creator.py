@@ -1,27 +1,7 @@
-#Geschreven en bedacht door Coen Claus in april 2019 te Amersfoort
-
 import ifcopenshell
 from lxml import etree
 import uuid 
 import os 
-#from xml.etree import ElementTree
-
-
-#file_name = "U:\\02_revit_testmodellen\\06_Dobbebuurt\\20180914_Holtwoningen_kolommen.ifc"
-#file_name = "U:\\02_revit_testmodellen\\06_Dobbebuurt\\20180914_kolom_types.ifc"
-#file_name = "U:\\02_revit_testmodellen\\06_Dobbebuurt\\20180914_rikkert_kolommen.ifc"
-#file_name = "U:\\02_revit_testmodellen\\06_Dobbebuurt\\20180914_coen_kolommen.ifc"
-#file_name = "U:\\00_ifc_modellen\\20180914_Holtwoningen_nieuw_BWK_BLOK2_R2018.ifc"
-#file_name = "U:\\00_ifc_modellen\\61760024_bloemstraat_124_128_130_ccl_incl_base_quanties.ifc"
-#file_name = "U:\\17_navisworks\\00_Kinderdagverblijf Madristraat te Utrecht\\917-319_KDV Leidsche Rijn.ifc"
-
-
-#1 get file name and write to output.xml, CHECK 
-#2 create exchange line in xml file, CHECK
-#3 change variable names 
-#4 create interface
-
-
 
 ######################################################################
 #################### GET TYPE DATA FROM IFC  #########################
@@ -132,6 +112,7 @@ def write_to_xml(file_name):
 
 
 if __name__ == '__main__':
+ 
     write_to_xml(file_name)
         
      
