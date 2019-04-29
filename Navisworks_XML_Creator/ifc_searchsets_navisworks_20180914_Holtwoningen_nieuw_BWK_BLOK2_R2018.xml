@@ -1,0 +1,4143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exchange>
+  <selectionsets>
+    <viewfolder guid="d4b7f7b5-a6b4-40ae-b873-91b9dac50480" name="IfcFlowSegment">
+      <selectionset guid="476be6be-b21a-4969-ac81-f1161b54f344" name="Pipe Types:50_FIM_standleiding_40:2829405">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Pipe Types:50_FIM_standleiding_40:2829405</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="56795e1f-cae8-4f98-a9d9-4605ac05c83a" name="Gutter:47_ROG_goot_rond_350x180:2014843">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Gutter:47_ROG_goot_rond_350x180:2014843</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="9fde61e9-ba9f-4990-9557-08b502866327" name="IfcMember">
+      <selectionset guid="10a55609-8ce7-4341-a371-d279966a8595" name="Merk_J">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_J</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="829703ae-fd2c-4e1d-81c7-8c0eff9b0472" name="32_FIM_binnendeurkozijn_670x2155mm_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_670x2155mm_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="085079cf-ed9a-4bde-a34a-5a38d4ee1286" name="32_FIM_binnendeurkozijn_640x2155mm_R berging">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_640x2155mm_R berging</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4c2a75b8-dd0a-47eb-97cf-b516b4287eaa" name="32_FIM_binnendeurkozijn_850x2315mm_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_850x2315mm_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e5baadcf-9d6e-42b1-b403-657a9004f01c" name="Merk_Osp">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_Osp</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0ec7e691-f5ec-44e4-90fd-c9b19ccc7935" name="32_FIM_binnendeurkozijn_680x2140mm_L berging">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_680x2140mm_L berging</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="895f0441-e75d-4f38-8724-a65d23606bc1" name="32_FIM_binnendeurkozijn_680x2140mm_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_680x2140mm_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6a8dce12-6717-4ce9-a3d7-5a8bde625fd0" name="Merk_Fsp">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_Fsp</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="ca7510f8-b3e9-4b95-8b19-5777e47b5276" name="Merk_D">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_D</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f5a7d834-30bd-4b9c-b5f4-a02070ce0d39" name="32_FIM_binnendeurkozijn_780x2115mm_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_780x2115mm_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="048576bb-b671-4803-a1e7-24f7a256e1e6" name="Merk_A noord">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_A noord</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="1776a5ac-a2cd-4389-812a-d04ae7355c8b" name="32_FIM_binnendeurkozijn_620x2155mm_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_620x2155mm_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9ccbc03d-adc4-4f5b-8c39-ef0a36d4eca0" name="32_FIM_binnendeurkozijn_645x1815mm_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_645x1815mm_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e5ed3b73-2c84-4560-a676-487f96b322c9" name="Merk_A 2">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_A 2</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="5ae98d8d-32df-4ea9-8e44-a87ef2ca383e" name="32_FIM_binnendeurkozijn_640x2155mm_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_640x2155mm_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f2d6be49-d1a6-4279-9bf5-9954426909b6" name="32_FIM_binnendeurkozijn_750x2115mm_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_750x2115mm_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="08da53df-fb93-42d7-8d5e-39afb3abff47" name="Merk_C">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_C</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="836bd30c-5fc5-419a-a346-5ce1278393f7" name="32_FIM_binnendeurkozijn_850x2315mm_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_850x2315mm_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8efbb527-01a9-474f-9069-04ed1128ffbc" name="32_FIM_binnendeurkozijn_780x2140mm_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_780x2140mm_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="1b4f2314-8def-4958-8a11-9f27607ed673" name="32_FIM_binnendeurkozijn_670x2100mm_R_bovenlicht">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_670x2100mm_R_bovenlicht</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="2681fa26-acac-4c89-be38-2e4ca8a7f5bf" name="32_FIM_binnendeurkozijn_780x2140mm_L entree">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_780x2140mm_L entree</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7be72780-c777-4f0d-956f-3eb1a5c6b613" name="32_FIM_binnendeurkozijn_680x2140mm_R bergingen">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_680x2140mm_R bergingen</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="524515b8-9a27-4fb5-a4bc-6518825a2cb1" name="Merk_N">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_N</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="90926bcf-bfb4-4acb-8232-89fe3a1dc90f" name="32_FIM_binnendeurkozijn_670x2100mm_L_bovenlicht">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_670x2100mm_L_bovenlicht</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="719eb27d-666b-407b-9b17-8d4031ff3ffc" name="32_FIM_binnendeurkozijn_750x2115mm_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_750x2115mm_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="21615a28-a38c-4431-9c89-e90363fbaf2d" name="Merk_M">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_M</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4f24326b-3c33-4798-8513-d16fbd30c154" name="32_FIM_binnendeurkozijn_784x2225mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_784x2225mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9a144189-081d-44f1-94e6-29a2cd69c2fb" name="Merk_G">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_G</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4d5532db-729c-4103-ac73-a273ce83bd14" name="32_FIM_binnendeurkozijn_700x2100mm_R_bovenlicht">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_700x2100mm_R_bovenlicht</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="58e5ee80-1a42-4277-b60a-9be4804f69b2" name="32_FIM_binnendeurkozijn_780x2140mm_R entree">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_780x2140mm_R entree</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="ad59142f-cd1b-478a-918a-1048df3c5664" name="32_FIM_binnendeurkozijn_640x2155mm_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_640x2155mm_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="ee505909-1cce-447f-984a-d04edd474ddc" name="Merk_B">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_B</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="191f78ae-8232-4dcd-942f-889bdbd4b534" name="32_FIM_binnendeurkozijn_800x2315mm_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_800x2315mm_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7c3ce2bb-2df7-40ca-9365-bd912e6eb38b" name="32_FIM_binnendeurkozijn_700x2100mm_L_bovenlicht">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_700x2100mm_L_bovenlicht</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8f3f66bb-b7fa-40d1-9392-14f75f157f3d" name="Merk">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a9c17345-50b6-40f9-bf21-129596b6f171" name="32_FIM_binnendeurkozijn_1700x2100mm_dubbel">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_1700x2100mm_dubbel</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="18b1594b-216f-413c-a328-cda704868d0f" name="Assembled Stair:24_ST_houten trap_gesloten_b=850_op=188_aan=220 4e:4089068">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Assembled Stair:24_ST_houten trap_gesloten_b=850_op=188_aan=220 4e:4089068</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="02ec7bd6-a75a-4ef8-80d4-423fee3538f4" name="Merk_A">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_A</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="20327d60-0094-49c7-bb5e-6899d288e236" name="Merk_O">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_O</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="fa03e92c-8938-4644-980b-81b57ece2396" name="Merk_A sp">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_A sp</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c94a7ba9-da4c-4e1d-9835-3838a5efa48b" name="Merk_Asp">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_Asp</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f35e9430-3c85-4ad2-bcde-f47db682d135" name="32_FIM_binnendeurkozijn_700x2140mm_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_700x2140mm_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="d2b8c362-196c-418a-a7a7-6db30c41a924" name="Merk_F">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_F</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="284422a1-9186-4d6f-9715-c2fc65a9b2c8" name="32_FIM_binnendeurkozijn_700x2115mm_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_700x2115mm_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7b1d0691-9282-4033-ace2-cecf128f5be9" name="Merk_K">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_K</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="60699b89-8f37-4154-9927-6ca9fa656fc1" name="32_FIM_binnendeurkozijn_750x2315mm_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_750x2315mm_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="5544d1d5-185e-4d2c-b5f0-dfad79839630" name="Merk_H">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_H</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a108fc9e-1366-4c46-8365-0196285d8816" name="32_FIM_binnendeurkozijn_570x2100mm_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_570x2100mm_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="1c24ce0a-3de5-4a09-894d-8a4603157471" name="32_FIM_binnendeurkozijn_800x2315mm_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_800x2315mm_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8309d5f3-7992-4b23-88ec-0879140d4e7c" name="32_FIM_binnendeurkozijn_750x2315mm_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_750x2315mm_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6317abea-120c-4a40-a6ef-394757941168" name="Assembled Stair:24_ST_houten trap_gesloten_b=850_op=188_aan=220 woningen:4116369">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Assembled Stair:24_ST_houten trap_gesloten_b=850_op=188_aan=220 woningen:4116369</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="d95b2a6e-92cd-468e-b805-af832e158e0b" name="32_FIM_binnendeurkozijn_600x2100mm_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_600x2100mm_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4bde0521-c6c7-4a77-82fc-52fcf1d7ed13" name="32_FIM_binnendeurkozijn_640x2155mm_L berging">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_640x2155mm_L berging</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b6ff7484-55e0-41ab-9f6f-117480c6a1d2" name="32_FIM_binnendeurkozijn_650x2115mm_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_650x2115mm_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="130f71e5-2e7d-44e8-9bd0-dc670d470309" name="Merk_Asp noord">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_Asp noord</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="00461e1c-8875-416f-9d3a-b418d74e098f" name="32_FIM_binnendeurkozijn_700x2115mm_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_700x2115mm_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="dc143df9-c739-45c2-9b36-3a4afd8ce547" name="32_FIM_binnendeurkozijn_700x2140mm_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_700x2140mm_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b5793df2-f819-459a-b956-86cb9b0680b0" name="32_FIM_binnendeurkozijn_780x2140mm_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_780x2140mm_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="75dd9745-2c78-43e8-a700-a86a7ec2b2d9" name="32_FIM_binnendeurkozijn_700x2315mm_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeurkozijn_700x2315mm_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e5117130-435c-4ddd-afc6-c8a9974d56bf" name="Merk_Nsp">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_Nsp</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f71a398c-6b07-4153-9f26-71ec5f3b5c20" name="Merk_Csp">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Merk_Csp</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="e492f6be-6396-4dec-8db6-6a2c41f948e4" name="IfcRoof">
+      <selectionset guid="0d8fc740-240b-405d-ac84-298b10aa12ee" name="Basic Roof:27_RO_dak_entree_hout 165mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Roof:27_RO_dak_entree_hout 165mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c4fce428-568f-4e03-a216-96dec0a23a32" name="Basic Roof:47_RO_Kingspan_Aero_Rc6.0 231mm:4019917">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Roof:47_RO_Kingspan_Aero_Rc6.0 231mm:4019917</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0e79002c-83d4-4307-8ef0-7088675eef41" name="Basic Roof:47_RO_PV-panelen 90mm:4019919">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Roof:47_RO_PV-panelen 90mm:4019919</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="03e81495-8b7a-4d01-b944-2062517e4e26" name="Basic Roof:27_RO_isolatie_STO_stuc_70mm:4297775">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Roof:27_RO_isolatie_STO_stuc_70mm:4297775</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="f259fa08-5895-46a6-9507-1d82f4f884a2" name="IfcWindow">
+      <selectionset guid="be274945-59b9-457a-b846-0557e5587edd" name="31_FIM_vast_glas">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_vast_glas</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c94aaada-d157-4715-9f24-027424f85d30" name="31_FIM_draairaam_binnen_rechts">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_draairaam_binnen_rechts</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e4c29b3f-437b-4e85-8a15-ca2cb767780b" name="31_FIM_raamdorpel_stenen">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_raamdorpel_stenen</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7865611e-a239-4788-bcc0-0f7c3215e78a" name="31_FIM_draaikiepraam_binnen_links_balkon">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_draaikiepraam_binnen_links_balkon</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a8eff2fa-55ce-45f6-9903-aadb2f192810" name="31_FIM_draairaam_binnen_rechts_roede">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_draairaam_binnen_rechts_roede</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="ba6e81f1-a824-4dd1-b4e8-3c77434c4e53" name="31_FIM_draaikiepraam_binnen_links roede frame 60mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_draaikiepraam_binnen_links roede frame 60mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6a28eb08-1444-42be-ac89-5e9e47bcaa69" name="37_FIM_WI_dakraam_1000x1600mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">37_FIM_WI_dakraam_1000x1600mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="1482a3e2-0199-49ce-8d61-0c1572d02dee" name="31_FIM_draaikiepraam_binnen_links">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_draaikiepraam_binnen_links</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="1ffcfa96-bc73-4b52-a468-b0832c16aa9d" name="31_FIM_draairaam_binnen_links_roede">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_draairaam_binnen_links_roede</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="98fa278a-6db9-41f5-b762-64faa183b751" name="31_FIM_kiepraam_binnen">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_kiepraam_binnen</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="5c33e499-61ad-42bd-964b-dcde88b5361f" name="32_FIM_binnenbeglazing_10mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnenbeglazing_10mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="de89ee42-a2a8-4334-b261-824c7fb60ab6" name="31_FIM_draaikiepraam_binnen_rechts">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_draaikiepraam_binnen_rechts</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="3538005f-6565-4ef1-96b6-350b0e69c82a" name="31_FIM_vast_glas_met_roeden_2x2 38mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_vast_glas_met_roeden_2x2 38mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f15a48df-4f45-4c27-96fe-73164dc64f74" name="31_FIM_draaikiepraam_binnen_rechts_balkon">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_draaikiepraam_binnen_rechts_balkon</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8088b980-9c27-402c-953a-df723d777198" name="glas">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">glas</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6634a1f5-0875-4248-9fec-fede6280443e" name="31_FIM_draairaam_binnen_links">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_draairaam_binnen_links</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6ea3af5a-6662-4618-a7cc-3c4c0d3ef749" name="31_FIM_draaikiepraam_binnen_rechts roeden 2x2">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_draaikiepraam_binnen_rechts roeden 2x2</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8bdc0b20-c219-49ee-941c-afee933cb07e" name="31_FIM_draaikiepraam_binnen_links roeden 2x2">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_draaikiepraam_binnen_links roeden 2x2</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="82dc34a4-8384-4bf8-a4a6-49f9cc4b4309" name="31_FIM_vast_glas_met_roeden_1x2 38mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_vast_glas_met_roeden_1x2 38mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="436d7fb2-9a31-45e6-a305-8d7849e2f176" name="IfcSite">
+      <selectionset guid="c2d1390e-25af-4fb6-9398-8071fd4ab6a2" name="">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring"></data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="b3ff50c1-f6b3-4878-9217-d92d0d6d8cee" name="IfcBuildingElementProxy">
+      <selectionset guid="1b7d5a70-c220-4ba9-afac-372b29f488cd" name="nulpunt">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">nulpunt</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="44173499-50d7-438e-afcb-4c7ab9714cdc" name="47_FIM_dakafwerking_stucwerk">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">47_FIM_dakafwerking_stucwerk</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c354e24e-1980-4d43-a4a5-a50913c0f25f" name="71_FIM_postkast">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">71_FIM_postkast</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="81b07590-852a-405a-9cd8-628afea59968" name="afdekker_kopgevels">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">afdekker_kopgevels</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b1eb8bda-c2ac-4086-a280-fce98914c118" name="Model Text:Model Text 1">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Model Text:Model Text 1</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="188fbd49-31d3-4fae-8a78-3d424a3262b6" name="dakrand_entreeportaal">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">dakrand_entreeportaal</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="d8321d6b-669c-48a8-a230-511fc0c61962" name="Fascia:47_ROF_mastiek 100x100">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Fascia:47_ROF_mastiek 100x100</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a74ab3f4-acae-4962-9392-9f26dafa0839" name="21_FIM_bw_balkon_6370x200mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">21_FIM_bw_balkon_6370x200mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="88c72f83-c61c-40b7-8f02-cd8912a346d6" name="IfcStairFlight">
+      <selectionset guid="22d3878d-35dc-4c24-8319-34ad92075665" name="Assembled Stair:24_ST_houten trap_gesloten_b=850_op=188_aan=220 4e:4089068">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Assembled Stair:24_ST_houten trap_gesloten_b=850_op=188_aan=220 4e:4089068</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="1f47801d-f348-4397-ab5f-b504f1fb8208" name="Assembled Stair:24_ST_houten trap_gesloten_b=850_op=188_aan=220 woningen:4116369">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Assembled Stair:24_ST_houten trap_gesloten_b=850_op=188_aan=220 woningen:4116369</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="efe5cb46-c751-405c-9298-fa0d5b2d4264" name="Precast Stair:24_STR_trap_beton_prefab_850_220_185:2180">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Precast Stair:24_STR_trap_beton_prefab_850_220_185:2180</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="21fe7a96-4cfe-40e2-b1ce-e2120eb14912" name="IfcWall">
+      <selectionset guid="34ac70bc-ac6e-4f35-973e-145b8a38ae18" name="Basic Wall:21_WA_mw stuc 290mm 280 10 blauw:2580381">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw stuc 290mm 280 10 blauw:2580381</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="72e07c20-7de2-4da4-bfc4-92e9ea699646" name="16_WA_fundering_hoek_afgeschuind_09:16_WA_fundering_hoek_afgeschuind_09:3101470">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">16_WA_fundering_hoek_afgeschuind_09:16_WA_fundering_hoek_afgeschuind_09:3101470</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a20fdba9-c9b1-4350-89ef-9baa47c36e2d" name="21_WA_borstwering_balkon_nieuw:21_FIM_bw_balkon_2540x1160mm:4024150">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">21_WA_borstwering_balkon_nieuw:21_FIM_bw_balkon_2540x1160mm:4024150</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a03bd91e-c211-4a20-95e8-fb151115101b" name="Basic Wall:22_WA_hsb-wand gips isolatie 115mm 12.5-90-12.5:4416616">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_hsb-wand gips isolatie 115mm 12.5-90-12.5:4416616</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b2e2f46e-1d94-43d5-ad67-7903dea37c1a" name="Basic Wall:21_WA_isolatie_steenstrips_210mm:4048447">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_isolatie_steenstrips_210mm:4048447</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f5be40ef-203e-430e-9027-a9f63f751ce8" name="16_WA_fundering_hoek_afgeschuind_06:16_WA_fundering_hoek_afgeschuind_06:3099200">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">16_WA_fundering_hoek_afgeschuind_06:16_WA_fundering_hoek_afgeschuind_06:3099200</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9f109599-d33b-4b78-97a8-0b6069021e37" name="Basic Wall:21_WA_mw 280mm:1845904">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw 280mm:1845904</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e5b494dd-763a-47d1-aa5a-eec598eb3cc3" name="Basic Wall:22_WA_mw_binnenwand_220:1849818">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_mw_binnenwand_220:1849818</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="23387ef9-e2ab-4578-b6d6-46715e53bff5" name="Basic Wall:21_WA_mw 420:1869300">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw 420:1869300</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="798c389d-a9af-42fa-bc4f-c57b7e651d6f" name="Basic Wall:21_WA_mw 330:1846392">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw 330:1846392</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="1c2d0153-0bff-4549-92c1-80f027f1205c" name="16_WA_fundering_hoek_afgeschuind_07:16_WA_fundering_hoek_afgeschuind_07:3099211">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">16_WA_fundering_hoek_afgeschuind_07:16_WA_fundering_hoek_afgeschuind_07:3099211</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f77f9290-4e9d-4fe6-80d3-8c1b1a4d50f6" name="28_kolom_generiek_schacht_02:28_kolom_generiek_schacht_02:3103223">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_kolom_generiek_schacht_02:28_kolom_generiek_schacht_02:3103223</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f1a28b3d-04b0-4842-9751-f965134a22dc" name="Basic Wall:21_WA_mw 315:2298212">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw 315:2298212</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="5b719bab-a3b3-4b76-8fab-c5e39910bd96" name="Basic Wall:22_WA_hsb-wand gips isolatie 220mm 12.5-12.5-75-20-75-12.5-12.5:4467269">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_hsb-wand gips isolatie 220mm 12.5-12.5-75-20-75-12.5-12.5:4467269</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4c1170b7-c150-4772-b51e-0e0b592530be" name="16_WA_fundering_hoek_afgeschuind_10:16_WA_fundering_hoek_afgeschuind_10:3101481">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">16_WA_fundering_hoek_afgeschuind_10:16_WA_fundering_hoek_afgeschuind_10:3101481</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="d7df48a6-2f19-4c81-9495-a65774e5af75" name="Basic Wall:22_WA_binnenwand_generiek_70:831190">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_binnenwand_generiek_70:831190</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4a7572ab-fddf-4b8a-a74f-1584ea253178" name="16_WA_fundering_hoek_afgeschuind_05:16_WA_fundering_hoek_afgeschuind_05:3099189">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">16_WA_fundering_hoek_afgeschuind_05:16_WA_fundering_hoek_afgeschuind_05:3099189</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6b5e0dd6-08b1-47e5-ae7f-5646d0685fc4" name="Basic Wall:21_WA_mw  175 105-70:4269617">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw  175 105-70:4269617</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="94c2a792-d343-489a-932a-69125035a97c" name="16_WA_fundering_hoek_afgeschuind_08:16_WA_fundering_hoek_afgeschuind_08:3099222">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">16_WA_fundering_hoek_afgeschuind_08:16_WA_fundering_hoek_afgeschuind_08:3099222</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e457c732-f582-4405-ab54-6bf3a515fbaf" name="Basic Wall:22_WA_binnenwand_generiek_110:831185">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_binnenwand_generiek_110:831185</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="cf6467cc-a112-43d0-bf5e-5602a33db770" name="21_WA_borstwering_balkon_nieuw:21_FIM_bw_balkon_4740x1160mm:4236278">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">21_WA_borstwering_balkon_nieuw:21_FIM_bw_balkon_4740x1160mm:4236278</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="dcb0b7aa-be2f-43e4-af3e-562e4b5330b8" name="Basic Wall:21_WA_mw spouw mw 280 100-80-100 wit geschilderd:2161027">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw spouw mw 280 100-80-100 wit geschilderd:2161027</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="453a589a-5252-4bcc-b8c0-3ad16880dcb7" name="21_WA_borstwering_balkon_nieuw:21_FIM_bw_balkon_3650x1160mm:4205269">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">21_WA_borstwering_balkon_nieuw:21_FIM_bw_balkon_3650x1160mm:4205269</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="64c070a3-0725-46e4-90ab-baaa18dd863c" name="IfcWallStandardCase">
+      <selectionset guid="ccc11498-5223-44e5-8ac2-6a527631d82d" name="Basic Wall:22_WA_binnenwand_generiek_70:831190">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_binnenwand_generiek_70:831190</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="29112803-ef80-49bc-82dc-9db2c368288b" name="Basic Wall:22_WA_hsb-wand gips isolatie 270mm 12.5-12.5-100-20-100-12.5-12.5:4467271">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_hsb-wand gips isolatie 270mm 12.5-12.5-100-20-100-12.5-12.5:4467271</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="24754083-586d-4bf9-9caa-cd2b60c0920f" name="Basic Wall:21_WA_hsb_steenstrips_98mm:4581018">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_hsb_steenstrips_98mm:4581018</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="fee725d0-ef1c-4a4d-87c9-3f4adfee8311" name="Basic Wall:22_WA_binnenwand_generiek_85:3284453">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_binnenwand_generiek_85:3284453</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="38b983a4-60ec-4994-bc99-1ea816344fb2" name="Basic Wall:16_WA_funderingsbalk beton 220:2322382">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:16_WA_funderingsbalk beton 220:2322382</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0d81bf6d-74aa-43f7-a15f-88d273a29969" name="Basic Wall:21_WA_mw  175 105-70:4269617">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw  175 105-70:4269617</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="311419bc-868e-4017-b4df-9dcffc7ceba7" name="Basic Wall:16_WA_funderingsbalk beton 100:2324013">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:16_WA_funderingsbalk beton 100:2324013</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="057208ce-4819-4aff-b8ef-0b25ac8da578" name="Basic Wall:22_WA_ms-wand gips isolatie 115mm 12.5-90-12.5:4439339">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_ms-wand gips isolatie 115mm 12.5-90-12.5:4439339</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4777d62c-5211-4fe2-8c3b-4a0562d923ee" name="Basic Wall:16_WA_funderingsbalk beton 650:2321137">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:16_WA_funderingsbalk beton 650:2321137</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9df10c57-f22e-47a1-8d2f-702844251e17" name="Basic Wall:21_WA_isolatie_steenstrips kozijnkleur_210mm:4153815">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_isolatie_steenstrips kozijnkleur_210mm:4153815</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="665379d8-7373-473e-8a60-39c221d8cfed" name="Basic Wall:21_WA_mw stuc 290mm 280-10:2582002">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw stuc 290mm 280-10:2582002</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8c92b1a0-ab90-40f4-bd36-9e4610e62e68" name="Basic Wall:21_WA_mw 210:4236883">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw 210:4236883</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="5c8878f5-709f-41b0-9498-25085347693d" name="Basic Wall:41_WA_stucwerk_kozijnkleur_creme 10:4347955">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:41_WA_stucwerk_kozijnkleur_creme 10:4347955</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="538f2a36-a414-4e5a-81b9-1e3f88550fe3" name="Basic Wall:21_WA_mw_stuc_330mm 320-10:3241219">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw_stuc_330mm 320-10:3241219</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b22f94ad-c98d-40fd-9500-dab7908ef661" name="Basic Wall:21_WA_isolatie_steenstrips_210mm:4048447">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_isolatie_steenstrips_210mm:4048447</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9f5156f7-565d-42cf-8e9e-079c4310eaa7" name="Basic Wall:22_WA_hsb-wand gips isolatie 62.5mm 12.5-50:4584683">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_hsb-wand gips isolatie 62.5mm 12.5-50:4584683</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="cfcebf7d-7aaf-4a08-9f95-fd3b2a70e015" name="Basic Wall:21_WA_isolatie_steenstrips betonkleur_70mm:4259139">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_isolatie_steenstrips betonkleur_70mm:4259139</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6b585f8f-b2e2-4f16-829f-18a90b8209dd" name="Basic Wall:16_WA_funderingsbalk beton 350:1158248">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:16_WA_funderingsbalk beton 350:1158248</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9a606507-2d8e-4510-9c25-5801a427e5c2" name="Basic Wall:22_WA_hsb-wand gips isolatie 115mm 12.5-90-12.5:4416616">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_hsb-wand gips isolatie 115mm 12.5-90-12.5:4416616</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="354a7516-acc1-4881-b3f3-3783bfe0387c" name="Basic Wall:21_WA_ontwerp_114mm:3979617">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_ontwerp_114mm:3979617</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="024cfbba-3faf-4383-84be-68f89667809f" name="Basic Wall:21_WA_mw spouw mw 280 100-80-100 wit geschilderd:2161027">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw spouw mw 280 100-80-100 wit geschilderd:2161027</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="58bdae0a-4f23-4678-a815-542f1b23188f" name="Basic Wall:22_WA_hsb-wand gips isolatie 123mm 12.5-12.5-90-8:4524244">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_hsb-wand gips isolatie 123mm 12.5-12.5-90-8:4524244</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c25b7018-d58b-4f98-ae3d-79ad48f96bde" name="Basic Wall:22_WA_hsb-wand gips isolatie 220mm 12.5-12.5-75-20-75-12.5-12.5:4467269">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_hsb-wand gips isolatie 220mm 12.5-12.5-75-20-75-12.5-12.5:4467269</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="923b3c28-1a54-4b74-9a9e-7f83408e8a42" name="Basic Wall:41_WA_keimwerk_grijs_2mm:4208720">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:41_WA_keimwerk_grijs_2mm:4208720</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0030ccd6-0f75-4a2b-b137-22c48ca7304c" name="Basic Wall:22_WA_mw_binnenwand_110:1863171">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_mw_binnenwand_110:1863171</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="1fb088ab-6a97-404e-8eb4-3b1fa38daf3b" name="Basic Wall:22_WA_mw_binnenwand_220:1849818">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_mw_binnenwand_220:1849818</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c8b41c2e-09cd-4deb-947f-99cd27eff9ed" name="Basic Wall:22_WA_mw_binnenwand_105:1863042">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_mw_binnenwand_105:1863042</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c6ce6ce2-0cdf-40a7-bfbb-37763a540399" name="Basic Wall:22_WA_hsb-wand gips isolatie 176mm 18-140-18:4504807">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_hsb-wand gips isolatie 176mm 18-140-18:4504807</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="3a87b8b3-89c9-4422-8860-b5759a555ba1" name="Basic Wall:21_WA_mw 280mm:1845904">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw 280mm:1845904</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6ece7f79-de98-4682-ac08-625e9e9bed4c" name="Basic Wall:21_WA_mw stuc 290mm 280 10 blauw:2580381">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw stuc 290mm 280 10 blauw:2580381</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="53785f5f-2670-4cb0-9175-acf5daa0edf1" name="Basic Wall:21_WA_mw 330:1846392">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw 330:1846392</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="47a2a102-a652-451a-8159-ff310988529b" name="Basic Wall:21_WA_isolatie_steenstrips_210mm creme:4455320">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_isolatie_steenstrips_210mm creme:4455320</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9562591b-71b0-431a-b4c3-8f4617577e45" name="Basic Wall:21_WA_isolatie_steenstrips staand_210mm:4153813">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_isolatie_steenstrips staand_210mm:4153813</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7a8561b8-7165-498c-a1d8-a2fbf08a9643" name="Basic Wall:22_WA_binnenwand_generiek_110:831185">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_binnenwand_generiek_110:831185</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="50ee48c0-016c-46ef-ab4a-57dc3e267cad" name="Basic Wall:21_WA_mw 420:1869300">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_mw 420:1869300</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="939655ec-c8c2-4692-bfbe-b0d5507e8593" name="Basic Wall:21_WA_isolatie_steenstrips_70mm:4269613">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_isolatie_steenstrips_70mm:4269613</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="35fbfdef-36bd-4dea-9ba3-de9c9c94a338" name="Basic Wall:42_WA_stucwerk 20:59845">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:42_WA_stucwerk 20:59845</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="ce2a74ec-925f-4aa3-8c71-7afc340dd1dd" name="Basic Wall:22_WA_ms-wand gips isolatie 62.5mm 12.5-50:4363457">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_ms-wand gips isolatie 62.5mm 12.5-50:4363457</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f8783e7d-a472-40c0-b7e1-83e644302ec2" name="Basic Wall:21_WA_isolatie_steenstrips ecoshapes_190mm:4153811">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:21_WA_isolatie_steenstrips ecoshapes_190mm:4153811</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="ca289e0d-c911-4522-8e27-e6aac26e7b6a" name="Basic Wall:22_WA_binnenwand_generiek_50:831203">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_binnenwand_generiek_50:831203</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="5559527e-1087-44ef-a108-961f81a3cd36" name="Basic Wall:16_WA_funderingsbalk beton 250:2319574">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:16_WA_funderingsbalk beton 250:2319574</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="02de43f5-4dcc-4530-ae83-87e2e717574e" name="Basic Wall:22_WA_hsb-wand gips isolatie 150 12.5-12.5-125:4097113">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_hsb-wand gips isolatie 150 12.5-12.5-125:4097113</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7eec3ed9-29bb-414c-8a1c-188c9d0e2dc6" name="Basic Wall:22_WA_hsb-wand gips isolatie 70mm 12.5-45-12.5:4555871">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_hsb-wand gips isolatie 70mm 12.5-45-12.5:4555871</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="56f22253-8061-4bef-8ff1-06b5cda22bb7" name="Basic Wall:22_WA_hsb-wand gips isolatie 95mm 12.5-70-12.5:4498077">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_hsb-wand gips isolatie 95mm 12.5-70-12.5:4498077</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a1ad98be-9c1b-4220-9d39-deb5bf91ae38" name="Basic Wall:22_WA_ms-wand gips isolatie 95mm 12.5-70-12.5:4501182">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_ms-wand gips isolatie 95mm 12.5-70-12.5:4501182</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9ecc3dad-d198-4397-a82d-453769c382b2" name="Basic Wall:16_WA_funderingsbalk beton 300:2322081">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:16_WA_funderingsbalk beton 300:2322081</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="53a7b5d3-a485-4773-b544-6e8db2a8e8d4" name="Basic Wall:22_WA_ms-wand gips isolatie 70mm 12.5-45-12.5:4363455">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:22_WA_ms-wand gips isolatie 70mm 12.5-45-12.5:4363455</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="32d34914-e0b5-41e2-9d62-04f19e81e702" name="IfcSlab">
+      <selectionset guid="b776b3ef-7e9f-4107-bcb7-4a2d4b78433f" name="Precast Stair:24_STR_trap_beton_prefab_850_220_185:2180">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Precast Stair:24_STR_trap_beton_prefab_850_220_185:2180</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="93765888-166e-4b8d-b78e-09c2e6caceb3" name="Floor:23_FL_tengels_planken 40mm 22-18">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Floor:23_FL_tengels_planken 40mm 22-18</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9fac6995-e137-41e1-a48e-545c554ebf1e" name="Floor:23_FL_iso_beplating">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Floor:23_FL_iso_beplating</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0d2d099d-020b-4128-8a4d-2c9d63001339" name="Floor:23_FL_generiek_300mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Floor:23_FL_generiek_300mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0a696eda-ad53-49c2-baf6-338b75fb0e67" name="Floor:43_FL_estrich_dekvloer_50mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Floor:43_FL_estrich_dekvloer_50mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e6573254-a094-4f2e-9d3a-5746755ebb2f" name="Basic Roof:27_RO_dak_entree_hout 165mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Roof:27_RO_dak_entree_hout 165mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="ed7e7963-bc3f-4237-affb-698e23912a66" name="Floor:23_FL_ihwg beton dekvloer 30">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Floor:23_FL_ihwg beton dekvloer 30</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c996d0ef-38ca-4299-a27e-e45dbd1cfba8" name="Floor:23_FL_ihwg beton 120">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Floor:23_FL_ihwg beton 120</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="fd295afa-71d7-4340-8c9a-c7a58726a69f" name="Floor:23_FL_ihwg beton 100">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Floor:23_FL_ihwg beton 100</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="fca85494-b193-4a9e-8106-51b20ecec11e" name="Floor:23_FL_ihwg beton 130">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Floor:23_FL_ihwg beton 130</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="00c7cee6-0907-4950-af54-21bfa15d46d1" name="23_FIM_balkon_generiek_balk:23_FIM_balkon_1320x2540">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">23_FIM_balkon_generiek_balk:23_FIM_balkon_1320x2540</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="d5a0887d-bb72-4d02-9b05-5d0aab74f3b7" name="IfcCovering">
+      <selectionset guid="b43ec5ae-0143-425a-935f-14432aec7ad5" name="Compound Ceiling:45_CEI_buitenplafond_hout 44mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Compound Ceiling:45_CEI_buitenplafond_hout 44mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0deda996-dc31-4cbf-af67-abfc9786717b" name="Compound Ceiling:45_CEI_buitenplafond_hsb_isolatie_175mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Compound Ceiling:45_CEI_buitenplafond_hsb_isolatie_175mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b19803f5-4e1b-4806-9d56-d4581c14feca" name="42_FIM_deurlijst_portiek_generiek:42_FIM_deurlijst_portiek_generiek">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">42_FIM_deurlijst_portiek_generiek:42_FIM_deurlijst_portiek_generiek</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="8f64b60c-21c4-4227-9c8e-4fc9653d3ec0" name="IfcColumn">
+      <selectionset guid="42f0cd73-159b-4ed2-af64-c92b27c4aaf9" name="28_kolom_rechthoekig_220x340mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_kolom_rechthoekig_220x340mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b37ec052-0269-4db7-8c10-68365aa001cc" name="28_kolom_rond_beton_300mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_kolom_rond_beton_300mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7bb25240-54c1-448c-957c-39f532909794" name="28_kolom_rechthoekig_220x220mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_kolom_rechthoekig_220x220mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9d222d2d-45f4-4a15-b6b5-06cf908efcbd" name="28_kolom_rechthoekig_220x220mm baksteen">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_kolom_rechthoekig_220x220mm baksteen</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="545d4c55-5b21-401b-bedc-70af2cabe78e" name="IfcRailing">
+      <selectionset guid="5cbdf406-10a9-4a8d-bb4c-895a1d1f5d4d" name="Railing:34_railing_frans_balkon">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Railing:34_railing_frans_balkon</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e4f5869f-b9c3-417e-b0f8-94f5e601c9f3" name="Railing:34_railing_frans_balkon hoog">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Railing:34_railing_frans_balkon hoog</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e73b75ed-37d3-41be-8453-5b1c8155155d" name="Railing:34_railing_doorrit">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Railing:34_railing_doorrit</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7ed53d3a-c11a-4581-a63b-72a115653bd2" name="Railing:34_railing_standaard">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Railing:34_railing_standaard</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a4a360c3-0453-47c3-aaf9-1ed01f129053" name="Railing:34_railing_balkons">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Railing:34_railing_balkons</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="18f0596c-4b6a-4e49-a22e-8f3c93318764" name="Railing:34_railing_trappenhuis">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Railing:34_railing_trappenhuis</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="2fa69756-f50c-462f-96bc-b099777825b3" name="IfcFlowTerminal">
+      <selectionset guid="e56f74b6-5d8f-4e4c-a32d-aa4a0a02d741" name="74_douche_900x900mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">74_douche_900x900mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="81123383-6e5d-4235-bf70-c92ddb8387c5" name="74_wastafel_450x600mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">74_wastafel_450x600mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="32066c37-590b-43b2-91e6-7fcb406978e7" name="74_toilet_vloermodel_generiek">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">74_toilet_vloermodel_generiek</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="31497528-1a24-49f9-b4f1-ec8578b39477" name="74_fontein_hoek_zonder_kraan">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">74_fontein_hoek_zonder_kraan</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="585d3443-5d07-4fa1-b094-634e6e163965" name="74_wastafel_fontein_300x300mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">74_wastafel_fontein_300x300mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="656c0656-f954-44db-8de9-5d66e58d36b6" name="73_keukenblok_recht_generiek">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">73_keukenblok_recht_generiek</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="6744a9ba-af63-470a-92b2-91f57360849f" name="IfcDoor">
+      <selectionset guid="c027cad5-755f-40a7-bf25-aa302d792aad" name="32_FIM_binnendeur_dicht_DIN_R 30mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeur_dicht_DIN_R 30mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b25aed1e-b414-4609-96ef-c590c4c75238" name="31_FIM_buitendeur_met_glas_DIN_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_buitendeur_met_glas_DIN_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="d5637c1b-f103-4300-8adc-dbe3812870cb" name="32_FIM_binnendeur_dicht_DIN_L 30mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeur_dicht_DIN_L 30mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c54c2c85-eef1-45d1-8b88-11766013e670" name="31_FIM_buitendeur_met_glas_DIN_R binnen">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_buitendeur_met_glas_DIN_R binnen</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="dfecb7a3-5471-4569-9725-f66e0a33945e" name="33_FIM_vloerluik_600x600">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">33_FIM_vloerluik_600x600</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="10092b7b-2b76-4b7b-a1cc-2f1ee2065964" name="31_FIM_buitendeur_met_glas_DIN_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_buitendeur_met_glas_DIN_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0acbe35f-9f0a-4377-9b81-8f50541d1837" name="32_FIM_binnendeur_dicht_DIN_R">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeur_dicht_DIN_R</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="2ceec2cc-eaa9-4c2f-bdc0-2f9da9e67d50" name="32_FIM_binnendeur_dicht_DIN_L">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">32_FIM_binnendeur_dicht_DIN_L</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="5fe9e80e-8482-46f8-9781-5b492e4cb008" name="31_FIM_buitendeur_met_glas_DIN_R berging">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_buitendeur_met_glas_DIN_R berging</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b918bb77-f0ed-4997-aded-3ed4e6e19d75" name="31_FIM_buitendeur_met_glas_DIN_L berging">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_buitendeur_met_glas_DIN_L berging</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8a512df7-ae5c-4dfa-b12e-677cb1cca7f6" name="31_FIM_buitendeur_met_glas_DIN_R berging bw500">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">31_FIM_buitendeur_met_glas_DIN_R berging bw500</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="01da5c35-07dd-4d61-8ec6-06e424ac3762" name="IfcBeam">
+      <selectionset guid="9e908bba-d1f9-47e2-95a0-2ffbabdfd4af" name="28_balk_beton_generiek:28_balk_beton_330x200mm:2162967">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_generiek:28_balk_beton_330x200mm:2162967</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="2c5df6bf-4957-447b-849b-4f82c02b40d1" name="28_balk_beton_ihwg:28_balk_beton_ihwg_160x480mm:3954809">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_ihwg:28_balk_beton_ihwg_160x480mm:3954809</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="97e135e2-8033-4025-a318-d7a813bca93e" name="28_balk_staal_koker_RHS:28_balk_kokerprofiel_RHS200:4049983">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_staal_koker_RHS:28_balk_kokerprofiel_RHS200:4049983</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="ec0f5d0c-241d-4158-8bd6-8e2b1899fee9" name="28_balk_beton_ihwg:28_balk_beton_ihwg_160x210mm:2331328">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_ihwg:28_balk_beton_ihwg_160x210mm:2331328</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="36a581d6-4a33-4888-9f1e-617b88ef0dae" name="28_balk_beton_500x500mm">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_500x500mm</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="095d4d8b-5cae-4749-b6b2-7ac0b039f4cf" name="28_balk_beton_generiek:28_balk_beton_420x1015:3880376">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_generiek:28_balk_beton_420x1015:3880376</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="53a80c9f-8394-4a00-be87-720762683528" name="28_balk_beton_ihwg:28_balk_beton_ihwg_160x510mm:2313396">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_ihwg:28_balk_beton_ihwg_160x510mm:2313396</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8ffc5454-61dc-4d42-9fa8-ab315a2eb36a" name="28_balk_beton_generiek:28_balk_beton_420x200mm:3880559">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_generiek:28_balk_beton_420x200mm:3880559</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0612a66e-a2f4-4c52-9232-f09957a4e4b0" name="28_balk_beton_ihwg:28_balk_beton_ihwg_220x1350mm:2556548">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_ihwg:28_balk_beton_ihwg_220x1350mm:2556548</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="bd3ee906-7f2f-467b-9e60-3c927119f581" name="28_balk_beton_generiek:28_balk_beton_300x830mm:3880821">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_generiek:28_balk_beton_300x830mm:3880821</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="cf0eabf2-5d83-4a36-b83b-729876a1d3a8" name="28_balk_beton_generiek:28_balk_beton_780x310:3880721">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_generiek:28_balk_beton_780x310:3880721</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6a8e514a-7a99-473d-a72b-6395ff8d7473" name="28_balk_beton_ihwg:28_balk_beton_ihwg_210x435mm:2313861">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_ihwg:28_balk_beton_ihwg_210x435mm:2313861</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="cf0ab6f2-86dc-4327-8f83-ea2b7669ff81" name="28_balk_beton_generiek:28_balk_beton_220x300mm:1894667">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_generiek:28_balk_beton_220x300mm:1894667</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9a2c3b78-2e99-4cfa-b550-ad0c34949a8f" name="28_balk_beton_ihwg:28_balk_beton_ihwg_160x490mm:2299591">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_ihwg:28_balk_beton_ihwg_160x490mm:2299591</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b5078521-2fa4-4520-86cf-937667e3cfcf" name="28_balk_beton_ihwg:28_balk_beton_ihwg_220x1150mm:2556158">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_ihwg:28_balk_beton_ihwg_220x1150mm:2556158</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="19bc0936-07c9-4d87-b381-e4bdea0f31fe" name="28_balk_beton_ihwg:28_balk_beton_ihwg_110x480mm:3952956">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_balk_beton_ihwg:28_balk_beton_ihwg_110x480mm:3952956</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="697a2501-4475-463e-81ae-f91ef151b428" name="IfcStair">
+      <selectionset guid="2dbd4a3e-685d-4260-9358-0065029f53e6" name="Assembled Stair:24_ST_houten trap_gesloten_b=850_op=188_aan=220 4e:4089068">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Assembled Stair:24_ST_houten trap_gesloten_b=850_op=188_aan=220 4e:4089068</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="d182c824-151c-474b-85c2-fb5ffbc03fed" name="Assembled Stair:24_ST_houten trap_gesloten_b=850_op=188_aan=220 woningen:4116369">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Assembled Stair:24_ST_houten trap_gesloten_b=850_op=188_aan=220 woningen:4116369</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f434534e-e3cc-41e3-abf1-54de3ddc8005" name="Precast Stair:24_STR_trap_beton_prefab_850_220_185:2180">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Precast Stair:24_STR_trap_beton_prefab_850_220_185:2180</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+  </selectionsets>
+</exchange>

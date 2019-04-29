@@ -1,0 +1,4057 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exchange>
+  <selectionsets>
+    <viewfolder guid="45e275c2-401d-4efb-bdea-44d111c97512" name="IfcSlab">
+      <selectionset guid="fca07c65-4c5e-4185-b37c-89cb0a8d4c19" name="Dakvlak-007">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Dakvlak-007</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6c90dad2-75e7-411c-b809-6e17f3e32376" name="Vloer-024">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-024</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7abcf05d-4023-426e-aea7-b9c0d07b91c3" name="Vloer-005">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-005</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="fc5c9447-c837-467d-b95a-363515903285" name="Vloer-014">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-014</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="309f24b1-cb67-462a-a614-a37aae5db1c1" name="Dakvlak-010">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Dakvlak-010</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="00eb462f-c285-463b-ad35-acae1e49d423" name="Vloer-023">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-023</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="73ae4a8d-4e97-4053-baa6-d94b77166042" name="Vloer-011">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-011</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="bff699bb-314a-4243-9bcd-c4470501c6dd" name="Vloer-028">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-028</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="26fe1746-3191-4da5-a4af-9c17d62daa66" name="Dakvlak-009">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Dakvlak-009</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="13706ad7-62ed-4e1f-8d3a-e83c20352e3c" name="Vloer-027">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-027</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="64516b93-d63f-4f5c-a8a5-348fc80dd256" name="Vloer-004">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-004</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e6a146ef-6b9f-4be9-89ce-2a2d03ea2bef" name="Vloer-015">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-015</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="cca4f6a1-9c25-4d0e-9b7b-11d2d125972d" name="Vloer-009">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-009</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f9d48db5-5cf2-4029-9922-be5f26686ea8" name="Dakvlak-011">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Dakvlak-011</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8115c167-d391-4542-a8b7-23c03fc60c7c" name="Vloer-022">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-022</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="2ad29e70-ac0d-4589-a4af-036059f72089" name="Vloer-007">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-007</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9a218f17-d5ca-408d-9b8c-2ab121c07d2d" name="Vloer-012">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-012</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="56fb1611-cf73-4d87-8b32-18656c43084b" name="Vloer-021">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-021</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="958c2d47-e754-4f89-a6bb-ec7b853b4249" name="Vloer-026">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-026</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e3e260b8-96b6-4bb9-8ef4-9679f690528b" name="Vloer-016">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-016</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="333ffbd3-b63a-4adb-842b-592530c42458" name="Vloer-008">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-008</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="64bbb7e3-79cc-4ebd-ae4d-1d6cc38aa1d7" name="Vloer-019">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-019</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="db6cdcf6-e454-46be-ac45-0582374e2b5f" name="Vloer-006">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-006</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0639748d-885a-4639-b87e-da08cd98c3dd" name="Vloer-013">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-013</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9aa1612b-6a1a-44b8-9313-0bcfd7c6b22a" name="Vloer-020">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-020</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="92e33bd0-38b9-4c6d-922f-8ba9a0387493" name="Vloer-010">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-010</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7f454ec1-e84d-4d28-971f-24aff7c770fe" name="Dakvlak-008">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Dakvlak-008</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="caa0cde5-8e64-493f-9feb-c19d75592b4e" name="Vloer-017">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Vloer-017</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="3b12b2f8-86f2-4457-96e7-19f892ecae8a" name="IfcWindow">
+      <selectionset guid="e5fb0db0-f667-4528-80cc-35e6a64263e8" name="Merk-x">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Merk-x</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="7d9a0e6f-6481-408c-b163-6438e729ca3f" name="IfcSite">
+      <selectionset guid="ed6ad375-0933-47cd-87da-8a3adc384c7f" name="Site">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Site</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="7cbf8017-eda5-4c4c-8b49-0f92f592510d" name="IfcBuildingElementProxy">
+      <selectionset guid="5f50a367-83a9-4fb2-9f0b-7ff89b7fccef" name="Object-177">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Object-177</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6a3c6341-2957-4725-bc26-78d4774ca4f5" name="Object-179">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Object-179</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4fcd52b6-f8fe-4e81-b03b-b4652d9fa17c" name="Object-187">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Object-187</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="27edc456-035e-4581-99d6-c601deb6630b" name="Object-183">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Object-183</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f492fa14-1731-485b-9f9c-9f0c0519bf1b" name="Object-176">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Object-176</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="2abd016c-4d08-4708-8995-30cb4f4990dd" name="Object-186">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Object-186</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="65db4bf5-d8a2-49f3-b7ac-d927fe870221" name="Object-184">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Object-184</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b0578dce-7cfb-4506-a0e1-b0ab6843c10f" name="Object-182">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Object-182</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="effac2cb-fc56-493a-b6c2-1074b3881524" name="Object-178">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Object-178</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="67933336-ec4b-484a-95ea-62368e7ff72e" name="Object-180">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Object-180</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e848590a-b9fd-42af-88ed-6d0466d0d59b" name="Object-185">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Object-185</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="29ab1065-540b-46a5-ab9b-3e09dd5d71e0" name="Object-181">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Object-181</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="9d5658d4-0a4c-40f6-9ad8-42fe1180a0de" name="IfcWall">
+      <selectionset guid="431a99b0-1527-445a-919e-845f6bd63b58" name="Wand-071">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-071</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e1340ab9-3a08-4beb-9e25-e4137cce84f9" name="Wand-083">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-083</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f213a241-ac6c-4201-8192-1416e9c523f0" name="Wand-175">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-175</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="12e7376f-2a9a-465f-b098-b23b9dd06859" name="Wand-088">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-088</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="bc0d3fe8-12d1-4dfa-ae09-ab988d03e976" name="Wand-087">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-087</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="d8fcc951-b2c3-45e2-84c0-c24b5286361e" name="Wand-115">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-115</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="cd45ca19-6e26-4033-8ce9-861e4f2839e2" name="Wand-076">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-076</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="10417a01-b6c2-4c41-baa3-a53ed342e179" name="Wand-107">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-107</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="bba1b92d-c897-445e-b3c5-bf78febf1b9d" name="Wand-064">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-064</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="94c9e3fb-4ff3-4710-befb-4ba2fdcf20fa" name="Wand-069">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-069</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="01177f3e-7836-40d6-9805-f95ce64a6a6b" name="Wand-042">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-042</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="05b7669d-83d2-4d88-9a00-495c41667589" name="Wand-070">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-070</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4644d385-3b5b-4848-967b-efe8504c51a0" name="Wand-149">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-149</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6d91f4b7-8c11-4037-aa23-ba859d8a6be1" name="Wand-117">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-117</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="2b994f61-c1d6-4dda-bdad-7111fbb4c0db" name="Wand-067">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-067</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c96dd4ec-8fd9-40e8-8c01-1b0ee55f86fe" name="Wand-066">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-066</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="566386f0-112a-4b37-bc3d-a1fd24ee7de4" name="Wand-073">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-073</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c41052f1-6d73-42f9-b81a-22e210e08a4b" name="Wand-057">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-057</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="bb5fc7c0-79d9-4e0c-800e-ea9e519cad61" name="Wand-068">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-068</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="51067f81-aed5-4b2a-92a2-d7c5536a24ce" name="IfcWallStandardCase">
+      <selectionset guid="bea8dca2-f304-4e27-b21c-f0537f0bfcce" name="Wand-046">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-046</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="d61021cd-c0b7-4e53-aa17-22209c47dd9c" name="Wand-149">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-149</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6d91ebae-b1cc-432c-94ce-8f92205cbe75" name="Wand-086">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-086</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="908d5fbc-dc29-490a-a2a9-14cb85a872a1" name="Wand-174">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-174</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9aafe2ea-a6f2-4265-99b8-0b76d1ce2b9a" name="Wand-120">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-120</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="bfb761fe-28aa-49b9-b27d-9cc72a6df055" name="Wand-094">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-094</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="fac217a3-9396-4d84-af42-4d173f75cd2b" name="Wand-060">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-060</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9c1a60ef-9da9-4116-8aa2-edd74c58a363" name="Wand-078">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-078</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7ee7529e-8ae9-435a-bddb-7e8c44b7666c" name="Wand-152">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-152</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="3c903b3a-55c7-4537-a58f-52d7208776a0" name="Wand-102">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-102</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="17c8f144-4c03-4603-89af-76fb462eb6fc" name="Wand-039">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-039</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e350cdd0-db43-4469-a605-56921dbb845e" name="Wand-126">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-126</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="909b2b62-cd18-4ce9-a1d2-61647e42d636" name="Wand-048">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-048</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e143d9ff-5917-41fb-87d3-c2dcee5d1596" name="Wand-050">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-050</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="ce994908-c4da-417d-94aa-a7f29f94c711" name="Wand-045">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-045</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6c9b8201-6a32-4e8d-b28e-78d8a01d919d" name="Wand-116">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-116</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="19bc63f4-aeb8-4272-8ccc-516a187f578e" name="Wand-085">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-085</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="624a53ab-c817-4cf7-a55a-16f896d16899" name="Wand-072">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-072</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9f0d8304-b569-4b2e-9719-6b5c0bc664fb" name="Wand-125">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-125</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9b77b5a8-af39-41b2-b474-fde4c26d1688" name="Wand-099">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-099</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="442a91dc-7e10-4e3f-8318-eaaae767d4a2" name="Wand-063">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-063</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9903e79b-cef0-44b7-aab0-64d9eb448209" name="Wand-167">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-167</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="2e22c630-0022-4cd8-ad31-aa99ff7b3052" name="Wand-155">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-155</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="540848d2-71a6-4b1e-a868-76f69bd94fb1" name="Wand-109">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-109</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="52a65c0b-bba2-413e-8068-d5126b29adfa" name="Wand-036">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-036</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0584945c-dab4-499e-8334-c48cd83336ef" name="Wand-027">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-027</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="1547ded9-8462-4e04-83f3-28e165da327c" name="Wand-080">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-080</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="47cf931c-8761-4c32-b187-b91a6e85580d" name="Wand-077">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-077</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="5cc31f5e-491a-40e0-ac5a-7d409467b03c" name="Wand-066">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-066</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4492170b-85ad-4ebd-9d93-d5b470dbcd56" name="Wand-160">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-160</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c360c4be-4095-455c-b114-99316bdd77b4" name="Wand-158">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-158</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="98af76ee-86bb-42f3-b527-911a445ea645" name="Wand-142">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-142</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7caf6588-c76c-4d9c-8a55-e76e572b89af" name="Wand-033">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-033</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="057589fb-fb73-4631-a059-611917c86cdf" name="Wand-042">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-042</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="706bf021-85e0-44fe-94c0-c8978d15de56" name="Wand-170">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-170</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="172f1ac6-d351-4995-9439-8e96c2392646" name="Wand-090">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-090</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="31fe2c2f-9b51-4f2d-a815-5ee34bfafeab" name="Wand-074">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-074</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="d78eda8d-833f-4e3e-8670-1ed70228c2c9" name="Wand-069">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-069</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9f19e47a-d39f-4e13-83d2-e1717eb947fd" name="Wand-108">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-108</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b586697c-a453-4506-b48c-d7ee96574f68" name="Wand-134">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-134</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c47a7775-5e27-4fab-a9fb-604a1341475e" name="Wand-054">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-054</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="541dc02a-f459-4587-a936-d4f200990014" name="Wand-028">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-028</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="edec939a-080e-47db-ba3e-1d45a405c481" name="Wand-030">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-030</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b68ecee9-5903-4222-9e21-0951f31d57be" name="Wand-041">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-041</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6ea8f896-05f4-4222-baa2-fd59137e435e" name="Wand-097">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-097</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a53eb227-8bce-41d1-be60-ba942c4b4ed7" name="Wand-089">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-089</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f10eb998-dc2d-42be-acb2-9abb99334cf7" name="Wand-177">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-177</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="5e8089b9-db4a-4c5e-adf1-3732053b3f78" name="Wand-121">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-121</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="49eb408f-0774-4164-a749-e9b4a63ff5a4" name="Wand-079">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-079</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a613ba39-d249-41c7-93cb-ffc9dc3bccb1" name="Wand-151">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-151</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="3bb8c99f-0f11-4fd5-8ee8-44f5975cf745" name="Wand-103">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-103</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="83d036e5-75a2-4a39-88df-c9b11a1ef454" name="Wand-133">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-133</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="616f2962-977b-4f28-80f0-64e25d1c4587" name="Wand-130">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-130</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9e807bd9-f08f-4210-a913-d889cfba91d3" name="Wand-051">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-051</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e09526d5-d77a-437a-8c6c-be65505c23db" name="Wand-144">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-144</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="bf379a90-c162-4fa3-87bf-3ece78ab7da3" name="Wand-179">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-179</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="be1ab438-73b3-4afd-96f4-63db8959666c" name="Wand-044">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-044</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="1924e63d-a45e-489f-a596-846102b49262" name="Wand-115">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-115</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f4305bdd-d0e0-4c3c-a924-224b85d50438" name="Wand-084">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-084</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0aaf5b43-4e1c-4867-a131-d6278b706d3e" name="Wand-073">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-073</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="ee9d1aaa-9a57-41dc-9828-65d61ee2bbc0" name="Wand-122">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-122</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="9ff26c7e-20f0-4e4f-b61a-0f28a12adbeb" name="Wand-062">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-062</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8b192f80-659b-4882-b0e0-3e38fe09bc72" name="Wand-164">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-164</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="ec1857da-6a20-4691-a04e-8ce83351bbea" name="Wand-154">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-154</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="20c42d1e-4239-4457-95e4-f699b60cd709" name="Wand-100">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-100</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="2f7ee2b5-4d34-4ae4-9c16-1767f4e118c9" name="Wand-107">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-107</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="995c0ac2-2544-47f0-91d0-93683d3b6ee4" name="Wand-037">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-037</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8d9dfa6e-c01c-4434-8bdd-03cfc422c2dc" name="Wand-052">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-052</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0b8bbb9f-5d29-4492-8dbb-23d5724f8c68" name="Wand-026">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-026</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e196bfd0-9f50-4acb-b4f8-affcac965ec6" name="Wand-128">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-128</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="bfe405a8-0f5c-498e-9ec1-3fa3300e4c42" name="Wand-083">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-083</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="aef1a18d-3f06-46f5-a3d6-6532e19fe0ae" name="Wand-070">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-070</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="1162fea3-39a5-45b3-841a-e739cb9ee625" name="Wand-127">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-127</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0731ca59-8c53-410a-ac3f-4875b2bc07ec" name="Wand-065">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-065</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="41077415-6c6e-4de5-a1e4-af1e4c2fc032" name="Wand-161">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-161</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="15c6f0a4-0516-40a0-939c-9b95cb413494" name="Wand-157">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-157</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f032e578-3e99-403e-b367-3b7a406eedee" name="Wand-058">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-058</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="5b03152d-7d79-4571-b51b-f16e4967ae9d" name="Wand-143">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-143</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e3b366c6-f32c-4d2b-bc35-9578b28bda81" name="Wand-034">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-034</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="10ae802c-1fa4-45cc-8413-4a0664eaeeb2" name="Wand-131">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-131</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e3950546-d76b-45e7-b71f-e7d85d292cc1" name="Wand-173">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-173</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b5083539-3995-4cba-9047-ed626e80e4e8" name="Wand-113">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-113</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="788db2f6-b2fc-4bb4-b0b1-a6d75ba8f5db" name="Wand-091">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-091</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="df137fd7-4a65-413e-87da-ae2467d6d176" name="Wand-075">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-075</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="d071913d-fdbf-47ac-a652-625c2b4057da" name="Wand-068">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-068</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="5ce26cb6-9369-4e69-9bea-740e5929b8ac" name="Wand-162">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-162</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="37dc99ca-ac76-4b89-b6ec-7c6754aeda40" name="Wand-137">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-137</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="2d3bd927-756e-475e-bfa0-c4c085e285dd" name="Wand-055">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-055</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="90dbbbf5-60ad-440b-8426-47e5708a36ca" name="Wand-106">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-106</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="bb846581-a9c1-41d9-95bc-f3698261de99" name="Wand-031">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-031</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4615bdff-c6d0-475a-b5bb-636be694c3bc" name="Wand-040">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-040</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="3e0b0f54-f373-4a70-8ee3-b4abe8a0c581" name="Wand-119">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-119</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="84a73ff1-8435-4a2d-aba6-8e454209193c" name="Wand-088">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-088</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="24954ef5-3d99-43aa-a6dc-6346a4d889f8" name="Wand-176">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-176</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="026441b4-f446-48d9-8919-7e07781247e4" name="Wand-140">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-140</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="97340f05-cc8c-4a0e-b179-aa0b0348d28e" name="Wand-150">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-150</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0e1d1a44-c102-49a0-92f0-e0e2539343f5" name="Wand-104">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-104</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="66df46a5-dd14-4e97-9109-cdac689ed1a7" name="Wand-138">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-138</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="73d5044d-d349-41f4-9871-77f6e6e209b4" name="Wand-093">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-093</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="039e5d7e-9b04-4e9f-b999-aef6a1e984df" name="Wand-132">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-132</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a2a7143b-38c9-4c7b-8624-fe1d42293219" name="Wand-056">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-056</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="70c748c6-1c39-4694-8be6-75606c58a2c4" name="Wand-145">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-145</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c4992829-f136-4fdd-ac4a-253c38bc5c65" name="Wand-178">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-178</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f2a16910-5eca-43ae-9d64-06a5b786e663" name="Wand-047">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-047</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4c59e726-7b9f-4ad5-8f9d-58cd0f0033b3" name="Wand-114">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-114</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="1e6a3d85-ff60-44ed-8ef6-479bee69d6b2" name="Wand-087">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-087</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6a906471-448e-4d6b-b130-69c8506ae285" name="Wand-175">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-175</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b3012efb-e276-4876-83f6-3a540f548d09" name="Wand-123">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-123</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0789ad81-ed28-499b-8823-f8488a2e4249" name="Wand-061">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-061</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="fd29ce5d-6de7-45af-8456-161c601eedee" name="Wand-165">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-165</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e94c85d3-1c9a-44e0-a1f9-f8d99f81edd8" name="Wand-153">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-153</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="d5bcf99d-756e-4204-a5b9-a7c04d9374dd" name="Wand-101">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-101</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="89848b50-a6ae-4c55-a4b1-61da35d450b7" name="Wand-038">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-038</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7fdd5bae-99f0-4792-86a2-851ff0303df3" name="Wand-049">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-049</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="5036a989-6238-47f2-836c-970a80048ea2" name="Wand-053">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-053</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="ead50a45-f711-454d-adea-9a962a7060bb" name="Wand-025">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-025</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="26763ab5-491d-4ce7-afbc-e40cd50466cf" name="Wand-129">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-129</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="5d7bda29-40c0-4f8f-bfc3-0baf85a43a87" name="Wand-117">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-117</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="cd82edf9-f375-430d-bc06-f7d4821acbff" name="Wand-082">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-082</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b4f4a5e4-8c7f-4ff0-b7b4-a79b43d9e072" name="Wand-180">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-180</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="6f20822d-ab35-4ad8-af7b-928bd0e1c1d7" name="Wand-071">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-071</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="24e3441e-4e67-491d-9441-8e48f5a42b9e" name="Wand-124">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-124</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c9e095d7-51d6-48c4-9727-0a7247b71701" name="Wand-064">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-064</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f8da0218-c91e-41e6-8dd1-d2ab1228128e" name="Wand-147">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-147</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="3f49d789-3903-4caa-a7f6-ebfe6c9e5ac4" name="Wand-166">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-166</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f9c9e8d1-d68f-4f05-b466-22be554b924d" name="Wand-156">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-156</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="293c6c18-2c12-4571-adf7-08bf31593271" name="Wand-139">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-139</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="da5d47ed-c576-42fc-90c7-2cced8ef83ff" name="Wand-059">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-059</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f45d737f-ba6c-493f-8ab0-c17609e5b5f5" name="Wand-092">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-092</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="05959d45-9378-4154-9339-c5f4b5132722" name="Wand-035">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-035</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="eb3e530f-ace9-4aba-bedb-5572f5d9ce6e" name="Wand-110">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-110</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a3b62a90-a10a-43dd-852b-0e8376024aa7" name="Wand-172">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-172</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8f6f823c-be87-4df1-b7fc-4099ca9d82bb" name="Wand-112">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-112</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="354226e0-9b32-4c94-84ea-50c08687fb9d" name="Wand-081">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-081</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="c777eb74-7ddf-4d81-8c3c-2b16f1b12ab2" name="Wand-076">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-076</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="2934ed97-0a34-46f0-be47-05048c697d83" name="Wand-067">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-067</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="732ef27f-d0b2-4399-af32-fad621702f06" name="Wand-163">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-163</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="09d85d1e-d172-4858-af79-7b92ab1b3572" name="Wand-159">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-159</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="386eded4-5543-49f6-a26e-270dafcdcad0" name="Wand-136">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-136</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="cfe14747-606b-4c0e-b2c7-33054de7fccf" name="Wand-141">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-141</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e008fa56-acb8-4871-b987-966c77fe98f0" name="Wand-032">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-032</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8a4cbd3b-7126-4046-89d7-291d6dc17aeb" name="Wand-043">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-043</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e519c0fc-7f61-4bdc-98ec-c16e2e306076" name="Wand-118">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-118</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="fff22d91-d29c-42a5-bb56-d8ce24375e64" name="Wand-148">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-148</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="3cf9ecc8-e33c-4cd1-8ab1-e8509386b849" name="Wand-171">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-171</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4abd0f98-a025-42fc-ad1e-cd363feb5181" name="Wand-169">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-169</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="d4a8de07-20f7-4084-b1da-5cf4cb421695" name="Wand-105">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-105</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="2d1ade05-73cb-4303-acab-00558ed61538" name="Wand-146">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-146</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a0c95dc6-2aa8-4b6d-8820-e2829901b07f" name="Wand-135">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-135</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="b2968923-38b5-477b-8a9a-cfd4d5c737d0" name="Wand-057">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-057</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="eec28719-6022-457f-b14f-c07a7e6b7abb" name="Wand-029">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-029</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="49426014-3d50-4601-aea8-80a82e0834af" name="Wand-111">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Wand-111</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="1296cf75-91c7-4ce1-b0e8-278ce0911361" name="IfcGrid">
+      <selectionset guid="9af728c6-940f-4d50-8ea7-629522cc9710" name="Grid">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Grid</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="35656f8c-2cba-441e-9875-289472a6f210" name="IfcDistributionElement">
+      <selectionset guid="3d0272b0-5f57-44ad-9f52-6453f95bf222" name="Object-180">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Object-180</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="af8909af-af41-4653-9cd3-d7dc9002b529" name="IfcDoor">
+      <selectionset guid="89d5c967-c228-4e55-abe0-b3fe6f580291" name="Merk-x">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Merk-x</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="7d2bca7d-0cf7-497a-b2b4-f4fa1a74a9f0" name="IfcStair">
+      <selectionset guid="81b7b0bc-114a-43f2-8d88-5b47474da9b1" name="Trap-007">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Trap-007</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="cc02d420-6900-4d45-b9d9-a43fcb70628d" name="Trap-008">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Trap-008</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="921dbc88-20ad-4118-81e6-570bb36d9617" name="Trap-006">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Trap-006</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="345295ed-f260-42d8-9d46-075461a72f05" name="Trap-005">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Trap-005</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="418519ef-51d0-466b-9ad4-60f935abbb8d" name="Trap-010">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Trap-010</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="7b9d4668-fd72-43ea-864b-a20e9a2e2d02" name="Trap-004">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Trap-004</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="513a95c4-726f-4b2f-bf5d-db8659787dc0" name="Trap-012">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Trap-012</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8963fc25-802f-4e89-9478-a4867ced5d1c" name="Trap-009">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">NAME</name>
+              </property>
+              <value>
+                <data type="wstring">Trap-009</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+  </selectionsets>
+</exchange>

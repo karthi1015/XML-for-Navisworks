@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exchange>
+  <selectionsets>
+    <viewfolder guid="a12a0db8-857d-418c-b2b9-09ce01d5478f" name="IfcPlate">
+      <selectionset guid="b95c4cd6-ef9a-4b89-88c0-7145d30e3d9b" name="None">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">None</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="ab9226d1-841b-4a57-8436-926491044a7d" name="IfcElementAssembly">
+      <selectionset guid="1bac8e87-04cc-4dd1-8bbb-e109d796a7c4" name="Structural Beam System:28_PBT_SBS_01">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Structural Beam System:28_PBT_SBS_01</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="11b6fde3-951f-472b-b8f4-6cc6019e225b" name="IfcSlab">
+      <selectionset guid="2acccfff-0f5e-4056-a49e-b7a762a633b7" name="Floor:28_PBT_FL_beton t.p.g._d=300">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Floor:28_PBT_FL_beton t.p.g._d=300</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="8c4a0d42-4d17-4657-87c4-2dae1fab9a2c" name="Floor:28_PBT_FL_breedplaat_d=250">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Floor:28_PBT_FL_breedplaat_d=250</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="6b9cd9f6-8e3c-4b65-b4ef-0986f51903fc" name="IfcSite">
+      <selectionset guid="4e214498-fa76-4d3f-9b0b-f8ce46ab9b30" name="">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring"></data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="3e1735dc-499c-4b22-91f2-eb62148f9685" name="IfcWallStandardCase">
+      <selectionset guid="a449f37b-e024-4098-b8f3-9e13f399ebe5" name="Basic Wall:28_PBT_WA_beton prefab_d=160:1130245">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:28_PBT_WA_beton prefab_d=160:1130245</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="a3e99fb0-6d89-4f35-9c53-8a305acbc008" name="Basic Wall:28_PBT_WA_beton t.p.g._d=120:1125614">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:28_PBT_WA_beton t.p.g._d=120:1125614</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="e4e93af6-c2b2-479a-992d-11472cbecfd6" name="Basic Wall:28_PBT_WA_beton prefab_d=150:2426">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:28_PBT_WA_beton prefab_d=150:2426</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="0185b396-fff4-443e-b1ed-d572f7a3e3ab" name="Basic Wall:28_PBT_WA_beton t.p.g._d=250:250799">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">Basic Wall:28_PBT_WA_beton t.p.g._d=250:250799</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="7f06533b-d45a-4dd4-881b-05f53dfa700a" name="IfcColumn">
+      <selectionset guid="5f0ff392-97ad-45d2-b224-b5e6771f0972" name="300x300">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">300x300</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="1319dac6-288f-4183-8619-5ef92d07fbbe" name="350">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">350</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="50f21fde-ebfd-41f4-89e5-a052f2737443" name="S235_HE300B">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">S235_HE300B</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+    <viewfolder guid="98ecbf24-9fea-4d7d-94ea-5582c842be1a" name="IfcBeam">
+      <selectionset guid="162a3b97-59af-4c39-8f6e-448f47756908" name="28_PBT_SF_staal_H-profiel:S235_HE300B:1154979">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_PBT_SF_staal_H-profiel:S235_HE300B:1154979</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="f73169e2-e890-4cef-9b84-5b673fc17612" name="28_PBT_SF_betonbalk:500x500:1127696">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_PBT_SF_betonbalk:500x500:1127696</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="dcd07a66-d2ec-4a5e-af96-76f5646284c5" name="28_PBT_SF_staal_H-profiel:S235_HE200B:1154475">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_PBT_SF_staal_H-profiel:S235_HE200B:1154475</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="578767c2-30f6-478c-a3eb-e10cf076eba7" name="28_PBT_SF_staal_UNP-profiel:S235_UNP 200:1157288">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_PBT_SF_staal_UNP-profiel:S235_UNP 200:1157288</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="843b3147-b489-463c-8cc3-2f4b41b4cd4f" name="500x500">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">500x500</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4968c38b-77c0-43ce-93e6-56400967649b" name="28_PBT_SF_rechthoekig hout:71x221:1159255">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">28_PBT_SF_rechthoekig hout:71x221:1159255</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset guid="4b5d0d3c-2007-4ed4-ac87-95cd67c486af" name="350x500">
+        <findspec disjoint="0" mode="all">
+          <conditions>
+            <condition flags="10" test="equals">
+              <category>
+                <name internal="LcIFCProperty">IFC</name>
+              </category>
+              <property>
+                <name internal="IFCString">OBJECTTYPE</name>
+              </property>
+              <value>
+                <data type="wstring">350x500</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+  </selectionsets>
+</exchange>
