@@ -2,6 +2,7 @@ from lxml import etree
 import lxml.etree
 import lxml.builder 
 from xlrd import open_workbook 
+import fileinput
 
 import sys
 import uuid 
@@ -9,6 +10,7 @@ import os
 import csv
 import re 
 
+path_to_file = "C:\\Users\\CClaus\\eclipse-workspace\\BasicBIMChecker_for_Navisworks\\xml_files\\ILS_nlsfb_navisworks.xml"  
 exchange = '<exchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://download.autodesk.com/us/navisworks/schemas/nw-exchange-12.0.xsd">' 
 
 #INITALISATION OF READING EXCEL FILE
@@ -31,6 +33,20 @@ nl_sfb_folder_list = ["0_PROJECT",
                       "8_LOSSE_INVENTARIS",
                       "9_TERREIN"
                       ]
+
+nlsfb_conditions_list = [["Classification: NL/SfB (4 cijfers)", "Reference"],
+                         ["Classification: NL/SfB (4 cijfers) 2005", "Reference"],
+                         ["Classification:NL/SfB (4 cijfers) 2005", "Reference"],
+                         ["Classification: Uniformat","Reference"],
+                         ["Classification: NL/SfB (4 cijfers)", "ITEMREFERENCE"],
+                         ["Classification: NL/SfB (4 cijfers) 2005", "ITEMREFERENCE"],
+                         ["Classification:NL/SfB (4 cijfers) 2005", "ITEMREFERENCE"],
+                         ["Classification:NL/SfB (4 cijfers)", "ITEMREFERENCE"],
+                         ["Classification: Uniformat", "ITEMREFERENCE"],
+                         ["Revit Type", "Assembly Code"]
+                         ]
+
+
 
 def get_first_two_number_classsification():
     
@@ -84,93 +100,28 @@ def write_xml_navisworks(items, description):
     findspec = etree.SubElement(selectionset, "findspec", mode="all", disjoint="0")
     conditions = etree.SubElement(findspec, "conditions")
     
-    ######################################################
-    ########## REVIT ASSEMBLY CODE CONDITION #############
-    ######################################################
-    condition = etree.SubElement(conditions, "condition", test="equals", flags="10")
     
-    category = etree.SubElement(condition, "category")
-    
-    name = etree.SubElement(category, "name", internal="LcRevitData_Type").text = "Revit Type"
+    for condition in  nlsfb_conditions_list:
 
-    property = etree.SubElement(condition, "property")
-    name = etree.SubElement(property, "name", internal="lcldrevit_parameter_-1002500").text = "Assembly Code"
+        #############################################################
+        ########## IFCB NLSFB CLASSIFICATION CONDITION ##############
+        #############################################################
+        condition_ifc = etree.SubElement(conditions, "condition", test="equals", flags="74")
+        
+        category_ifc = etree.SubElement(condition_ifc, "category")
+        name_ifc = etree.SubElement(category_ifc, "name", internal="lcldrevit_parameter_2476_classification_tab").text  = str(condition[0])
+        
+        property_ifc = etree.SubElement(condition_ifc, "property")
+        name_ifc = etree.SubElement(property_ifc, "name", internal="lcldrevit_parameter_3118_reference").text = str(condition[1])
+        
+        value_ifc = etree.SubElement(condition_ifc, "value")
+        data_ifc = etree.SubElement(value_ifc, "data", type="wstring").text = str(items) 
+        
     
-    value = etree.SubElement(condition, "value")
-    data = etree.SubElement(value, "data", type="wstring").text = str(items) 
-    
-
-    
-    #############################################################
-    ########## IFCB NLSFB CLASSIFICATION CONDITION ##############
-    #############################################################
-    condition_ifc = etree.SubElement(conditions, "condition", test="equals", flags="74")
-    
-    category_ifc = etree.SubElement(condition_ifc, "category")
-    name_ifc = etree.SubElement(category_ifc, "name", internal="lcldrevit_parameter_2476_classification_tab").text  = "Classification: NL/SfB (4 cijfers)" 
-    
-    property_ifc = etree.SubElement(condition_ifc, "property")
-    name_ifc = etree.SubElement(property_ifc, "name", internal="lcldrevit_parameter_3118_reference").text = "Reference"
-    
-    value_ifc = etree.SubElement(condition_ifc, "value")
-    data_ifc = etree.SubElement(value_ifc, "data", type="wstring").text = str(items) 
-    
-
-    ###############################################################
-    ########## IFC NLSFB CLASSIFICATION CONDITION 2005 ############
-    ###############################################################
-    condition_ifc_2005 = etree.SubElement(conditions, "condition", test="equals", flags="74")
-    
-    category_ifc_2005 = etree.SubElement(condition_ifc_2005, "category")
-    name_ifc_2005 = etree.SubElement(category_ifc_2005, "name", internal="lcldrevit_parameter_2476_classification_tab").text  = "Classification: NL/SfB (4 cijfers) 2005" 
-    
-    property_ifc_2005 = etree.SubElement(condition_ifc_2005, "property")
-    name_ifc_2005 = etree.SubElement(property_ifc_2005, "name", internal="lcldrevit_parameter_3118_reference").text = "Reference"
-    
-    value_ifc_2005 = etree.SubElement(condition_ifc_2005, "value")
-    data_ifc_2005 = etree.SubElement(value_ifc_2005, "data", type="wstring").text = str(items) 
-    
-
-    
-    ###############################################################
-    ############### ARCHICAD ITEM REFERENCE #######################
-    ###############################################################
-    condition_archicad = etree.SubElement(conditions, "condition", test="equals", flags="74")
-    
-    category_archicad = etree.SubElement(condition_archicad, "category")
-    name_archicad = etree.SubElement(category_archicad, "name", internal="lcldrevit_parameter_2476_classification_tab").text  = "Classification:NL/SfB (4 cijfers) 2005" 
-    
-    property_archicad = etree.SubElement(condition_archicad, "property")
-    name_archicad = etree.SubElement(property_archicad, "name", internal="lcldrevit_parameter_3118_reference").text = "Reference"
-    
-    value_archicad = etree.SubElement(condition_archicad, "value")
-    data_archicad = etree.SubElement(value_archicad, "data", type="wstring").text =   str(items) 
-    
-    
-    ###############################################################
-    ############### UNIFORMAT CLASSIFICATION ######################
-    ###############################################################
-    condition_uniformat_classfication = etree.SubElement(conditions, "condition", test="equals", flags="74")
-    
-    category_uniformat_classification = etree.SubElement(condition_uniformat_classfication, "category")
-    name_uniformat_classification = etree.SubElement(category_uniformat_classification, "name", internal="lcldrevit_parameter_2476_classification_tab").text  = "Classification: Uniformat" 
-    
-    property_uniformat_classification = etree.SubElement(condition_uniformat_classfication, "property")
-    name_uniformat_classification = etree.SubElement(property_uniformat_classification, "name", internal="lcldrevit_parameter_3118_reference").text = "Reference"
-    
-    value_uniformat_classification = etree.SubElement(condition_uniformat_classfication, "value")
-    data_uniformat_classification = etree.SubElement(value_uniformat_classification , "data", type="wstring").text =   str(items) 
-    
-
-    ###########################################################################
-    ##########################    LOCATOR   ###################################
-    ###########################################################################
+     
     locator = etree.SubElement(findspec, "locator").text = "/"
 
     
-
-
-
 
 #CREATE MAIN FOLDERS
 for nlsfb_folder in nl_sfb_folder_list:
@@ -195,10 +146,17 @@ for nlsfb_folder in nl_sfb_folder_list:
   
   
 tree = etree.ElementTree(root)
-tree.write('nlsfb_check_neverworks.xml', encoding="utf-8", xml_declaration=True, pretty_print=True)  
+tree.write('xml_files\\ILS_nlsfb_navisworks.xml', encoding="utf-8", xml_declaration=True, pretty_print=True)  
 
 
-
+def replace_all(xml_file, search_expression, replace_expression):
+    for line in fileinput.input(xml_file, inplace=1):
+        if search_expression in line:
+            line = line.replace(search_expression, replace_expression)
+            
+        sys.stdout.write(line)
+        
+replace_all(path_to_file, '<exchange>','<exchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://download.autodesk.com/us/navisworks/schemas/nw-exchange-12.0.xsd">' )
 
 
 
@@ -207,7 +165,6 @@ tree.write('nlsfb_check_neverworks.xml', encoding="utf-8", xml_declaration=True,
     
          
                 
-
 
 
 
